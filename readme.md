@@ -20,8 +20,8 @@ Generate [luma](https://github.com/AuroraWright/Luma3DS) code patches for Flipno
 ### Todo
 
 * Generation of .msbt translation files from .json (in progress)
-* Tweak version strings, https headers, etc (?)
-* Texture repalcements (?)
+* Tweak version strings, http headers, etc (?)
+* Texture replacements (?)
 
 ### Credits
 
