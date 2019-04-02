@@ -26,4 +26,4 @@ Generate [luma](https://github.com/AuroraWright/Luma3DS) code patches for Flipno
 ### Credits
 
 * [Shutterbug2000](https://github.com/shutterbug2000) - Original code patch
-* [Jaames](https://github.com/james) - Japanese region port, Python tooling
+* [Jaames](https://github.com/jaames) - Japanese region port, Python tooling
