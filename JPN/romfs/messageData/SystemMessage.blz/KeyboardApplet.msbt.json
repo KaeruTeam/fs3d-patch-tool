@@ -1,0 +1,38 @@
+{
+  "groups": [
+    [
+      {
+        "label": "KeyboardApplet_Guide_DrawFont",
+        "text": "\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044\n(80\u6587\u5b57\u3001\u6539\u884c10\u56de\u307e\u3067)"
+      },
+      {
+        "label": "KeyboardApplet_TextCheck_NgFolder_Append",
+        "text": "\u000e\u0001\u0002\u0002"
+      },
+      {
+        "label": "KeyboardApplet_TextCheck_NgWord",
+        "text": "\u554f\u984c\u306e\u3042\u308b\u8a9e\u53e5\u3067\u3059\u3002"
+      },
+      {
+        "label": "KeyboardApplet_ButtonText_Cancel",
+        "text": "\u30ad\u30e3\u30f3\u30bb\u30eb"
+      },
+      {
+        "label": "KeyboardApplet_LineOver",
+        "text": "\u6539\u884c\u306f10\u56de\u307e\u3067\u3067\u3059\u3002"
+      },
+      {
+        "label": "KeyboardApplet_TextCheck_NgFolder",
+        "text": "\u30d5\u30a9\u30eb\u30c0\u540d\u306b\u4f7f\u7528\u3067\u304d\u307e\u305b\u3093\u3002"
+      },
+      {
+        "label": "KeyboardApplet_Guide_Browser",
+        "text": ""
+      },
+      {
+        "label": "KeyboardApplet_ButtonText_Ok",
+        "text": "OK"
+      }
+    ]
+  ]
+}

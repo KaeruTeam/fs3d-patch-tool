@@ -1,0 +1,30 @@
+{
+  "groups": [
+    [
+      {
+        "label": "Select_TxtPaintFlip",
+        "text": "Paint swap"
+      },
+      {
+        "label": "Select_TxtCopy",
+        "text": "Copy"
+      },
+      {
+        "label": "Select_TxtOutLine",
+        "text": "Outline"
+      },
+      {
+        "label": "Select_TxtPaint",
+        "text": "Set as \ue011 motif"
+      },
+      {
+        "label": "Select_TxtPaste",
+        "text": "Paste"
+      },
+      {
+        "label": "Select_TxtColorFlip",
+        "text": "Colour swap"
+      }
+    ]
+  ]
+}

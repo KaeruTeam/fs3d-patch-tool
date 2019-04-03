@@ -1,0 +1,14 @@
+{
+  "groups": [
+    [
+      {
+        "label": "MemoryBar_TxtMB",
+        "text": "MB"
+      },
+      {
+        "label": "MemoryBar_TxtMemorySpace",
+        "text": "\u30e1\u30e2\u30ea\u6b8b\u91cf"
+      }
+    ]
+  ]
+}

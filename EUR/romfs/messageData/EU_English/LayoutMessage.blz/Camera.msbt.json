@@ -1,0 +1,34 @@
+{
+  "groups": [
+    [
+      {
+        "label": "Camera_TxtR",
+        "text": "\ue004 / \ue005"
+      },
+      {
+        "label": "Camera_TxtTakeR",
+        "text": "Take"
+      },
+      {
+        "label": "Camera_TxtInCam",
+        "text": "\ue01e"
+      },
+      {
+        "label": "Camera_TxtNext",
+        "text": "\ue07c Next"
+      },
+      {
+        "label": "Camera_TxtClear",
+        "text": "Erase"
+      },
+      {
+        "label": "Camera_TxtOutCam",
+        "text": "\ue01e"
+      },
+      {
+        "label": "Camera_TxtNextL",
+        "text": "\ue042 Next"
+      }
+    ]
+  ]
+}

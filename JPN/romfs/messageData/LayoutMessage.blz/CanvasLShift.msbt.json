@@ -1,0 +1,22 @@
+{
+  "groups": [
+    [
+      {
+        "label": "CanvasLShift_TxtLayerA",
+        "text": "A"
+      },
+      {
+        "label": "CanvasLShift_TxtLayerB",
+        "text": "B"
+      },
+      {
+        "label": "CanvasLShift_TxtLayerC",
+        "text": "C"
+      },
+      {
+        "label": "CanvasLShift_TxtLayerColor",
+        "text": "\u30ec\u30a4\u30e4\u30fc\u307e\u3068\u3081\u30e2\u30fc\u30c9"
+      }
+    ]
+  ]
+}

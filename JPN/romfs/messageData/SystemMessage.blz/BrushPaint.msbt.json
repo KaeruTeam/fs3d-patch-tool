@@ -1,0 +1,22 @@
+{
+  "groups": [
+    [
+      {
+        "label": "BrushPaint_TxtOver",
+        "text": "\u3046\u308f\u304c\u304d\u30da\u30a4\u30f3\u30c8"
+      },
+      {
+        "label": "BrushPaint_TxtNormal",
+        "text": "\u3075\u3064\u3046\u30da\u30a4\u30f3\u30c8"
+      },
+      {
+        "label": "BrushPaint_TxtNormalSelect",
+        "text": "\u3075\u3064\u3046\u30da\u30a4\u30f3\u30c8"
+      },
+      {
+        "label": "BrushPaint_TxtOverSelect",
+        "text": "\u3046\u308f\u304c\u304d\u30da\u30a4\u30f3\u30c8"
+      }
+    ]
+  ]
+}

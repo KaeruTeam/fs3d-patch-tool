@@ -1,0 +1,34 @@
+{
+  "groups": [
+    [
+      {
+        "label": "CameraUpper_TxtNormal",
+        "text": "Normal"
+      },
+      {
+        "label": "CameraUpper_TxtInCamera",
+        "text": "Inner Camera"
+      },
+      {
+        "label": "CameraUpper_TxtBlur",
+        "text": "Blur"
+      },
+      {
+        "label": "CameraUpper_TxtOutCamera",
+        "text": "Outer Cameras"
+      },
+      {
+        "label": "CameraUpper_TxtLine",
+        "text": "Line"
+      },
+      {
+        "label": "CameraUpper_TxtOutCamIcon",
+        "text": "\ue01e"
+      },
+      {
+        "label": "CameraUpper_TxtInCamIcon",
+        "text": "\ue01e"
+      }
+    ]
+  ]
+}

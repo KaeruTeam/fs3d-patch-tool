@@ -1,0 +1,14 @@
+{
+  "groups": [
+    [
+      {
+        "label": "TutorialWatchSpot_TxtMemoDetail",
+        "text": "Details"
+      },
+      {
+        "label": "TutorialWatchSpot_TxtDraw",
+        "text": "Edit"
+      }
+    ]
+  ]
+}

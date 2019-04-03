@@ -15,7 +15,7 @@ Generate [luma](https://github.com/AuroraWright/Luma3DS) code patches for Flipno
 1. Install Python -- all scripts were tested on Python 3.7.1 but should work on 3.5 +
 2. Tweak `config.ini` to your needs, make sure you pay attention to the file comments
 3. Generate the patch by running `python3 generate_patch.py`. This script will create a new `luma` folder which contains your patches.
-4. Drop the `luma` into your 3DS' SD card root, [enable luma's game patching feature](https://github.com/AuroraWright/Luma3DS/wiki/Optional-features) and enjoy your patched version Flipnote Studio 3D!
+4. Drop the `luma` into your 3DS' SD card root, [enable luma's game patching feature](https://github.com/AuroraWright/Luma3DS/wiki/Optional-features) and enjoy your patched version of Flipnote Studio 3D!
 
 ### Todo
 

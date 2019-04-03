@@ -1,0 +1,38 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WindowConfirm_Cinema_Agreement_Ok",
+        "text": ""
+      },
+      {
+        "label": "WindowConfirm_Cinema_Agreement",
+        "text": ""
+      },
+      {
+        "label": "WindowInfo_Contents_Cinema_Agreement",
+        "text": ""
+      },
+      {
+        "label": "WindowConfirm_Theater_Browser_General_Agreement",
+        "text": ""
+      },
+      {
+        "label": "WindowInfo_Title_Cinema_Agreement",
+        "text": ""
+      },
+      {
+        "label": "WindowConfirm_Theater_Browser_General_Agreement_Ok",
+        "text": ""
+      },
+      {
+        "label": "WindowConfirm_Cinema_Browser_Agreement",
+        "text": ""
+      },
+      {
+        "label": "WindowConfirm_Cinema_Browser_Agreement_Ok",
+        "text": ""
+      }
+    ]
+  ]
+}

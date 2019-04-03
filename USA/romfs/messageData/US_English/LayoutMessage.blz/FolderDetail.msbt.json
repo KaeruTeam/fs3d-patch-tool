@@ -1,0 +1,18 @@
+{
+  "groups": [
+    [
+      {
+        "label": "FolderDetail_TxtRename",
+        "text": "Abc"
+      },
+      {
+        "label": "FolderDetail_TxtAllMemo",
+        "text": "Flipnotes"
+      },
+      {
+        "label": "FolderDetail_TxtTrush",
+        "text": "Delete"
+      }
+    ]
+  ]
+}

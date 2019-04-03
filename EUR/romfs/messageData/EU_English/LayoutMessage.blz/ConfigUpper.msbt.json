@@ -1,0 +1,18 @@
+{
+  "groups": [
+    [
+      {
+        "label": "ConfigUpper_TxtNameT",
+        "text": "User Name"
+      },
+      {
+        "label": "ConfigUpper_TxtID",
+        "text": "Flipnote Studio ID"
+      },
+      {
+        "label": "ConfigUpper_TxtSetTitle",
+        "text": "Profile"
+      }
+    ]
+  ]
+}

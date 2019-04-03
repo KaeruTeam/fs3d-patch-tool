@@ -1,0 +1,34 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WindowLock_TxtSubjectA",
+        "text": "Don't Lock"
+      },
+      {
+        "label": "WindowLock_TxtSubjectB",
+        "text": "Lock"
+      },
+      {
+        "label": "WindowLock_TxtGSubjectA",
+        "text": ""
+      },
+      {
+        "label": "WindowLock_TxtCancel",
+        "text": "Cancel"
+      },
+      {
+        "label": "WindowLock_TxtOK",
+        "text": "OK"
+      },
+      {
+        "label": "WindowLock_TxtTSubjectA",
+        "text": "Don't Lock"
+      },
+      {
+        "label": "WindowLock_TxtTSubjectB",
+        "text": "Lock"
+      }
+    ]
+  ]
+}

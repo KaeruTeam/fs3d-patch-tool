@@ -1,0 +1,22 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WatchCanvasBar_TxtPushNaviL_RightAdvanced",
+        "text": ""
+      },
+      {
+        "label": "WatchCanvasBar_TxtPushNaviL_LeftAdvanced",
+        "text": ""
+      },
+      {
+        "label": "WatchCanvasBar_TxtPushNaviL_RightNormal",
+        "text": ""
+      },
+      {
+        "label": "WatchCanvasBar_TxtPushNaviL_LeftNormal",
+        "text": ""
+      }
+    ]
+  ]
+}

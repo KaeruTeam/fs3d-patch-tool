@@ -1,0 +1,34 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WindowBirthday_TxtCancel",
+        "text": ""
+      },
+      {
+        "label": "WindowBirthday_TxtSetTitle",
+        "text": ""
+      },
+      {
+        "label": "WindowBirthday_TxtMonth",
+        "text": ""
+      },
+      {
+        "label": "WindowBirthday_TxtDay",
+        "text": ""
+      },
+      {
+        "label": "WindowBirthday_TxtButton",
+        "text": ""
+      },
+      {
+        "label": "WindowBirthday_TxtYear",
+        "text": ""
+      },
+      {
+        "label": "WindowBirthday_TxtOK",
+        "text": ""
+      }
+    ]
+  ]
+}

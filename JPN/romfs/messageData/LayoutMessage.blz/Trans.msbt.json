@@ -1,0 +1,22 @@
+{
+  "groups": [
+    [
+      {
+        "label": "Trans_TxtReset",
+        "text": "\u30ea\u30bb\u30c3\u30c8"
+      },
+      {
+        "label": "Trans_TxtLayerA",
+        "text": "A"
+      },
+      {
+        "label": "Trans_TxtLayerB",
+        "text": "B"
+      },
+      {
+        "label": "Trans_TxtLayerC",
+        "text": "C"
+      }
+    ]
+  ]
+}

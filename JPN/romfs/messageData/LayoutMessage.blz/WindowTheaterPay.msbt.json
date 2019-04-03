@@ -1,0 +1,30 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WindowTheaterPay_TxtStarCoin",
+        "text": "\u30b9\u30bf\u30fc\u30b3\u30a4\u30f3"
+      },
+      {
+        "label": "WindowTheaterPay_TxtCancel",
+        "text": "\u30ad\u30e3\u30f3\u30bb\u30eb"
+      },
+      {
+        "label": "WindowTheaterPay_TxtCoin",
+        "text": "\u30b3\u30a4\u30f3"
+      },
+      {
+        "label": "WindowTheaterPay_TxtOK",
+        "text": "OK"
+      },
+      {
+        "label": "WindowTheaterPay_TxtSecret",
+        "text": "\u3058\u3076\u3093\u306e\u540d\u524d\u3092\u307f\u3093\u306a\u306b\u6559\u3048\u306a\u3044"
+      },
+      {
+        "label": "WindowTheaterPay_TxtMessage",
+        "text": "\u30b9\u30c6\u30ad\u306a\u30e1\u30e2\u306b\n\u30b3\u30a4\u30f3\u3092\u3064\u3051\u307e\u3057\u3087\u3046\uff01"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "groups": [
+    [
+      {
+        "label": "DrwBar_TxtSave",
+        "text": "\u4fdd\u5b58/\u7d42\u4e86"
+      },
+      {
+        "label": "DrwBar_TxtClear",
+        "text": "\u6d88\u3059"
+      },
+      {
+        "label": "DrwBar_TxtUndo",
+        "text": "\u3068\u308a\u3051\u3057"
+      }
+    ]
+  ]
+}

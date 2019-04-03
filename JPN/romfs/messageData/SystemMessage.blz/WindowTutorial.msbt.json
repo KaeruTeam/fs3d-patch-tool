@@ -1,0 +1,198 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WindowWait_TitleTutorial_SettingResult",
+        "text": "\u4f5c\u8005\u540d\u3084\u5229\u304d\u624b\u306e\u8a2d\u5b9a\u306f\n\u3042\u3068\u304b\u3089\u300c\u8a2d\u5b9a\u300d\u753b\u9762\u3067\n\u5909\u66f4\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002"
+      },
+      {
+        "label": "WindowMessageUpper_SaveTutorial_Save",
+        "text": "\u3053\u3053\u306f\u307e\u3088\u308f\u305a \u300c\u4fdd\u5b58\u3059\u308b\u300d\u3092\n\u307d\u3061\u3063\u3068 \u304a\u3057\u3066\u304f\u3060\u3055\u3044\uff01"
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_End",
+        "text": "\u305d\u308c\u3067\u306f\n\u307e\u305f\u304a\u4f1a\u3044\u3057\u307e\u3057\u3087\u3046\uff01\n\n\u30a2\u30c7\u30a3\u30aa\u30b9 \u30a2\u30df\u30fc\u30b4\uff01"
+      },
+      {
+        "label": "WindowMessageUpper_WatchTutorial_Output",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_StartConfirm_Ok",
+        "text": "\u8aac\u660e\u3092\u805e\u304f"
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_CreatorName_Result",
+        "text": ""
+      },
+      {
+        "label": "WindowMessageUpper_DepthEditTutorial",
+        "text": "\u98db\u51fa\u3057\u5177\u5408\uff083D\uff09\u3092\u8abf\u6574\u3067\u304d\u307e\u3059\n\n\u30da\u30fc\u30b8\u3054\u3068\u306b\u3001\u4e0b\u306e\u30d0\u30fc\u3092\n\u52d5\u304b\u3057\u3066\u307f\u3066\u304f\u3060\u3055\u3044\n\n\u3082\u3069\u308b\u3068\u304d\u306f \ue072\u3067\u3059"
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_SampleMemo_Cancel",
+        "text": "\u3042\u3068\u3067"
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_SuggestMenu",
+        "text": "\u4eca\u3001\u4f7f\u3063\u3066\u3044\u308b\u30da\u30f3\u4ee5\u5916\u306b\u3082\n\u30e1\u30e2\u3092\u66f8\u304f\u305f\u3081\u306e\n\u30d9\u30f3\u30ea\u306a\u9053\u5177\u304c\u3042\u308a\u307e\u3059\u3088"
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_SamepleMemo04_Cancel",
+        "text": ""
+      },
+      {
+        "label": "WindowMessageUpper_DrawTutorial_ExplainMenu_Right",
+        "text": "\u305f\u304f\u3055\u3093\u3001\u9053\u5177\u304c\u3042\u308a\u307e\u3059\u306d\n\u3044\u308d\u3044\u308d\u8a66\u3057\u3066\u307f\u3066\u304f\u3060\u3055\u3044\n\n\u307e\u3088\u3063\u305f\u3089\u3001 \ue079\u306e\u4e0a\u3092\u304a\u3059\u3068\n\u30ad\u30e3\u30f3\u30d0\u30b9\u306b \u3082\u3069\u308c\u307e\u3059"
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_SampleMemo_Ok",
+        "text": "\u30b3\u30d4\u30fc\u3059\u308b"
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_WatchStartConfirm_Cancel",
+        "text": ""
+      },
+      {
+        "label": "WindowMessageUpper_SoundEditTutorial",
+        "text": "\u30de\u30a4\u30af\u3067\u97f3\u58f0\u3092\u9332\u97f3\u3059\u308b\u3068\nBGM\u3084SE\uff08\u52b9\u679c\u97f3\uff09\u3068\u3057\u3066\n\u30e1\u30e2\u306b\u52a0\u3048\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\n\n\u3082\u3069\u308b\u3068\u304d\u306f \ue072\u3067\u3059"
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_End_Next",
+        "text": "OK"
+      },
+      {
+        "label": "WindowMessageUpper_DrawTutorial_SuggestSave",
+        "text": "\u30e1\u30e2\u3092\u66f8\u304d\u7d42\u308f\u3063\u305f\u3089\n\u4e0b\u306b\u3042\u308b\u300c\u4fdd\u5b58/\u7d42\u4e86\u300d\u3092\n\u304a\u3057\u3066\u304f\u3060\u3055\u3044\n\n\u5927\u5207\u306a\u30e1\u30e2\u306f\u3001\u3053\u307e\u3081\u306b\u4fdd\u5b58\u3067\u3059\uff01"
+      },
+      {
+        "label": "WindowMessage_WatchTutorial_Finish",
+        "text": "\u3088\u308d\u3057\u3051\u308c\u3070\u3001\u3054\u53c2\u8003\u307e\u3067\uff01\n\u305d\u308c\u3067\u306f\u3001\u5931\u793c\u3057\u307e\u3057\u305f\n\n\u30a2\u30c7\u30a3\u30aa\u30b9 \u30a2\u30df\u30fc\u30b4\uff01"
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_SamepleMemo01",
+        "text": ""
+      },
+      {
+        "label": "WindowWait_TitleTutorial_HandResultRight",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_SamepleMemo03",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_SamepleMemo04",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_WatchTutorial",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_Manual",
+        "text": "\u308f\u304b\u3089\u306a\u3044\u3053\u3068\u304c\u3042\u3063\u305f\u3089\n\ue073HOME\u30dc\u30bf\u30f3\u3092\u304a\u3057\u3066\n\u300c\u8aac\u660e\u66f8\u300d\u3092\u307f\u3066\u304f\u3060\u3055\u3044"
+      },
+      {
+        "label": "WindowMessageUpper_FlagSequencerTutorial",
+        "text": "\u30bf\u30c3\u30c1\u3057\u3066\u3001\u30d5\u30e9\u30b0\u3092\u305f\u3066\u308b\u3068\n\u9332\u97f3\u3057\u305fSE\uff08\u52b9\u679c\u97f3\uff09\u3092\n\u30da\u30fc\u30b8\u3054\u3068\u306b\u52a0\u3048\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\n\n\u304f\u308f\u3057\u304f\u306f\u300c\u8aac\u660e\u66f8\u300d\u3092\u3054\u3089\u3093\u304f\u3060\u3055\u3044"
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_StartConfirm_Cancel",
+        "text": "\u3044\u3089\u306a\u3044"
+      },
+      {
+        "label": "WindowMessageUpper_DrawTutorial_ExplainMenu_Left",
+        "text": "\u305f\u304f\u3055\u3093\u3001\u9053\u5177\u304c\u3042\u308a\u307e\u3059\u306d\n\u3044\u308d\u3044\u308d\u8a66\u3057\u3066\u307f\u3066\u304f\u3060\u3055\u3044\n\n\u307e\u3088\u3063\u305f\u3089\u3001 \ue002\u3092\u304a\u3059\u3068\n\u30ad\u30e3\u30f3\u30d0\u30b9\u306b \u3082\u3069\u308c\u307e\u3059"
+      },
+      {
+        "label": "WindowMessageUpper_FrameEditTutorial",
+        "text": "\u30e1\u30e2\u3092\u7de8\u96c6\u3067\u304d\u307e\u3059\n\n\u30da\u30fc\u30b8\u3092\u300c\u3064\u3044\u304b\u300d\u3057\u305f\u308a\n\u300c\u30b3\u30d4\u30fc\u300d\u3084\u300c\u306f\u308a\u3064\u3051\u300d\u304c\u3067\u304d\u307e\u3059\u3088\n\n\u3082\u3069\u308b\u3068\u304d\u306f \ue072\u3067\u3059"
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_OpenMenu_Right",
+        "text": "\ue079 \u306e\u4e0a\u3092\u304a\u3057\u3066\u304f\u3060\u3055\u3044\n\u30e1\u30cb\u30e5\u30fc\u304c\u3072\u3089\u304d\u307e\u3059"
+      },
+      {
+        "label": "WindowWait_TitleTutorial_HandResultLeft",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_Welcome01",
+        "text": "\u3053\u3093\u306b\u3061\u306f\n\n\u300c\u3046\u3054\u304f\u30e1\u30e2\u5e33 3D\u300d\u3078\n\u3088\u3046\u3053\u305d\uff01"
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_Welcome02",
+        "text": "\u300c\u3046\u3054\u304f\u30e1\u30e2\u5e33 3D\u300d\u306f\u3001\n\u30d1\u30e9\u30d1\u30e9\u30de\u30f3\u30ac\u3082\u66f8\u3051\u308b\n\u3061\u3087\u3063\u3068\u5909\u308f\u3063\u305f\u30e1\u30e2\u5e33\u3067\u3059\n\n\u307e\u305a\u306f\u3055\u308f\u3063\u3066\u307f\u307e\u3057\u3087\u3046\uff01"
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_Welcome03",
+        "text": "\u3068\u3001\u305d\u306e\u524d\u306b\u2026\n\n\u307b\u3093\u306e\u30c1\u30e7\u30c3\u30c8\u3060\u3051\n\u3042\u306a\u305f\u306e\u30b3\u30c8\u3092\u6559\u3048\u3066\u304f\u3060\u3055\u3044"
+      },
+      {
+        "label": "WindowWait_TitleTutorial_HandSetting",
+        "text": "\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\n\n\u3061\u306a\u307f\u306b\u3001\u30da\u30f3\u3092\u6301\u3064\u624b\u306f\n\u3069\u3061\u3089\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_CreatorName",
+        "text": "\u307e\u305a\u3001\u3042\u306a\u305f\u306e\u540d\u524d\u3092\n\u6559\u3048\u3066\u304f\u3060\u3055\u3044\n\n\u4eca\u5f8c\u3001\u66f8\u3044\u305f\u30e1\u30e2\u306e\n\u300c\u4f5c\u8005\u540d\u300d\u3068\u3057\u3066\u4f7f\u3044\u307e\u3059"
+      },
+      {
+        "label": "WindowMessage_WatchTutorial_TouchMemo",
+        "text": "\u2026\u3061\u3087\u3063\u3068\u304a\u3058\u3083\u307e\u3057\u307e\u3059\uff01\n\n\u30e1\u30e2\u306f\u304d\u3061\u3093\u3068\n\u898b\u3089\u308c\u305f\u307f\u305f\u3044\u3067\u3059\u306d"
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_DrawStartConfirm_Cancel",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_OpenMenu_Left",
+        "text": "\ue002\u3092\u304a\u3057\u3066\u304f\u3060\u3055\u3044\n\u30e1\u30cb\u30e5\u30fc\u304c\u3072\u3089\u304d\u307e\u3059"
+      },
+      {
+        "label": "WindowMessageUpper_SaveTutorial_End",
+        "text": ""
+      },
+      {
+        "label": "WindowMessageUpper_WatchTutorial_TouchMemo",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_CancelConfirm01",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_CancelConfirm02",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_PageChange_Right",
+        "text": "\u306f\u3044\u3063\uff01\n\u305d\u308c\u3067\u306f \u6b21\u306b\u3044\u304d\u307e\u3059\n\n\ue07e \u306e\u5de6\u53f3\u3067\u3001\u30da\u30fc\u30b8\u3092\n\u30da\u30e9\u30da\u30e9\u3081\u304f\u308a\u307e\u3057\u3087\u3046"
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_CancelConfirm04",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_ReConfirm",
+        "text": "\u2026\u672c\u5f53\u306b\u3001\u8aac\u660e\u3092\u3057\u306a\u304f\u3066\n\u3088\u308d\u3057\u3044\u306e\u3067\u3059\u304b\uff1f"
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_SampleMemo",
+        "text": "\u3055\u3044\u3054\u306b\u2026\n\u30b5\u30f3\u30d7\u30eb\u30e1\u30e2\u3092\u304a\u6e21\u3057\u3057\u307e\u3059\u304b\uff1f\n\n\u3042\u3068\u3067\u307b\u3057\u3044\u5834\u5408\u306f\u300c\u8a2d\u5b9a\u300d\u306e\n\u300c\u30b5\u30f3\u30d7\u30eb\u30e1\u30e2\u300d\u304b\u3089\n\u30b3\u30d4\u30fc\u3067\u304d\u307e\u3059"
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_Thanks",
+        "text": "\u308f\u304b\u308a\u307e\u3057\u305f\uff01\n\n\u3054\u5354\u529b\n\u3069\u3046\u3082\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059"
+      },
+      {
+        "label": "WindowMessageUpper_WatchTutorial_Draw",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_Manual",
+        "text": "\u305d\u3046\u3067\u3059\u304b\u2026\u2026\n\n\u3082\u3057\u304a\u56f0\u308a\u306e\u5834\u5408\u306f\n\ue073HOME\u30dc\u30bf\u30f3\u3092\u304a\u3057\u3066\n\u300c\u8aac\u660e\u66f8\u300d\u3092\u3054\u3089\u3093\u304f\u3060\u3055\u3044"
+      }
+    ]
+  ]
+}

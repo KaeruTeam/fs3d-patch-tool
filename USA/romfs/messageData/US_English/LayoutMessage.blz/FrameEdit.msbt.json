@@ -1,0 +1,58 @@
+{
+  "groups": [
+    [
+      {
+        "label": "FrameEdit_TxtCopy",
+        "text": "Copy"
+      },
+      {
+        "label": "FrameEdit_TxtClear",
+        "text": "Cut"
+      },
+      {
+        "label": "FrameEdit_TxtColor",
+        "text": "Use colour settings on all pages"
+      },
+      {
+        "label": "FrameEdit_TxtNew",
+        "text": "Insert"
+      },
+      {
+        "label": "FrameEdit_TxtLPaste",
+        "text": "Paste"
+      },
+      {
+        "label": "FrameEdit_TxtCopyB",
+        "text": "B"
+      },
+      {
+        "label": "FrameEdit_TxtLOver",
+        "text": "Overlay"
+      },
+      {
+        "label": "FrameEdit_TxtClearA",
+        "text": "A"
+      },
+      {
+        "label": "FrameEdit_TxtClearB",
+        "text": "B"
+      },
+      {
+        "label": "FrameEdit_TxtClearC",
+        "text": "C"
+      },
+      {
+        "label": "FrameEdit_TxtLClear",
+        "text": "Cut"
+      },
+      {
+        "label": "FrameEdit_TxtPaste",
+        "text": "Paste"
+      },
+      {
+        "label": "FrameEdit_TxtLCopy",
+        "text": "Copy"
+      }
+    ]
+  ]
+}

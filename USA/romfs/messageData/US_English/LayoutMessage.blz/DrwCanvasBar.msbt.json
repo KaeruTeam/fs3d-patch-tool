@@ -1,0 +1,42 @@
+{
+  "groups": [
+    [
+      {
+        "label": "DrwCanvasBar_TxtPushNaviRP",
+        "text": "\ue079 Back to page    \ue07e Turn page"
+      },
+      {
+        "label": "DrwCanvasBar_TxtNaviL",
+        "text": "\ue002 Menu    \ue003/\ue000 Turn page    \ue001 Play"
+      },
+      {
+        "label": "DrwCanvasBar_TxtNaviR",
+        "text": "\ue079 Menu    \ue07e Turn page    \ue07a Play"
+      },
+      {
+        "label": "DrwCanvasBar_TxtLayerA",
+        "text": "A"
+      },
+      {
+        "label": "DrwCanvasBar_TxtLayerB",
+        "text": "B"
+      },
+      {
+        "label": "DrwCanvasBar_TxtLayerC",
+        "text": "C"
+      },
+      {
+        "label": "DrwCanvasBar_TxtPushNaviLP",
+        "text": "\ue002 Back to page    \ue003/\ue000 Turn page"
+      },
+      {
+        "label": "DrwCanvasBar_TxtPushNaviL",
+        "text": "\ue003 Undo    \ue000 Redo"
+      },
+      {
+        "label": "DrwCanvasBar_TxtPushNaviR",
+        "text": "\ue07b Undo    \ue07c Redo"
+      }
+    ]
+  ]
+}

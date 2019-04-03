@@ -1,0 +1,18 @@
+{
+  "groups": [
+    [
+      {
+        "label": "DrwBar_TxtSave",
+        "text": "Save / Quit"
+      },
+      {
+        "label": "DrwBar_TxtClear",
+        "text": "Erase"
+      },
+      {
+        "label": "DrwBar_TxtUndo",
+        "text": "Undo"
+      }
+    ]
+  ]
+}

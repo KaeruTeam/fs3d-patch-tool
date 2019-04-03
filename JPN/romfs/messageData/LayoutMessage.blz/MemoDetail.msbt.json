@@ -1,0 +1,30 @@
+{
+  "groups": [
+    [
+      {
+        "label": "MemoDetail_TxtOrigin",
+        "text": "\u539f\u4f5c\u8005"
+      },
+      {
+        "label": "MemoDetail_TxtKb",
+        "text": "KB"
+      },
+      {
+        "label": "MemoDetail_TxtCreate",
+        "text": "\u4f5c\u8005"
+      },
+      {
+        "label": "MemoDetail_TxtMemory",
+        "text": "\u6d88\u8cbb\u30e1\u30e2\u30ea"
+      },
+      {
+        "label": "MemoDetail_TxtUpdate",
+        "text": "\u66f4\u65b0\u65e5\u6642"
+      },
+      {
+        "label": "MemoDetail_TxtTrush",
+        "text": "\u524a\u9664\u3059\u308b"
+      }
+    ]
+  ]
+}

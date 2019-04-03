@@ -1,0 +1,18 @@
+{
+  "groups": [
+    [
+      {
+        "label": "ThumbnailFrameEdit_TxtCursorA",
+        "text": "A"
+      },
+      {
+        "label": "ThumbnailFrameEdit_TxtCursorB",
+        "text": "B"
+      },
+      {
+        "label": "ThumbnailFrameEdit_TxtCursorC",
+        "text": "C"
+      }
+    ]
+  ]
+}

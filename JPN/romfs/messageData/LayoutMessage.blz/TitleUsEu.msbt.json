@@ -1,0 +1,38 @@
+{
+  "groups": [
+    [
+      {
+        "label": "TitleUsEu_TxtSlidePage",
+        "text": "12"
+      },
+      {
+        "label": "TitleUsEu_TxtExchange",
+        "text": "\u3053\u3046\u304b\u3093"
+      },
+      {
+        "label": "TitleUsEu_TxtHome",
+        "text": "\ue073\u3092\u304a\u3059\u3068HOME\u30e1\u30cb\u30e5\u30fc\u306b\u3082\u3069\u308a\u307e\u3059"
+      },
+      {
+        "label": "TitleUsEu_TxtWatch",
+        "text": "\u307f\u308b"
+      },
+      {
+        "label": "TitleUsEu_TxtTheater",
+        "text": "DSi \u30b7\u30a2\u30bf\u30fc\u30e9\u30a4\u30d6\u30e9\u30ea\u30fc"
+      },
+      {
+        "label": "TitleUsEu_TxtDraw",
+        "text": "\u304b\u304f"
+      },
+      {
+        "label": "TitleUsEu_TxtSlidePage_00",
+        "text": "21"
+      },
+      {
+        "label": "TitleUsEu_TxtConfig",
+        "text": "\u8a2d\u5b9a"
+      }
+    ]
+  ]
+}

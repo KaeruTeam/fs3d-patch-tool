@@ -1,0 +1,162 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WindowWait_Save_ImageDb_OverNumFolders",
+        "text": "Cannot save because the\nSD card contains too many\nvideo/image folders.\n\nPlease delete any\nunwanted folders in\nNintendo 3DS Camera."
+      },
+      {
+        "label": "WindowWait_AccessResult_CreateFolder_NothingFreeSpace",
+        "text": "There is not enough free space\non the SD card."
+      },
+      {
+        "label": "WindowWait_AccessResult_WriteIconFile",
+        "text": "Saving icon..."
+      },
+      {
+        "label": "WindowWait_AccessResult_DeleteFolder_Success",
+        "text": "Deleting folder..."
+      },
+      {
+        "label": "WindowWait_SaveDataLoadError_Verificate",
+        "text": "The save data is corrupted\nand will be reset."
+      },
+      {
+        "label": "WindowWait_AccessResult_Write_NothingFreeSpace",
+        "text": "Could not save because\nthere is not enough free\nspace on the SD card."
+      },
+      {
+        "label": "WindowWait_Save_WriteGifAviFile_MemoryError",
+        "text": "Cannot save because there\nis not enough free space on\nthe SD card."
+      },
+      {
+        "label": "WindowWait_WarningFullFolder",
+        "text": "All the folders are full, so you\ncannot save any more Flipnotes.\nPlease delete unwanted\nFlipnotes to free up some\nspace."
+      },
+      {
+        "label": "WindowWait_Save_WriteJpeg",
+        "text": "Saving file...\n\nDo not turn off the power\nor remove the SD card."
+      },
+      {
+        "label": "WindowWait_AccessResult_Folder_OverPath",
+        "text": "There is another folder\nwith the same name."
+      },
+      {
+        "label": "WindowWait_AccessResult_InvalidList",
+        "text": "The management file was\ncorrupted and has been\ndeleted."
+      },
+      {
+        "label": "WindowConfirm_Save_OutputConfirmAvi_Ok",
+        "text": "Save"
+      },
+      {
+        "label": "WindowWait_AccessResult_WriteGifAviFile",
+        "text": "Saving file...\n(This may take a while.)\n\nDo not turn off the power\nor remove the SD card."
+      },
+      {
+        "label": "WindowWait_DeleteMemo",
+        "text": "Deleting Flipnote..."
+      },
+      {
+        "label": "WindowWait_AccessResult_WriteMemoFile_OverPath",
+        "text": "This Flipnote cannot be saved\nbecause there is already a\nFlipnote with this filename on\nthe SD card. Try saving the\nFlipnote to a different folder."
+      },
+      {
+        "label": "WindowWait_AccessResult_WriteMemoFile",
+        "text": "Saving Flipnote..."
+      },
+      {
+        "label": "WindowWait_Draw_IllustMode",
+        "text": "This mode allows you to treat\nthree separate layers as one.\n\nUse this when you want to add\ncolour regardless of layer order,\nor when you want to move\nall your layers at once."
+      },
+      {
+        "label": "WindowWait_Config_AllDelete_End",
+        "text": "All Flipnotes and folders\nhave been deleted."
+      },
+      {
+        "label": "WindowWait_AccessResult_Failure",
+        "text": "Could not access the SD card."
+      },
+      {
+        "label": "WindowConfirm_Save_OutputConfirm_Cancel",
+        "text": "Cancel"
+      },
+      {
+        "label": "WindowWait_SaveData_NewCreating",
+        "text": "Creating new save data..."
+      },
+      {
+        "label": "WindowWait_SampleMemoCopy_FolderFull",
+        "text": "The Home folder is full.\n\nSome of the sample Flipnotes\ncould not be copied."
+      },
+      {
+        "label": "WindowWait_AccessResult_WriteGifAviFile_CancelButton",
+        "text": "Cancel"
+      },
+      {
+        "label": "WindowWait_Initialize_Ready",
+        "text": "Preparing..."
+      },
+      {
+        "label": "WindowWait_AccessResult_ReadIconFile_Failure",
+        "text": "The icon cannot be read."
+      },
+      {
+        "label": "WindowInfo_Contents_Lock_TextSet",
+        "text": "Select Lock to prevent other users\nfrom editing your Flipnote.\n\nPlease note that locked Flipnotes may\nstill be re-sent or posted to the internet\nby the receiver or by a third party."
+      },
+      {
+        "label": "WindowConfirm_Save_OutputConfirm",
+        "text": "Saving in this format\nmay take some time.\n\nDo you want to start saving?"
+      },
+      {
+        "label": "WindowWait_DefaultButton",
+        "text": "OK"
+      },
+      {
+        "label": "WindowWait_Save_WriteGifAviFile_MemoryErrorStop",
+        "text": "Could not save all data\nbecause there is not enough\nfree space on the SD card."
+      },
+      {
+        "label": "WindowWait_Initialize_CloseApplication",
+        "text": "Please press \ue073, and\nthen close this software.\n\nIn order to play this software,\nyou must either download\nthe newest version or\nreset the save data."
+      },
+      {
+        "label": "WindowWait_SaveDataLoadError_Failed",
+        "text": "An unexpected error\noccurred while reading\nthe save data."
+      },
+      {
+        "label": "WindowWait_SaveDataWriteError_Failed",
+        "text": "An unexpected error\noccurred while writing\nthe save data."
+      },
+      {
+        "label": "WindowWait_SaveDataWriting",
+        "text": "Saving..."
+      },
+      {
+        "label": "WindowWait_WarningSdCardFreeSpace",
+        "text": "The SD card is\nrunning low on space.\n\nPlease free up some space."
+      },
+      {
+        "label": "WindowWait_AccessResult_MoveMemoFile_OverPath",
+        "text": "The transfer could not be\ncompleted because a Flipnote\nwith the same filename exists\nin the destination folder."
+      },
+      {
+        "label": "WindowWait_AccessResult_WriteMemoOrListFile_NothingFreeSpace",
+        "text": "Could not save Flipnote or\nmanagement file because\nthere is not enough free\nspace on the SD card."
+      },
+      {
+        "label": "WindowWait_Config_AllDelete",
+        "text": "Deleting..."
+      },
+      {
+        "label": "WindowWait_AccessResult_ReadMemoFile_Failure",
+        "text": "Could not read the Flipnote."
+      },
+      {
+        "label": "WindowWait_AccessResult_WriteList",
+        "text": "Saving the management file..."
+      }
+    ]
+  ]
+}

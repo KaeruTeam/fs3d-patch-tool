@@ -1,0 +1,38 @@
+{
+  "groups": [
+    [
+      {
+        "label": "ErrorApplet_Sound_ImportError",
+        "text": "Failed to load data from\nNintendo 3DS Sound."
+      },
+      {
+        "label": "ErrorApplet_CreateSystemFolder_ErrorFailure",
+        "text": "Could not create folder because the\nSD card could not be accessed.\n\nPress \ue073 to return to the HOME Menu."
+      },
+      {
+        "label": "ErrorApplet_Ecdk_RightsDiscordant",
+        "text": ""
+      },
+      {
+        "label": "ErrorApplet_Ecdk_IndicatesServiceNotAvailable",
+        "text": "Cannot access Nintendo eShop.\nPlease wait a while and try again."
+      },
+      {
+        "label": "ErrorApplet_Theater_NetworkError",
+        "text": "Failed to connect to the server."
+      },
+      {
+        "label": "ErrorApplet_AccessSdCard_ErrorFailure",
+        "text": "Could not access the SD card.\n\nPress \ue073 to return to the HOME Menu."
+      },
+      {
+        "label": "ErrorApplet_CreateSystemFolder_ErrorNothingFreeSpace",
+        "text": "Could not create folder because\nthere is not enough free space \non the SD card.\n\nPress \ue073 to return to the HOME Menu."
+      },
+      {
+        "label": "ErrorApplet_Mii_FormattedDataBase",
+        "text": ""
+      }
+    ]
+  ]
+}

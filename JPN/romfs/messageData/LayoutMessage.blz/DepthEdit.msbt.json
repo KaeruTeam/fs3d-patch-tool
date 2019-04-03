@@ -1,0 +1,46 @@
+{
+  "groups": [
+    [
+      {
+        "label": "DepthEdit_TxtLayerA",
+        "text": "A"
+      },
+      {
+        "label": "DepthEdit_TxtLayerB",
+        "text": "B"
+      },
+      {
+        "label": "DepthEdit_TxtLayerC",
+        "text": "C"
+      },
+      {
+        "label": "DepthEdit_TxtBScreen",
+        "text": "B"
+      },
+      {
+        "label": "DepthEdit_TxtReset",
+        "text": "\u30ea\u30bb\u30c3\u30c8"
+      },
+      {
+        "label": "DepthEdit_TxtCenter",
+        "text": "\u771f\u3093\u4e2d\u3078"
+      },
+      {
+        "label": "DepthEdit_TxtInner",
+        "text": "\u5965\u3078"
+      },
+      {
+        "label": "DepthEdit_TxtNear",
+        "text": "\u624b\u524d\u3078"
+      },
+      {
+        "label": "DepthEdit_TxtCScreen",
+        "text": "C"
+      },
+      {
+        "label": "DepthEdit_TxtAScreen",
+        "text": "A"
+      }
+    ]
+  ]
+}
