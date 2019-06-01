@@ -3,7 +3,7 @@
     [
       {
         "label": "SoundSequencer_TxtKey2L",
-        "text": "\ue079"
+        "text": ""
       },
       {
         "label": "SoundSequencer_TxtSE1",
@@ -23,23 +23,23 @@
       },
       {
         "label": "SoundSequencer_TxtKey4L",
-        "text": "\ue04e"
+        "text": ""
       },
       {
         "label": "SoundSequencer_TxtKey1",
-        "text": "\ue000"
+        "text": ""
       },
       {
         "label": "SoundSequencer_TxtKey2",
-        "text": "\ue002"
+        "text": ""
       },
       {
         "label": "SoundSequencer_TxtKey3",
-        "text": "\ue003"
+        "text": ""
       },
       {
         "label": "SoundSequencer_TxtKey4",
-        "text": "\ue079"
+        "text": ""
       },
       {
         "label": "SoundSequencer_TxtPage",
@@ -47,7 +47,7 @@
       },
       {
         "label": "SoundSequencer_TxtKey3L",
-        "text": "\ue07b"
+        "text": ""
       }
     ]
   ]

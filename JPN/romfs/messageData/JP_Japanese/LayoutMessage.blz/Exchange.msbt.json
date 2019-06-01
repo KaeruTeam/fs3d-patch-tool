@@ -1,0 +1,18 @@
+{
+  "groups": [
+    [
+      {
+        "label": "Exchange_TxtSend",
+        "text": "おくる"
+      },
+      {
+        "label": "Exchange_TxtExchange",
+        "text": "ちかくの人とメモの受け渡しができます"
+      },
+      {
+        "label": "Exchange_TxtGet",
+        "text": "うけとる"
+      }
+    ]
+  ]
+}

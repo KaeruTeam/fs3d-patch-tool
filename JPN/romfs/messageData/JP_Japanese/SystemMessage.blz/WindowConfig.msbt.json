@@ -1,0 +1,134 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WindowInfo_Title_Config_PenBox",
+        "text": "ふでばこ"
+      },
+      {
+        "label": "WindowConfirm_Config_Se_A",
+        "text": "ON"
+      },
+      {
+        "label": "WindowConfirm_Config_Se_B",
+        "text": "OFF"
+      },
+      {
+        "label": "WindowInfo_Contents_Config_Delete",
+        "text": "このソフトで作成したメモと\nフォルダのデータをすべて削除します。\n\n（長時間かかる場合があります）"
+      },
+      {
+        "label": "WindowConfirm_Config_Hand_A",
+        "text": "右手"
+      },
+      {
+        "label": "WindowConfirm_Config_Hand_B",
+        "text": "左手"
+      },
+      {
+        "label": "WindowConfirm_Config_AllDelete_Confirm_Ok",
+        "text": "削除する"
+      },
+      {
+        "label": "WindowWait_Config_SampleCopy",
+        "text": "サンプルメモをコピーしています…"
+      },
+      {
+        "label": "WindowConfirm_Config_AllDelete_Ok",
+        "text": "削除する"
+      },
+      {
+        "label": "WindowInfo_Title_Config_Sample",
+        "text": "サンプルメモ"
+      },
+      {
+        "label": "WindowConfirm_Config_PenBox_A",
+        "text": "普通"
+      },
+      {
+        "label": "WindowConfirm_Config_PenBox_B",
+        "text": "上級"
+      },
+      {
+        "label": "WindowInfo_Title_Config_Creator",
+        "text": "作者名"
+      },
+      {
+        "label": "WindowInfo_Contents_Config_PenBox",
+        "text": "メモを書く際に使用する\nパレットの内容を変更します。\n\n「上級」は、3枚のレイヤーが使えます。"
+      },
+      {
+        "label": "WindowInfo_Title_Config_Se",
+        "text": "操作音"
+      },
+      {
+        "label": "WindowConfirm_Config_Sample_Ok",
+        "text": "コピーする"
+      },
+      {
+        "label": "WindowConfirm_Config_Frog_A",
+        "text": "表示"
+      },
+      {
+        "label": "WindowInfo_Contents_Config_Hand",
+        "text": "利き手によって、メモを書く際など\nボタンの設定を変更します。\n\nペンを持つ手を設定してください。"
+      },
+      {
+        "label": "WindowConfirm_Config_Sample",
+        "text": "サンプルメモを\nSDカードにコピーしますか？"
+      },
+      {
+        "label": "WindowConfirm_Config_Sample_Cancel",
+        "text": "キャンセル"
+      },
+      {
+        "label": "WindowInfo_Contents_Config_Sample",
+        "text": "サンプルメモを\nホームフォルダにコピーします。\n\nSDカードの空き容量がないと\nコピーできない場合があります。"
+      },
+      {
+        "label": "WindowConfirm_Config_AllDelete_Confirm_Cancel",
+        "text": "キャンセル"
+      },
+      {
+        "label": "WindowConfirm_Config_AllDelete_Confirm",
+        "text": "本当によろしいですか？\n\n削除したデータは\nもとに戻りません。"
+      },
+      {
+        "label": "WindowInfo_Contents_Config_Creator",
+        "text": "使用する作者名を変更します。\nメモの詳細などに表示されます。"
+      },
+      {
+        "label": "WindowInfo_Contents_Config_Se",
+        "text": "アイコンをタッチした際などに出る\n操作音の有無を変更します。"
+      },
+      {
+        "label": "WindowInfo_Title_Config_Frog",
+        "text": "カエル"
+      },
+      {
+        "label": "WindowInfo_Title_Config_Delete",
+        "text": "データをすべて削除"
+      },
+      {
+        "label": "WindowConfirm_Config_AllDelete",
+        "text": "削除しますか？"
+      },
+      {
+        "label": "WindowInfo_Contents_Config_Frog",
+        "text": "メモを書く際、キャンバスの左下に\n表示されるカエルの表示の有無を\n変更します。"
+      },
+      {
+        "label": "WindowConfirm_Config_Se_Title",
+        "text": "操作音の設定"
+      },
+      {
+        "label": "WindowConfirm_Config_Hand_Title",
+        "text": "利き手の設定"
+      },
+      {
+        "label": "WindowWait_Config_SampleCopy_End",
+        "text": "サンプルメモを\n「みる」のホームフォルダに\nコピーしました。"
+      }
+    ]
+  ]
+}

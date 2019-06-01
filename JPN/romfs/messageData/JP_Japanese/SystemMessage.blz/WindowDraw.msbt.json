@@ -1,0 +1,58 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WindowWait_Draw_LittleMemoryReport",
+        "text": "メモの容量がいっぱいです。\n\nすぐに保存をするか、\nページを削除してください。"
+      },
+      {
+        "label": "WindowConfirm_Draw_TransformConfirm",
+        "text": "変形を反映しますか？\n（長時間かかる場合があります）\n\nなお、この操作は\n元にもどせないことがあります。"
+      },
+      {
+        "label": "WindowConfirm_Draw_EraseAllConfirm_Ok",
+        "text": "すべて消す"
+      },
+      {
+        "label": "WindowConfirm_Draw_EraseAllConfirm_Cancel",
+        "text": "キャンセル"
+      },
+      {
+        "label": "WindowConfirm_Draw_TransformCancelConfirm_Cancel",
+        "text": "キャンセル"
+      },
+      {
+        "label": "WindowConfirm_Draw_TransformCancelConfirm",
+        "text": "変形をやめますか？"
+      },
+      {
+        "label": "WindowWait_Draw_Transforming",
+        "text": "処理しています…"
+      },
+      {
+        "label": "WindowConfirm_Draw_TransformCancelConfirm_Ok",
+        "text": "変形をやめる"
+      },
+      {
+        "label": "WindowConfirm_Draw_TransformConfirm_Cancel",
+        "text": "キャンセル"
+      },
+      {
+        "label": "WindowWait_AccessResult_InvalidSound",
+        "text": "不正なニンテンドー3DS\nサウンドのデータのため、\n取り込みに失敗しました。"
+      },
+      {
+        "label": "WindowConfirm_Draw_EraseAllConfirm",
+        "text": "編集中のメモのページを\nすべて消しますか？\n\n音声や3Dの情報も消えます。"
+      },
+      {
+        "label": "WindowConfirm_Draw_TransformConfirm_Ok",
+        "text": "反映する"
+      },
+      {
+        "label": "WindowWait_Draw_TransformMemoryFull",
+        "text": "メモの容量がいっぱいです。\n\nこれ以上、変形は行えません。"
+      }
+    ]
+  ]
+}

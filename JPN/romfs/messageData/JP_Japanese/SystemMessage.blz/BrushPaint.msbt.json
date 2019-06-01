@@ -1,0 +1,22 @@
+{
+  "groups": [
+    [
+      {
+        "label": "BrushPaint_TxtOver",
+        "text": "うわがきペイント"
+      },
+      {
+        "label": "BrushPaint_TxtNormal",
+        "text": "ふつうペイント"
+      },
+      {
+        "label": "BrushPaint_TxtNormalSelect",
+        "text": "ふつうペイント"
+      },
+      {
+        "label": "BrushPaint_TxtOverSelect",
+        "text": "うわがきペイント"
+      }
+    ]
+  ]
+}

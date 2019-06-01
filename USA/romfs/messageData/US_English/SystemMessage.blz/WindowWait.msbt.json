@@ -119,7 +119,7 @@
       },
       {
         "label": "WindowWait_Initialize_CloseApplication",
-        "text": "Please press \ue073, and\nthen close this software.\n\nIn order to play this software,\nyou must either download\nthe newest version or\nreset the save data."
+        "text": "Please press , and\nthen close this software.\n\nIn order to play this software,\nyou must either download\nthe newest version or\nreset the save data."
       },
       {
         "label": "WindowWait_SaveDataLoadError_Failed",

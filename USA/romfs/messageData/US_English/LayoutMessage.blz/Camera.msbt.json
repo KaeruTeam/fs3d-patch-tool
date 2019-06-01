@@ -3,7 +3,7 @@
     [
       {
         "label": "Camera_TxtR",
-        "text": "\ue004 / \ue005"
+        "text": " / "
       },
       {
         "label": "Camera_TxtTakeR",
@@ -11,11 +11,11 @@
       },
       {
         "label": "Camera_TxtInCam",
-        "text": "\ue01e"
+        "text": ""
       },
       {
         "label": "Camera_TxtNext",
-        "text": "\ue07c Next"
+        "text": " Next"
       },
       {
         "label": "Camera_TxtClear",
@@ -23,11 +23,11 @@
       },
       {
         "label": "Camera_TxtOutCam",
-        "text": "\ue01e"
+        "text": ""
       },
       {
         "label": "Camera_TxtNextL",
-        "text": "\ue042 Next"
+        "text": " Next"
       }
     ]
   ]

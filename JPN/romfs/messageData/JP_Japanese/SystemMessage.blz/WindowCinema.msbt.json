@@ -1,0 +1,38 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WindowConfirm_Cinema_Agreement_Ok",
+        "text": "同意する"
+      },
+      {
+        "label": "WindowConfirm_Cinema_Agreement",
+        "text": "上画面の内容を\n理解したうえでご利用ください。"
+      },
+      {
+        "label": "WindowInfo_Contents_Cinema_Agreement",
+        "text": "送信したメモは受け取った人や\nその他の第三者によって、再送信されたり\nインターネット上に公開されたりする\n可能性があります。\n\n他人の権利を侵害するメモ、不快な内容のメモ、\n個人情報を含む内容や違法な内容のメモは\n送信しないでください。"
+      },
+      {
+        "label": "WindowConfirm_Theater_Browser_General_Agreement",
+        "text": "インターネットブラウザーを起動して\n外部のサイトに接続しますか？"
+      },
+      {
+        "label": "WindowInfo_Title_Cinema_Agreement",
+        "text": "ご利用上の注意"
+      },
+      {
+        "label": "WindowConfirm_Theater_Browser_General_Agreement_Ok",
+        "text": "接続する"
+      },
+      {
+        "label": "WindowConfirm_Cinema_Browser_Agreement",
+        "text": "インターネットブラウザーを起動して\n以下のページに接続しますか？\n\n\u000e\u0001\u0005"
+      },
+      {
+        "label": "WindowConfirm_Cinema_Browser_Agreement_Ok",
+        "text": "接続する"
+      }
+    ]
+  ]
+}

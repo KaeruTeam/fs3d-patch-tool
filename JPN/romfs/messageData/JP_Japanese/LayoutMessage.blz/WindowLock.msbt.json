@@ -1,0 +1,34 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WindowLock_TxtSubjectA",
+        "text": "ロックしない"
+      },
+      {
+        "label": "WindowLock_TxtSubjectB",
+        "text": "ロックする"
+      },
+      {
+        "label": "WindowLock_TxtGSubjectA",
+        "text": ""
+      },
+      {
+        "label": "WindowLock_TxtCancel",
+        "text": "キャンセル"
+      },
+      {
+        "label": "WindowLock_TxtOK",
+        "text": "OK"
+      },
+      {
+        "label": "WindowLock_TxtTSubjectA",
+        "text": "ロックしない"
+      },
+      {
+        "label": "WindowLock_TxtTSubjectB",
+        "text": "ロックする"
+      }
+    ]
+  ]
+}

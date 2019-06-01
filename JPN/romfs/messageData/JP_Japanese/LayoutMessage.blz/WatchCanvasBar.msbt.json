@@ -1,0 +1,18 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WatchCanvasBar_TxtLayerA",
+        "text": "A"
+      },
+      {
+        "label": "WatchCanvasBar_TxtLayerB",
+        "text": "B"
+      },
+      {
+        "label": "WatchCanvasBar_TxtLayerC",
+        "text": "C"
+      }
+    ]
+  ]
+}

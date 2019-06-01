@@ -3,15 +3,15 @@
     [
       {
         "label": "DrwCanvasBar_TxtPushNaviRP",
-        "text": "\ue079 Back to page    \ue07e Turn page"
+        "text": " Back to page     Turn page"
       },
       {
         "label": "DrwCanvasBar_TxtNaviL",
-        "text": "\ue002 Menu    \ue003/\ue000 Turn page    \ue001 Play"
+        "text": " Menu    / Turn page     Play"
       },
       {
         "label": "DrwCanvasBar_TxtNaviR",
-        "text": "\ue079 Menu    \ue07e Turn page    \ue07a Play"
+        "text": " Menu     Turn page     Play"
       },
       {
         "label": "DrwCanvasBar_TxtLayerA",
@@ -27,15 +27,15 @@
       },
       {
         "label": "DrwCanvasBar_TxtPushNaviLP",
-        "text": "\ue002 Back to page    \ue003/\ue000 Turn page"
+        "text": " Back to page    / Turn page"
       },
       {
         "label": "DrwCanvasBar_TxtPushNaviL",
-        "text": "\ue003 Undo    \ue000 Redo"
+        "text": " Undo     Redo"
       },
       {
         "label": "DrwCanvasBar_TxtPushNaviR",
-        "text": "\ue07b Undo    \ue07c Redo"
+        "text": " Undo     Redo"
       }
     ]
   ]

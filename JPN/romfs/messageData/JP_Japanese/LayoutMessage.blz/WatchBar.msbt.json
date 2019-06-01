@@ -1,0 +1,42 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WatchBar_TxtCont",
+        "text": "投稿"
+      },
+      {
+        "label": "WatchBar_TxtFolderDetail",
+        "text": "フォルダ詳細"
+      },
+      {
+        "label": "WatchBar_TxtAllStop",
+        "text": "停止"
+      },
+      {
+        "label": "WatchBar_TxtSend",
+        "text": "おくる"
+      },
+      {
+        "label": "WatchBar_TxtPost",
+        "text": ""
+      },
+      {
+        "label": "WatchBar_TxtMemoDetail",
+        "text": "詳細"
+      },
+      {
+        "label": "WatchBar_TxtDraw",
+        "text": "かく"
+      },
+      {
+        "label": "WatchBar_TxtGet",
+        "text": "うけとる"
+      },
+      {
+        "label": "WatchBar_TxtAllPlay",
+        "text": "すべて再生"
+      }
+    ]
+  ]
+}

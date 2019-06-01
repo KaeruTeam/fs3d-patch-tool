@@ -3,7 +3,7 @@
     [
       {
         "label": "SoundRec_TxtKey2L",
-        "text": "\ue079"
+        "text": ""
       },
       {
         "label": "SoundRec_TxtSE1",
@@ -39,7 +39,7 @@
       },
       {
         "label": "SoundRec_TxtKey1L",
-        "text": "\ue07c"
+        "text": ""
       },
       {
         "label": "SoundRec_TxtSE4RecOn",
@@ -59,19 +59,19 @@
       },
       {
         "label": "SoundRec_TxtKey1",
-        "text": "\ue000"
+        "text": ""
       },
       {
         "label": "SoundRec_TxtKey2",
-        "text": "\ue002"
+        "text": ""
       },
       {
         "label": "SoundRec_TxtKey3",
-        "text": "\ue003"
+        "text": ""
       },
       {
         "label": "SoundRec_TxtKey4",
-        "text": "\ue079"
+        "text": ""
       },
       {
         "label": "SoundRec_TxtBGMRecOn",

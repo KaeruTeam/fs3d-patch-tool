@@ -1,0 +1,46 @@
+{
+  "groups": [
+    [
+      {
+        "label": "Config_TxtAdvancedT",
+        "text": "ふでばこ"
+      },
+      {
+        "label": "Config_TxtSoundT",
+        "text": "操作音"
+      },
+      {
+        "label": "Config_TxtNameT",
+        "text": "作者名"
+      },
+      {
+        "label": "Config_TxtAllClear",
+        "text": "データをすべて削除"
+      },
+      {
+        "label": "Config_TxtSample",
+        "text": "コピー"
+      },
+      {
+        "label": "Config_TxtSampleT",
+        "text": "サンプルメモ"
+      },
+      {
+        "label": "Config_TxtName",
+        "text": "変更する"
+      },
+      {
+        "label": "Config_TxtBirthdayT",
+        "text": ""
+      },
+      {
+        "label": "Config_TxtFrogT",
+        "text": "カエル"
+      },
+      {
+        "label": "Config_TxtHandednessT",
+        "text": "利き手"
+      }
+    ]
+  ]
+}

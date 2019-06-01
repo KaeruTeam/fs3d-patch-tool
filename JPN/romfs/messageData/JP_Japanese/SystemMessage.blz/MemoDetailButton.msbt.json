@@ -1,0 +1,26 @@
+{
+  "groups": [
+    [
+      {
+        "label": "MemoDetail_TxtDraw",
+        "text": "かく"
+      },
+      {
+        "label": "MemoDetail_TxtSend",
+        "text": "おくる"
+      },
+      {
+        "label": "MemoDetail_TxtPost",
+        "text": ""
+      },
+      {
+        "label": "MemoDetail_TxtCont",
+        "text": "投稿"
+      },
+      {
+        "label": "MemoDetail_TxtOutput",
+        "text": "出力する"
+      }
+    ]
+  ]
+}

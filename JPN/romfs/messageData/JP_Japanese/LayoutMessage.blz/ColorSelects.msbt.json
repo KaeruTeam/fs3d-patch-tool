@@ -1,0 +1,70 @@
+{
+  "groups": [
+    [
+      {
+        "label": "ColorSelects_TxtLayerA",
+        "text": "レイヤーA"
+      },
+      {
+        "label": "ColorSelects_TxtLayerB",
+        "text": "レイヤーB"
+      },
+      {
+        "label": "ColorSelects_TxtCL",
+        "text": "C"
+      },
+      {
+        "label": "ColorSelects_TxtMergeBtA",
+        "text": "B+A結合"
+      },
+      {
+        "label": "ColorSelects_TxtMergeBtC",
+        "text": "B+C結合"
+      },
+      {
+        "label": "ColorSelects_TxtA",
+        "text": "A"
+      },
+      {
+        "label": "ColorSelects_TxtB",
+        "text": "B"
+      },
+      {
+        "label": "ColorSelects_TxtC",
+        "text": "C"
+      },
+      {
+        "label": "ColorSelects_TxtMergeA",
+        "text": "A+B+C結合"
+      },
+      {
+        "label": "ColorSelects_TxtMergeB",
+        "text": "A+B+C結合"
+      },
+      {
+        "label": "ColorSelects_TxtMergeC",
+        "text": "A+B+C結合"
+      },
+      {
+        "label": "ColorSelects_TxtMergeCtA",
+        "text": "C+A結合"
+      },
+      {
+        "label": "ColorSelects_TxtMergeCtB",
+        "text": "C+B結合"
+      },
+      {
+        "label": "ColorSelects_TxtMergeAtB",
+        "text": "A+B結合"
+      },
+      {
+        "label": "ColorSelects_TxtMergeAtC",
+        "text": "A+C結合"
+      },
+      {
+        "label": "ColorSelects_TxtAL",
+        "text": "A"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "groups": [
+    [
+      {
+        "label": "ProgramFormat_DateTime",
+        "text": ""
+      },
+      {
+        "label": "ProgramFormat_Date",
+        "text": "yyyy/mm/dd"
+      }
+    ]
+  ]
+}

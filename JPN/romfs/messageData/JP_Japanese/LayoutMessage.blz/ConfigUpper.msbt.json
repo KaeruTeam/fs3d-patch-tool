@@ -1,0 +1,18 @@
+{
+  "groups": [
+    [
+      {
+        "label": "ConfigUpper_TxtNameT",
+        "text": "作者名"
+      },
+      {
+        "label": "ConfigUpper_TxtID",
+        "text": "うごメモID"
+      },
+      {
+        "label": "ConfigUpper_TxtSetTitle",
+        "text": "プロフィール"
+      }
+    ]
+  ]
+}

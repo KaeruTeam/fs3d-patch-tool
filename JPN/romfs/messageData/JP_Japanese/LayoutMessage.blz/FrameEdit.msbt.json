@@ -1,0 +1,58 @@
+{
+  "groups": [
+    [
+      {
+        "label": "FrameEdit_TxtCopy",
+        "text": "コピー"
+      },
+      {
+        "label": "FrameEdit_TxtClear",
+        "text": "さくじょ"
+      },
+      {
+        "label": "FrameEdit_TxtColor",
+        "text": "色の設定を全ページに反映"
+      },
+      {
+        "label": "FrameEdit_TxtNew",
+        "text": "ついか"
+      },
+      {
+        "label": "FrameEdit_TxtLPaste",
+        "text": "はりつけ"
+      },
+      {
+        "label": "FrameEdit_TxtCopyB",
+        "text": "B"
+      },
+      {
+        "label": "FrameEdit_TxtLOver",
+        "text": "重ねばり"
+      },
+      {
+        "label": "FrameEdit_TxtClearA",
+        "text": "A"
+      },
+      {
+        "label": "FrameEdit_TxtClearB",
+        "text": "B"
+      },
+      {
+        "label": "FrameEdit_TxtClearC",
+        "text": "C"
+      },
+      {
+        "label": "FrameEdit_TxtLClear",
+        "text": "さくじょ"
+      },
+      {
+        "label": "FrameEdit_TxtPaste",
+        "text": "はりつけ"
+      },
+      {
+        "label": "FrameEdit_TxtLCopy",
+        "text": "コピー"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "groups": [
+    [
+      {
+        "label": "TitleUsEu_TxtSlidePage",
+        "text": "12"
+      },
+      {
+        "label": "TitleUsEu_TxtExchange",
+        "text": "こうかん"
+      },
+      {
+        "label": "TitleUsEu_TxtHome",
+        "text": "をおすとHOMEメニューにもどります"
+      },
+      {
+        "label": "TitleUsEu_TxtWatch",
+        "text": "みる"
+      },
+      {
+        "label": "TitleUsEu_TxtTheater",
+        "text": "DSi シアターライブラリー"
+      },
+      {
+        "label": "TitleUsEu_TxtDraw",
+        "text": "かく"
+      },
+      {
+        "label": "TitleUsEu_TxtSlidePage_00",
+        "text": "21"
+      },
+      {
+        "label": "TitleUsEu_TxtConfig",
+        "text": "設定"
+      }
+    ]
+  ]
+}

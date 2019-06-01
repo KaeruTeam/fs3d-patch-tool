@@ -7,7 +7,7 @@
       },
       {
         "label": "ErrorApplet_CreateSystemFolder_ErrorFailure",
-        "text": "Could not create folder because the\nSD card could not be accessed.\n\nPress \ue073 to return to the HOME Menu."
+        "text": "Could not create folder because the\nSD card could not be accessed.\n\nPress  to return to the HOME Menu."
       },
       {
         "label": "ErrorApplet_Ecdk_RightsDiscordant",
@@ -23,11 +23,11 @@
       },
       {
         "label": "ErrorApplet_AccessSdCard_ErrorFailure",
-        "text": "Could not access the SD card.\n\nPress \ue073 to return to the HOME Menu."
+        "text": "Could not access the SD card.\n\nPress  to return to the HOME Menu."
       },
       {
         "label": "ErrorApplet_CreateSystemFolder_ErrorNothingFreeSpace",
-        "text": "Could not create folder because\nthere is not enough free space \non the SD card.\n\nPress \ue073 to return to the HOME Menu."
+        "text": "Could not create folder because\nthere is not enough free space \non the SD card.\n\nPress  to return to the HOME Menu."
       },
       {
         "label": "ErrorApplet_Mii_FormattedDataBase",

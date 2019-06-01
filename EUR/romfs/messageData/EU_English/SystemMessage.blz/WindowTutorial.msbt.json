@@ -27,7 +27,7 @@
       },
       {
         "label": "WindowMessageUpper_DepthEditTutorial",
-        "text": "You can adjust the 3D depth here.\n\nTry moving the bar below\nand see what happens.\n\nTouch \ue072 when you're finished."
+        "text": "You can adjust the 3D depth here.\n\nTry moving the bar below\nand see what happens.\n\nTouch  when you're finished."
       },
       {
         "label": "WindowMessage_TitleTutorial_SampleMemo_Cancel",
@@ -43,7 +43,7 @@
       },
       {
         "label": "WindowMessageUpper_DrawTutorial_ExplainMenu_Right",
-        "text": "There are all sorts of tools\nin here. Try them out to see\nwhat they do!\n\nIf you get lost, just press \ue079\nto go back to the page."
+        "text": "There are all sorts of tools\nin here. Try them out to see\nwhat they do!\n\nIf you get lost, just press \nto go back to the page."
       },
       {
         "label": "WindowMessage_TitleTutorial_SampleMemo_Ok",
@@ -55,7 +55,7 @@
       },
       {
         "label": "WindowMessageUpper_SoundEditTutorial",
-        "text": "You can record sound and music\nhere and add them to your Flipnote.\nTouch one of the small red circles\nto record a sound effect, then touch\nAudio Sequencer.\nWhen you're finished, touch \ue072."
+        "text": "You can record sound and music\nhere and add them to your Flipnote.\nTouch one of the small red circles\nto record a sound effect, then touch\nAudio Sequencer.\nWhen you're finished, touch ."
       },
       {
         "label": "WindowMessage_TitleTutorial_End_Next",
@@ -91,7 +91,7 @@
       },
       {
         "label": "WindowMessage_TitleTutorial_Manual",
-        "text": "If you need any help,\npress \ue073 to open the\nHOME Menu, then\nselect Manual."
+        "text": "If you need any help,\npress  to open the\nHOME Menu, then\nselect Manual."
       },
       {
         "label": "WindowMessageUpper_FlagSequencerTutorial",
@@ -103,15 +103,15 @@
       },
       {
         "label": "WindowMessageUpper_DrawTutorial_ExplainMenu_Left",
-        "text": "There are all sorts of tools\nin here. Try them out to see\nwhat they do!\n\nIf you get lost, just press \ue002\nto go back to the page."
+        "text": "There are all sorts of tools\nin here. Try them out to see\nwhat they do!\n\nIf you get lost, just press \nto go back to the page."
       },
       {
         "label": "WindowMessageUpper_FrameEditTutorial",
-        "text": "Here you'll find tools for editing\nthe Flipnote timeline. For instance,\nyou can insert new pages, or copy\nand paste existing ones.\n\nTouch \ue072 when you're finished."
+        "text": "Here you'll find tools for editing\nthe Flipnote timeline. For instance,\nyou can insert new pages, or copy\nand paste existing ones.\n\nTouch  when you're finished."
       },
       {
         "label": "WindowMessage_DrawTutorial_OpenMenu_Right",
-        "text": "Press \ue079 to open the menu."
+        "text": "Press  to open the menu."
       },
       {
         "label": "WindowWait_TitleTutorial_HandResultLeft",
@@ -147,7 +147,7 @@
       },
       {
         "label": "WindowMessage_DrawTutorial_OpenMenu_Left",
-        "text": "Press \ue002 to open the menu."
+        "text": "Press  to open the menu."
       },
       {
         "label": "WindowMessageUpper_SaveTutorial_End",
@@ -167,7 +167,7 @@
       },
       {
         "label": "WindowMessage_DrawTutorial_PageChange_Right",
-        "text": "Nice!\n\nNow then, try using\n\ue07e to turn the pages."
+        "text": "Nice!\n\nNow then, try using\n to turn the pages."
       },
       {
         "label": "WindowMessage_TitleTutorial_CancelConfirm04",
@@ -191,7 +191,7 @@
       },
       {
         "label": "WindowMessage_DrawTutorial_Manual",
-        "text": "Right you are, then!\n\nIf you run into trouble,\npress \ue073 to open the\nHOME Menu, then\nselect Manual."
+        "text": "Right you are, then!\n\nIf you run into trouble,\npress  to open the\nHOME Menu, then\nselect Manual."
       }
     ]
   ]

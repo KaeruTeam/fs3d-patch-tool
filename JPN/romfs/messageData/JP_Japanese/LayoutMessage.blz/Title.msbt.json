@@ -1,0 +1,34 @@
+{
+  "groups": [
+    [
+      {
+        "label": "Title_TxtSlidePage",
+        "text": "121"
+      },
+      {
+        "label": "Title_TxtExchange",
+        "text": "こうかん"
+      },
+      {
+        "label": "Title_TxtSlidePage_00",
+        "text": "211"
+      },
+      {
+        "label": "Title_TxtSlidePage_01",
+        "text": "112"
+      },
+      {
+        "label": "Title_TxtConfig",
+        "text": "設定"
+      },
+      {
+        "label": "Title_TxtDraw",
+        "text": "かく"
+      },
+      {
+        "label": "Title_TxtWatch",
+        "text": "みる"
+      }
+    ]
+  ]
+}
