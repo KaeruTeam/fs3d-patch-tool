@@ -1,4 +1,5 @@
 import struct
+import json
 
 MAGIC = b'MsgStdBn'
 
@@ -83,6 +84,21 @@ class Msbt:
         # get string index
         index = struct.unpack('%sI'%self.endian, buffer.read(4))[0]
         entry.text = strings[index]
+
+  def dump_json(self, path):
+    msbtJson = {
+      'groups': []
+    }
+    for group in self.groups:
+      groupJson = []
+      for entry in group.entries:
+        groupJson.append({
+          'label': entry.label,
+          'text': entry.text
+        })
+      msbtJson['groups'].append(groupJson)
+    with open(path, 'w') as fp:
+      fp.write(json.dumps(msbtJson, ensure_ascii=False, indent=2, sort_keys=True))
 
   def write(self, little_endian=True):
     self.endian = '<' if little_endian else '>'
