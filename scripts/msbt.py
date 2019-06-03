@@ -3,6 +3,40 @@ import json
 
 MAGIC = b'MsgStdBn'
 
+# Format (as used by Flipnote Studio 3D)
+# ======
+# Header
+# - char[8] magic 'MsgStdBn'
+# - uint16 byte order mark (0xFFFE = little endian)
+# - uint16 unknown1 (0)
+# - uint16 unknown2 (769)
+# - uint16 number of sections
+# - uint16 unknown3 (0)
+# - uint32 filesize
+# Section Header
+# - char[4] section type
+# - uint32 section size (this is rounded up to nearest multiple of 0x10 bytes)
+# - null[8] unused / padding
+# LBL1 Section
+# - uint32 number of groups
+# - label groups (8 bytes * number of groups)
+#   - uint32 number of labels - this can ve 0 if the group is empty
+#   - uint32 label offset, relative to the start of this section
+#     if there's more than one label in the group, the 
+# - labels
+#   - uint8 label size
+#   - char[label size] label text
+#   - uint32 string index for TXT2 section
+# TXT2 Section
+# - uint32 number of strings
+# - uint32[number of strings] - string offsets
+# - strings
+#   - UTF-16 string terminated with a single null char (0x0000)
+# ATR1 Section
+# - uint32 number of non-empty groups
+# - uint32 - always 0
+# We don't know what this section does, but it always seems to be 
+
 class MsbtEntry:
   def __init__(self, label='', text=''):
     self.label = label
@@ -27,7 +61,7 @@ class Msbt:
     self.groups.append(group)
     return group
 
-  def read_label(self, buffer, offset):
+  def read_string(self, buffer, offset):
     cur = buffer.tell()
     buffer.seek(offset)
     result = bytes()
@@ -61,61 +95,109 @@ class Msbt:
       elif magic == b'ATR1': atr1_offset = buffer.tell()
       elif magic == b'TXT2': txt2_offset = buffer.tell()
       buffer.seek(padded_size, 1)
-    
+
     strings = []
     buffer.seek(txt2_offset)
     num_strings = struct.unpack('%sI'%self.endian, buffer.read(4))[0]
     for i in range(num_strings):
       offset = struct.unpack('%sI'%self.endian, buffer.read(4))[0]
-      strings.append(self.read_label(buffer, txt2_offset + offset))
+      strings.append(self.read_string(buffer, txt2_offset + offset))
 
-    group = self.add_group()
     buffer.seek(lbl1_offset)
     num_groups = struct.unpack('%sI'%self.endian, buffer.read(4))[0]
     groups = [struct.unpack('%s2I'%self.endian, buffer.read(8)) for i in range(num_groups)]
     for num_labels, offset in groups:
-      if num_labels > 0:
-        entry = group.add_entry()
+      group = self.add_group()
+      buffer.seek(lbl1_offset + offset)
       for i in range(num_labels):
-        buffer.seek(lbl1_offset + offset)
+        entry = group.add_entry()
         # read label
         label_size = ord(buffer.read(1))
         entry.label = buffer.read(label_size).decode('ascii')
         # get string index
-        index = struct.unpack('%sI'%self.endian, buffer.read(4))[0]
-        entry.text = strings[index]
+        string_index = struct.unpack('%sI'%self.endian, buffer.read(4))[0]
+        entry.text = strings[string_index]
 
   def dump_json(self, path):
-    msbtJson = {
-      'groups': []
+    msbt_json = {
+      'groups': [],
     }
     for group in self.groups:
-      groupJson = []
+      group_json = []
       for entry in group.entries:
-        groupJson.append({
+        group_json.append({
           'label': entry.label,
           'text': entry.text
         })
-      msbtJson['groups'].append(groupJson)
+      msbt_json['groups'].append(group_json)
     with open(path, 'w') as fp:
-      fp.write(json.dumps(msbtJson, ensure_ascii=False, indent=2, sort_keys=True))
+      fp.write(json.dumps(msbt_json, ensure_ascii=False, indent=2, sort_keys=True))
 
   def write(self, little_endian=True):
     self.endian = '<' if little_endian else '>'
 
-    label_offsets = []
-    labels = bytes()
-    for group in self.groups:
-      for entry in group.entries:
-        print(entry.label, entry.text)
+    # write txt2 section
+    txt2 = bytes()
+    strings = [entry.text for entry in sum([group.entries for group in self.groups], [])]
+    num_strings = len(strings)
+    # write number of strings
+    txt2 += struct.pack('%sI'%self.endian, num_strings)
+    # write string offsets
+    # string offset is relative to the start of the txt2 section
+    # so we account for the 4-byte num_strings and 4-byte offsets for each string
+    offset = 4 + (num_strings * 4)
+    for string in strings:
+      txt2 += struct.pack('%sI'%self.endian, offset)
+      # strings are 16-bits per char + 2 null bytes
+      offset += (len(string) * 2) + 2
+    # write strings
+    for string in strings:
+      txt2 += string.encode('UTF-16' + 'LE' if self.endian == '<' else 'BE')
+      txt2 += bytes(2)
+    txt2 = self.write_section(b'TXT2', txt2)
 
-    filesize = 30
+    # write atr1 section
+    num_non_empty_groups = 0
+    for group in self.groups:
+      if len(group.entries) > 0:
+        num_non_empty_groups += 1
+    atr1 = self.write_section(b'ATR1', struct.pack('%sII'%self.endian, num_non_empty_groups, 0))
+
+    # write lbl1 section
+    # write number of groups
+    lbl1 = bytes()
+    num_groups = len(self.groups)
+    lbl1 += struct.pack('%sI'%self.endian, num_groups)
+    label_data = bytes()
+    label_offset = 4 + (num_groups * 8)
+    for group in self.groups:
+      # write group
+      lbl1 += struct.pack('%sII'%self.endian, len(group.entries), label_offset)
+      # write group entries
+      for entry in group.entries:
+        # write label size
+        label_size = len(entry.label)
+        label_data += bytes([label_size])
+        # write label
+        label_data += entry.label.encode('ascii')
+        # write string index
+        label_data += struct.pack('%sI'%self.endian, strings.index(entry.text))
+        label_offset += label_size + 5
+    lbl1 += label_data
+    lbl1 = self.write_section(b'LBL1', lbl1)
+
+    filesize = 32 + len(lbl1) + len(atr1) + len(txt2)
+    num_sections = 3
+    # write header
     header = bytes()
     header += struct.pack('>8sH', MAGIC, 0xFFFE if little_endian else 0xFEFF)
     # pack unknown1, unknown2, num sections, unknown3, filesize
-    header += struct.pack('%s4HI'%self.endian, 0, 769, 3, 0, filesize)
+    header += struct.pack('%s4HI'%self.endian, 0, 769, num_sections, 0, filesize)
     header += bytes(10)
+    return header + lbl1 + atr1 + txt2
 
-# with open('./out/WindowTheater.msbt', 'rb') as f:
-#   msbt = Msbt()
-#   msbt.read(f)
+  def write_section(self, section_magic, section_data):
+    section_size = len(section_data)
+    header = struct.pack('%s4sI'%self.endian, section_magic, section_size) + bytes(8)
+    padding_size = (0x10 - (section_size % 0x10)) if section_size % 0x10 != 0 else 0
+    return header + section_data + bytes([0xAB] * padding_size)
