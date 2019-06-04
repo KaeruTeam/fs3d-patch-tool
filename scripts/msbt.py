@@ -56,6 +56,19 @@ class Msbt:
     self.endian = '<'
     self.groups = []
 
+  @classmethod
+  def from_json(cls, path):
+    msbt = cls()
+    with open(path, 'r') as fp:
+      data = json.loads(fp.read())
+    for group in data['groups']:
+      msbt_group = msbt.add_group()
+      for entry in group:
+        msbt_entry = msbt_group.add_entry()
+        msbt_entry.label = entry['label']
+        msbt_entry.text = entry['text']
+    return msbt
+
   def add_group(self):
     group = MsbtGroup()
     self.groups.append(group)

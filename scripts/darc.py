@@ -29,7 +29,7 @@ class Darc:
   
   def save(self, path):
     with open(path, 'wb') as f:
-      f.write(self.write)
+      f.write(self.write())
 
   def read_label(self, buffer, offset):
     cur = buffer.tell()
