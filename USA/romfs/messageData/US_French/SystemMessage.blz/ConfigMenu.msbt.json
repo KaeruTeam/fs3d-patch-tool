@@ -37,7 +37,7 @@
     [
       {
         "label": "ConfigMenu_Hand_Right",
-        "text": "M. droite"
+        "text": "Droite"
       }
     ],
     [],
@@ -79,7 +79,7 @@
     [
       {
         "label": "ConfigMenu_Hand_Left",
-        "text": "M. gauche"
+        "text": "Gauche"
       }
     ],
     [],

@@ -3,19 +3,19 @@
     [
       {
         "label": "WindowWait_TitleTutorial_SettingResult",
-        "text": "Vous pouvez modifier votre\npseudo et choisir la main que\nvous utilisez pour dessiner\ndans le menu des options."
+        "text": "Vous pouvez modifier votre nom\nde créateur et choisir la main que\nvous utilisez pour dessiner dans\nles paramètres."
       }
     ],
     [
       {
         "label": "WindowMessageUpper_SaveTutorial_Save",
-        "text": "Pour ne pas perdre votre travail, \nil vous suffit de toucher le panneau\nSauvegarder sur l'écran tactile."
+        "text": "Pour ne pas perdre votre travail, \nil vous suffit de toucher\nSauvegarder."
       }
     ],
     [
       {
         "label": "WindowMessage_TitleTutorial_End",
-        "text": "Très bien. J'espère que\nvous prendrez plaisir à créer\nd'étonnantes et admirables\nFlipnotes !\n\nAmusez-vous bien !"
+        "text": "Et voilà! J'espère que\nvous prendrez plaisir à créer\nd'étonnantes et admirables\nflipnotes!\n\nAu plaisir!"
       }
     ],
     [],
@@ -44,7 +44,7 @@
     [
       {
         "label": "WindowMessageUpper_DepthEditTutorial",
-        "text": "Ici, vous pouvez ajuster l'effet 3D.\n\nFaites glisser le curseur\nci-dessous et voyez le résultat.\nTouchez  lorsque vous\navez terminé."
+        "text": "Ici, vous pouvez ajuster l'effet 3D.\n\nFaites glisser le curseur ci-dessous\nsur chaque page et voyez le résultat.\n\nTouchez  pour quitter."
       }
     ],
     [],
@@ -60,7 +60,7 @@
     [
       {
         "label": "WindowMessage_DrawTutorial_SuggestMenu",
-        "text": "En plus du crayon, vous\ndisposez d'une panoplie\nd'outils très pratiques pour\ncréer vos Flipnotes."
+        "text": "En plus du crayon, vous\ndisposez d'une panoplie\nd'outils très pratiques pour\ncréer vos flipnotes."
       }
     ],
     [],
@@ -74,7 +74,7 @@
     [
       {
         "label": "WindowMessageUpper_DrawTutorial_ExplainMenu_Right",
-        "text": "Il y a toutes sortes d'outils\nà votre disposition. Je ne\npeux que vous conseiller de\ntous les essayer !\nVous pouvez retourner à la\npage à tout moment avec ."
+        "text": "Il y a toutes sortes d'outils\ndisponibles. Essayez-les\npour voir comment ils\nfonctionnent. Vous pouvez\nretourner à la page blanche\nà tout moment avec ."
       }
     ],
     [
@@ -84,7 +84,7 @@
       },
       {
         "label": "WindowMessage_DrawTutorial_StartDrawing",
-        "text": "Voici une page blanche.\nServez-vous du stylet pour\ny dessiner quelque chose.\n\nEn panne d'inspiration ?\nFaites donc mon portrait !"
+        "text": "Voici une page blanche.\nServez-vous du stylet pour\ny dessiner quelque chose.\n\nEn manque d'inspiration?\nFaites donc mon portrait!"
       }
     ],
     [
@@ -96,7 +96,7 @@
     [
       {
         "label": "WindowMessageUpper_SoundEditTutorial",
-        "text": "Enregistrez ici un fond musical et des\nsons pour votre Flipnote. Touchez un\npetit cercle rouge pour enregistrer un\nson, puis Table de mixage afin de\nl'intégrer à votre Flipnote. Touchez\n lorsque vous avez terminé."
+        "text": "Enregistrez un fond sonore et des\nsons avec le microphone en touchant\nles cercles rouges correspondants,\npuis touchez Table de mixage pour\nintégrer ces différents sons à votre\nflipnote. Touchez  pour quitter."
       },
       {
         "label": "WindowMessageUpper_WatchTutorial_Other",
@@ -119,17 +119,17 @@
     [
       {
         "label": "WindowMessageUpper_DrawTutorial_SuggestSave",
-        "text": "Quand vous en avez fini avec\nvotre Flipnote, touchez\nSauvegarder / Quitter ci-dessous.\n\nN'oubliez pas de sauvegarder votre\ntravail avant de quitter !"
+        "text": "Quand vous en avez fini avec\nvotre flipnote, touchez\nSauvegarder / Quitter ci-dessous.\n\nN'oubliez pas de sauvegarder votre\ntravail avant de quitter!"
       }
     ],
     [
       {
         "label": "WindowMessage_WatchTutorial_Finish",
-        "text": "J'espère que ces conseils\nvous seront utiles !\n\nAmusez-vous bien !"
+        "text": "J'espère que ces conseils\nvous seront utiles!\n\nAmusez-vous bien!"
       },
       {
         "label": "WindowMessage_DrawTutorial_Finish_00",
-        "text": "Voilà, vous savez tout\nà présent sur la création\nde Flipnotes.\n\nJ'espère que mes explications\nétaient assez claires !"
+        "text": "Voilà, vous savez tout\nà présent sur la création\nde flipnotes.\n\nJ'espère que mes explications\nétaient assez claires!"
       }
     ],
     [
@@ -139,7 +139,7 @@
       },
       {
         "label": "WindowMessage_DrawTutorial_Finish_01",
-        "text": "Oh, une dernière chose !\n\nPour retourner au menu\nprincipal, touchez Quitter\nsur l'écran tactile."
+        "text": "Oh, une dernière chose!\n\nPour retourner au menu\nprincipal, touchez Quitter\nsur l'écran tactile."
       }
     ],
     [
@@ -153,11 +153,11 @@
       },
       {
         "label": "WindowMessage_DrawTutorial_Cancel_Finish",
-        "text": "Sur ce, j'espère que vous\nprendrez plaisir à créer\ndes Flipnotes !\n\nAmusez-vous bien !"
+        "text": "Sur ce, j'espère que vous\nprendrez plaisir à créer\ndes flipnotes!\n\nAmusez-vous bien!"
       },
       {
         "label": "WindowMessage_DrawTutorial_Finish_02",
-        "text": "Sur ce, j'espère que vous\nprendrez plaisir à créer\ndes Flipnotes !\n\nAmusez-vous bien !"
+        "text": "Sur ce, j'espère que vous\nprendrez plaisir à créer\ndes flipnotes!\n\nAmusez-vous bien!"
       }
     ],
     [
@@ -208,7 +208,7 @@
     [
       {
         "label": "WindowMessageUpper_DrawTutorial_ExplainMenu_Left",
-        "text": "Il y a toutes sortes d'outils\nà votre disposition. Je ne\npeux que vous conseiller de\ntous les essayer !\nVous pouvez retourner à la\npage à tout moment avec ."
+        "text": "Il y a toutes sortes d'outils\ndisponibles. Essayez-les\npour voir comment ils\nfonctionnent. Vous pouvez\nretourner à la page blanche\nà tout moment avec ."
       }
     ],
     [],
@@ -219,7 +219,7 @@
     [
       {
         "label": "WindowMessageUpper_FrameEditTutorial",
-        "text": "Voici la salle de montage.\nIci, vous pouvez notamment insérer\ndes pages dans vos Flipnotes, ou\nencore copier et coller des pages\nexistantes. Touchez  lorsque\nvous avez terminé."
+        "text": "Ici, modifiez vos flipnotes! Vous\npouvez notamment insérer des\npages dans vos flipnotes, ou\nencore copier et coller des pages\nexistantes.\nTouchez  pour quitter."
       }
     ],
     [
@@ -238,17 +238,17 @@
     [
       {
         "label": "WindowMessage_TitleTutorial_Welcome01",
-        "text": "Bienvenue dans\nFlipnote Studio 3D !"
+        "text": "Bienvenue dans\nFlipnote Studio 3D!"
       },
       {
         "label": "WindowMessage_DrawTutorial_ExplainFrog",
-        "text": "Ah, au fait...\n\nPour ouvrir la boîte à outils,\nvous pouvez également\ntoucher mon icône !"
+        "text": "Ah, au fait...\n\nPour ouvrir la boîte à outils,\nvous pouvez également\ntoucher mon icône à tout\nmoment!"
       }
     ],
     [
       {
         "label": "WindowMessage_TitleTutorial_Welcome02",
-        "text": "Grâce à Flipnote Studio 3D,\nvous pourrez laisser libre\ncours à votre imagination en\ncréant vos propres notes et\nanimations !"
+        "text": "Grâce à Flipnote Studio 3D,\nvous pouvez laisser libre\ncours à votre imagination\nen créant vos propres \nanimations!"
       },
       {
         "label": "WindowMessage_DrawTutorial_ReConfirm_Ok",
@@ -269,7 +269,7 @@
     [
       {
         "label": "WindowWait_TitleTutorial_HandSetting",
-        "text": "Parfait !\n\nMais au fait, dans quelle main\ntenez-vous votre stylet ?"
+        "text": "Parfait!\n\nMais au fait, dans quelle main\ntenez-vous votre stylet?"
       },
       {
         "label": "WindowMessage_TitleTutorial_DrawStartConfirm",
@@ -285,17 +285,17 @@
     [
       {
         "label": "WindowMessage_TitleTutorial_CreatorName",
-        "text": "Veuillez entrer votre pseudo.\n\nCe nom sera associé à\ntoutes les Flipnotes que\nvous allez créer."
+        "text": "Veuillez entrer votre nom.\n\nCe nom de créateur sera\nassocié à toutes les flipnotes\nque vous allez créer."
       },
       {
         "label": "WindowMessage_WatchTutorial_TouchMemo_01",
-        "text": "Touchez Éditer sur l'écran\ntactile pour la modifier, ou\nDétails pour en savoir plus."
+        "text": "Touchez Éditer sur l'écran\ntactile pour modifier la\nflipnote sélectionnée, ou\nDétails pour en savoir plus."
       }
     ],
     [
       {
         "label": "WindowMessage_WatchTutorial_TouchMemo",
-        "text": "Coucou !\n\nJe vois que vous avez\nsélectionné une Flipnote !"
+        "text": "Coucou!\n\nJe vois que vous avez réussi\nà trouver les exemples\nde flipnotes!"
       }
     ],
     [
@@ -331,7 +331,7 @@
       },
       {
         "label": "WindowMessage_DrawTutorial_StartConfirm",
-        "text": "Coâ ! C'est de nouveau moi !\n\nVoulez-vous que je vous\nexplique comment créer\nune Flipnote ?"
+        "text": "Coâ! C'est de nouveau moi!\n\nVoulez-vous que je vous\nexplique comment créer\nune flipnote?"
       }
     ],
     [
@@ -355,7 +355,7 @@
       },
       {
         "label": "WindowMessage_DrawTutorial_PageChange_Left",
-        "text": "Joli !\n\nÀ présent, passez plusieurs\nfois d'une page à l'autre\navec  et ."
+        "text": "Joli!\n\nÀ présent, utilisez / pour\nchanger de page."
       },
       {
         "label": "WindowMessage_DrawTutorial_Cancel_Finish_Next",
@@ -365,7 +365,7 @@
     [
       {
         "label": "WindowMessage_DrawTutorial_PageChange_Right",
-        "text": "Joli !\n\nÀ présent, passez plusieurs\nfois d'une page à l'autre\navec ."
+        "text": "Joli!\n\nÀ présent, utilisez  pour\nchanger de page."
       },
       {
         "label": "WindowMessage_TitleTutorial_CancelConfirm03",
@@ -381,7 +381,7 @@
     [
       {
         "label": "WindowMessage_DrawTutorial_ReConfirm",
-        "text": "Voulez-vous vraiment\npasser ces explications ?"
+        "text": "Si vous passez les\nexplications, vous ne\npourrez plus les voir\npar la suite. Continuer?"
       }
     ],
     [],
@@ -391,7 +391,7 @@
     [
       {
         "label": "WindowMessage_TitleTutorial_SampleMemo",
-        "text": "Enfin, voulez-vous des\nexemples de Flipnotes ?\n\n(Vous pouvez aussi les\ncopier depuis le menu des\noptions à tout moment.)"
+        "text": "Pour finir, aimeriez-vous\nobtenir des exemples\nde flipnotes?\n\nVous pourrez aussi les\ncopier à tout moment\ndepuis les paramètres."
       }
     ],
     [],
@@ -400,7 +400,7 @@
     [
       {
         "label": "WindowMessage_TitleTutorial_Thanks",
-        "text": "C'est noté, merci !"
+        "text": "C'est noté, merci!"
       }
     ],
     [
@@ -413,7 +413,7 @@
     [
       {
         "label": "WindowMessage_DrawTutorial_Manual",
-        "text": "Très bien !\n\nSi vous rencontrez des\ndifficultés, appuyez sur \npour ouvrir le menu HOME\net touchez Aide."
+        "text": "Si vous rencontrez des\ndifficultés, appuyez sur \npour ouvrir le menu HOME\net touchez Aide."
       }
     ],
     []

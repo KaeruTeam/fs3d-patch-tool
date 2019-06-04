@@ -4,7 +4,7 @@
     [
       {
         "label": "WindowWait_Draw_LittleMemoryReport",
-        "text": "Los datos de esta Flipnote han\nalcanzado su tamaño máximo.\n\nGuárdala ya o borra una página."
+        "text": "Esta nota ha alcanzado su\ntamaño máximo. Guárdala\no borra una página."
       }
     ],
     [],
@@ -24,7 +24,7 @@
     [
       {
         "label": "WindowConfirm_Draw_TransformConfirm",
-        "text": "¿Quieres confirmar la\ntransformación? Ten en cuenta\nque es posible que no puedas\ndeshacer estos cambios.\n\nEs posible que esta operación\ntarde un poco."
+        "text": "¿Quieres confirmar la\ntransformación? Ten en cuenta\nque es posible que no puedas\ndeshacer estos cambios.\n\nEs posible que\nla operación tarde un poco."
       }
     ],
     [],
@@ -102,7 +102,7 @@
     [
       {
         "label": "WindowConfirm_Draw_TransformCancelConfirm",
-        "text": "¿Seguro que quieres salir sin\nconfirmar la transformación?"
+        "text": "¿Quieres cancelar la\ntransformación?"
       }
     ],
     [],
@@ -152,7 +152,7 @@
     [
       {
         "label": "WindowConfirm_Draw_EraseAllConfirm",
-        "text": "¿Quieres borrar todas las\npáginas de esta Flipnote?\n\nTambién se borrarán los\nsonidos y los efectos 3D."
+        "text": "¿Quieres borrar todas las\npáginas de esta nota?\n\nTambién se borrarán todos los\nsonidos y los efectos 3D."
       },
       {
         "label": "WindowConfirm_Draw_CameraError",
@@ -168,7 +168,7 @@
     [
       {
         "label": "WindowWait_Draw_TransformMemoryFull",
-        "text": "Los datos de esta Flipnote han\nalcanzado su tamaño máximo.\n\nNo puedes seguir modificándola."
+        "text": "Esta nota ha alcanzado su\ntamaño máximo.\n\nNo puedes seguir\nmodificándola."
       }
     ],
     [],

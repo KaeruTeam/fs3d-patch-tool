@@ -14,7 +14,7 @@
     [
       {
         "label": "WindowWait_Theater_Reboot",
-        "text": "Se ha descargado\nla actualización de\nFlipnote Studio 3D.\n\nSe reiniciará el programa."
+        "text": "Se ha descargado la actualización\nde Flipnote Studio 3D.\n\nSe reiniciará el programa."
       },
       {
         "label": "WindowWait_Theater_QrCode_Read_Failed",
@@ -86,7 +86,7 @@
     [
       {
         "label": "WindowWait_Theater_MemoDownloadError",
-        "text": "Error al descargar la Flipnote."
+        "text": "Error al descargar la nota."
       }
     ],
     [
@@ -99,7 +99,7 @@
     [
       {
         "label": "WindowConfirm_Theater_UpdatePatch",
-        "text": "Para usar la Galería\nNintendo DSi, debes\nactualizar el programa.\n\n¿Quieres descargar\nla actualización ahora?"
+        "text": "Para usar la Biblioteca\nNintendo DSi, debes\nactualizar el programa.\n\n¿Quieres descargar\nla actualización ahora?"
       }
     ],
     [],
@@ -202,7 +202,7 @@
     [
       {
         "label": "WindowWait_Theater_Login",
-        "text": "Estableciendo la conexión\ncon Nintendo Network..."
+        "text": "Conectando a Nintendo Network"
       }
     ],
     [],

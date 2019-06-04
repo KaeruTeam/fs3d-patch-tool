@@ -9,7 +9,7 @@
     [
       {
         "label": "Camera_TxtR",
-        "text": "/"
+        "text": " / "
       }
     ],
     [],
@@ -22,7 +22,7 @@
     [
       {
         "label": "Camera_TxtTakeR",
-        "text": "Hacer foto"
+        "text": "Tomar foto"
       }
     ],
     [],

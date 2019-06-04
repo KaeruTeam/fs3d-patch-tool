@@ -18,7 +18,7 @@
     [
       {
         "label": "WindowWait_AccessResult_WriteIconFile",
-        "text": "Guardando el icono..."
+        "text": "Guardando icono..."
       }
     ],
     [
@@ -35,7 +35,7 @@
       },
       {
         "label": "WindowConfirm_Save_OutputConfirm_Ok",
-        "text": "Aceptar"
+        "text": "Sí"
       }
     ],
     [],
@@ -54,11 +54,11 @@
     [
       {
         "label": "WindowWait_Save_WriteGifAviFile_MemoryError",
-        "text": "No se han podido guardar los\ndatos porque no hay suficiente\nespacio libre en la tarjeta SD."
+        "text": "No se han podido guardar\nlos datos porque la tarjeta\nSD está llena."
       },
       {
         "label": "WindowInfo_Title_Lock_TextSet",
-        "text": "Bloquear Flipnotes"
+        "text": "Bloquear notas"
       }
     ],
     [],
@@ -66,7 +66,7 @@
     [
       {
         "label": "WindowWait_WarningFullFolder",
-        "text": "No se pueden guardar más\nFlipnotes porque todas las\ncarpetas están llenas.\nBorra las Flipnotes que no\nnecesites para liberar espacio."
+        "text": "No se pueden guardar más notas\nporque todas las carpetas están\nllenas. Borra las notas que no\nnecesitas para liberar espacio."
       }
     ],
     [],
@@ -74,19 +74,19 @@
     [
       {
         "label": "WindowWait_Save_WriteJpeg",
-        "text": "Guardando el archivo...\n\nNo apagues la consola ni\nextraigas la tarjeta SD."
+        "text": "Exportando el archivo...\n\nNo apagues la consola ni\nextraigas la tarjeta SD."
       }
     ],
     [
       {
         "label": "WindowWait_AccessResult_Folder_OverPath",
-        "text": "Ya existe una carpeta con\nese nombre."
+        "text": "Ya existe una carpeta con\nel mismo nombre."
       }
     ],
     [
       {
         "label": "WindowWait_AccessResult_InvalidList",
-        "text": "El archivo de gestión\ncontenía datos dañados.\nSe ha creado un nuevo archivo."
+        "text": "El archivo de gestión contenía\ndatos dañados y ha sido\neliminado."
       }
     ],
     [],
@@ -94,29 +94,29 @@
     [
       {
         "label": "WindowConfirm_Save_OutputConfirmAvi_Ok",
-        "text": "Aceptar"
+        "text": "Sí"
       }
     ],
     [
       {
         "label": "WindowWait_AccessResult_WriteGifAviFile",
-        "text": "Guardando el archivo...\n(Es posible que esto tarde\nun poco.)\nNo apagues la consola ni\nextraigas la tarjeta SD."
+        "text": "Exportando el archivo...\n(Este proceso puede tardar\nun poco).\nNo apagues la consola ni\nextraigas la tarjeta SD."
       }
     ],
     [
       {
         "label": "WindowWait_DeleteMemo",
-        "text": "Borrando la Flipnote..."
+        "text": "Borrando la nota..."
       }
     ],
     [
       {
         "label": "WindowWait_AccessResult_WriteMemoFile_OverPath",
-        "text": "No se ha podido guardar la\nFlipnote porque ya existe otra con\nel mismo nombre de archivo en la\ntarjeta SD. Prueba a guardar la\nFlipnote en otra carpeta."
+        "text": "No se ha podido guardar la\nnota porque ya existe otra\ncon el mismo nombre."
       },
       {
         "label": "WindowWait_Initialize_PatchError_CloseApplication",
-        "text": "Se ha producido un error\ny no se puede continuar.\n\nPulsa  para abrir el menú\nHOME y cierra el programa."
+        "text": "Se ha producido un error\ny no se puede continuar.\n\nOprime  para abrir el menú\nHOME y cierra el programa."
       }
     ],
     [],
@@ -125,19 +125,19 @@
     [
       {
         "label": "WindowWait_AccessResult_WriteMemoFile",
-        "text": "Guardando la Flipnote..."
+        "text": "Guardando la nota..."
       }
     ],
     [
       {
         "label": "WindowWait_Draw_IllustMode",
-        "text": "En este modo puedes actuar sobre\nlas tres capas como si fueran una.\n\nPodrás pintar en ellas sin\npreocuparte por el orden\nen que están colocadas\ny moverlas todas a la vez."
+        "text": "En este modo puedes actuar sobre\nlas tres capas como si fueran una.\nLa capa C será la capa base. Al\ncolorear sobre ella, se borrará\nel color en las demás capas.\nTambién permite mover todas\nlas capas a la vez."
       }
     ],
     [
       {
         "label": "WindowWait_Config_AllDelete_End",
-        "text": "Se han borrado todas las Flipnotes\ny todas las carpetas."
+        "text": "Se han borrado todas las notas\ny carpetas."
       }
     ],
     [],
@@ -159,7 +159,7 @@
     [
       {
         "label": "WindowConfirm_Save_OutputConfirm_Cancel",
-        "text": "Cancelar"
+        "text": "No"
       }
     ],
     [
@@ -171,11 +171,11 @@
     [
       {
         "label": "WindowWait_SampleMemoCopy_FolderFull",
-        "text": "La carpeta \"Inicio\" está llena.\n\nNo se han podido copiar algunas\nde las Flipnotes de muestra."
+        "text": "La carpeta Home está llena.\n\nAlgunas de las notas de muestra\nno se han podido copiar."
       },
       {
         "label": "WindowWait_Save_WriteJpeg_Info",
-        "text": "Los datos se han guardado\nen la tarjeta SD.\nPuedes ver la ubicación\nen la pantalla superior."
+        "text": "Los datos se han guardado en\nla tarjeta SD. Puedes ver la\nubicación en la pantalla superior."
       }
     ],
     [
@@ -185,7 +185,7 @@
       },
       {
         "label": "WindowInfo_Contents_Lock_TextSet_plural",
-        "text": "Bloquea las Flipnotes si no quieres\nque otros usuarios las modifiquen.\n\nTen en cuenta que es posible que las\nFlipnotes bloqueadas sean reenviadas\no publicadas en internet por el\ndestinatario o por terceros."
+        "text": "Bloquea las notas para evitar que sean\nmodificadas por otros usuarios.\n\nTen en cuenta que es posible que las\nnotas bloqueadas sean reenviadas o\npublicadas en internet por el\ndestinatario o por terceros."
       }
     ],
     [],
@@ -209,14 +209,14 @@
     [
       {
         "label": "WindowInfo_Contents_Lock_TextSet",
-        "text": "Bloquea la Flipnote si no quieres\nque otros usuarios la modifiquen.\n\nTen en cuenta que es posible que las\nFlipnotes bloqueadas sean reenviadas\no publicadas en internet por el\ndestinatario o por terceros."
+        "text": "Bloquea la nota para evitar que sea\nmodificada por otros usuarios.\n\nTen en cuenta que es posible que las\nnotas bloqueadas sean reenviadas o\npublicadas en internet por el\ndestinatario o por terceros."
       }
     ],
     [],
     [
       {
         "label": "WindowConfirm_Save_OutputConfirm",
-        "text": "Es posible que guardar la\nFlipnote en este formato\ntarde un poco.\n\n¿Quieres empezar a guardar?"
+        "text": "Es posible que exportar la\nnota con este formato tarde\nun poco.\n\n¿Quieres iniciar el proceso?"
       }
     ],
     [
@@ -226,7 +226,7 @@
       },
       {
         "label": "WindowWait_Save_WriteGifAviFile_OverNumImages",
-        "text": "No se puede guardar porque se ha\nalcanzado el límite para imágenes\ny vídeos de la tarjeta SD.\nUsa Cámara de Nintendo 3DS\npara borrar datos innecesarios."
+        "text": "No se puede guardar porque\nse ha alcanzado el límite para\nfotos y videos de la tarjeta SD.\nUsa Cámara de Nintendo 3DS\npara borrar datos innecesarios."
       },
       {
         "label": "WindowConfirm_Save_OutputConfirm_Jpeg_Ok",
@@ -247,7 +247,7 @@
     [
       {
         "label": "WindowWait_Initialize_CloseApplication",
-        "text": "Pulsa  para abrir el menú\nHOME y cierra el programa.\n\nPara poder usar el programa,\ndescarga la última actualización\no borra los datos de guardado."
+        "text": "Oprime  para abrir el menú\nHOME y cierra el programa.\n\nPara poder usar el programa,\ndescarga la última actualización\no borra los datos de guardado."
       }
     ],
     [],
@@ -296,14 +296,14 @@
       },
       {
         "label": "WindowConfirm_Save_OutputConfirm_Jpeg",
-        "text": "¿Quieres guardar esta página\ncomo archivo JPEG?\n\n(Se guardará en la aplicación\nCámara de Nintendo 3DS.)"
+        "text": "¿Quieres exportar esta página\ncomo archivo JPEG?\n\n(Se guardará en la aplicación\nCámara de Nintendo 3DS)."
       }
     ],
     [],
     [
       {
         "label": "WindowWait_AccessResult_MoveMemoFile_OverPath",
-        "text": "No se ha podido completar la\ntransferencia porque ya existe otra\nFlipnote con el mismo nombre de\narchivo en la carpeta de destino."
+        "text": "No se ha podido mover la\nnota porque ya existe otra\ncon el mismo nombre en la\ncarpeta de destino."
       }
     ],
     [],
@@ -314,7 +314,7 @@
     [
       {
         "label": "WindowWait_AccessResult_WriteMemoOrListFile_NothingFreeSpace",
-        "text": "No se ha podido guardar la\nFlipnote o el archivo de gestión\nporque no hay suficiente\nespacio libre en la tarjeta SD."
+        "text": "No se ha podido guardar la\nnota o el archivo de gestión\nporque no hay suficiente\nespacio libre en la tarjeta SD."
       }
     ],
     [
@@ -324,7 +324,7 @@
       },
       {
         "label": "WindowConfirm_Save_OutputConfirmAvi",
-        "text": "Es posible que guardar la\nFlipnote en formato AVI\ntarde un poco.\n¿Quieres empezar a guardar?\n\n(Se guardará en la aplicación\nCámara de Nintendo 3DS.)"
+        "text": "Es posible que exportar la\nnota en formato AVI tarde\nun poco. ¿Quieres comenzar?\n\n(Se exportará a la aplicación\nCámara de Nintendo 3DS)."
       }
     ],
     [],
@@ -336,7 +336,7 @@
     [
       {
         "label": "WindowWait_AccessResult_ReadMemoFile_Failure",
-        "text": "No se ha podido leer la\nFlipnote."
+        "text": "No se ha podido leer la nota."
       }
     ],
     [],

@@ -3,196 +3,419 @@
     [
       {
         "label": "WindowWait_TitleTutorial_SettingResult",
-        "text": "You can change your user\nname or stylus hand any\ntime in the Settings menu."
-      },
+        "text": "You can change your creator\nname or stylus hand later\nin the Settings menu."
+      }
+    ],
+    [
       {
         "label": "WindowMessageUpper_SaveTutorial_Save",
-        "text": "Simply touch Save."
-      },
+        "text": "Simply tap Save."
+      }
+    ],
+    [
       {
         "label": "WindowMessage_TitleTutorial_End",
-        "text": "All right, then. I hope\nyou enjoy creating all\nmanner of weird and\nwonderful Flipnotes.\n\nTa-ta!"
-      },
+        "text": "That's all for now.\nI hope you enjoy creating\nyour own exciting flipnotes!\n\nAdiós, amigo!"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowMessageUpper_WatchTutorial_Output",
         "text": ""
-      },
+      }
+    ],
+    [
       {
         "label": "WindowMessage_DrawTutorial_StartConfirm_Ok",
         "text": "Yes, please"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowMessage_TitleTutorial_CreatorName_Result",
         "text": ""
-      },
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "WindowMessageUpper_DepthEditTutorial",
-        "text": "You can adjust the 3D depth here.\n\nTry moving the bar below\nand see what happens.\n\nTouch  when you're finished."
-      },
+        "text": "You can adjust the 3D depth.\n\nTry moving the bar below for each\npage and see what happens.\n\nTap  to exit."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowMessage_TitleTutorial_SampleMemo_Cancel",
         "text": "Not right now"
-      },
+      }
+    ],
+    [],
+    [
       {
         "label": "WindowMessage_DrawTutorial_SuggestMenu",
-        "text": "In addition to the pencil,\nthere's a host of handy\ntools you can use\nto make Flipnotes."
-      },
+        "text": "In addition to the pen, there\nare other handy tools you\ncan use to make flipnotes."
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "WindowMessage_TitleTutorial_SamepleMemo04_Cancel",
         "text": ""
-      },
+      }
+    ],
+    [
       {
         "label": "WindowMessageUpper_DrawTutorial_ExplainMenu_Right",
-        "text": "There are all sorts of tools\nin here. Try them out to see\nwhat they do!\n\nIf you get lost, just press \nto go back to the page."
-      },
+        "text": "There are all sorts of\ndifferent tools. Try some \nout to see how they work.\n\nIf you get lost, press  to\ngo back to the page."
+      }
+    ],
+    [
       {
         "label": "WindowMessage_TitleTutorial_SampleMemo_Ok",
         "text": "Get samples"
       },
       {
+        "label": "WindowMessage_DrawTutorial_StartDrawing",
+        "text": "Think of the Touch Screen\nas a blank page, and use\nyour stylus to draw\na quick sketch!"
+      }
+    ],
+    [
+      {
         "label": "WindowMessage_TitleTutorial_WatchStartConfirm_Cancel",
         "text": ""
-      },
+      }
+    ],
+    [
       {
         "label": "WindowMessageUpper_SoundEditTutorial",
-        "text": "You can record sound and music\nhere and add them to your Flipnote.\nTouch one of the small red circles\nto record a sound effect, then touch\nAudio Sequencer.\nWhen you're finished, touch ."
+        "text": "You can record sound and music\nhere and add them to your flipnote.\nTap one of the small red circles\nto record a sound effect, and then\ntap Audio Sequencer to continue.\nTap  to exit."
       },
+      {
+        "label": "WindowMessageUpper_WatchTutorial_Other",
+        "text": ""
+      }
+    ],
+    [
       {
         "label": "WindowMessage_TitleTutorial_End_Next",
-        "text": "Finish"
+        "text": "OK"
       },
+      {
+        "label": "WindowMessage_DrawTutorial_Finish_02_Next",
+        "text": "Finish"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowMessageUpper_DrawTutorial_SuggestSave",
-        "text": "When you've finished editing your\nFlipnote, touch Save / Quit below.\n\nYou've worked hard on your\nFlipnote, so be sure to save it!"
-      },
+        "text": "When you are finished working on your\nflipnote, tap Save/Quit below.\n\nYou've worked hard on your\nflipnote, so be sure to save it!"
+      }
+    ],
+    [
       {
         "label": "WindowMessage_WatchTutorial_Finish",
-        "text": "Hope that'll come in handy!\nAll right, then.\n\nTa-ta!"
+        "text": "I hope that'll come in handy!\nThat's all for now.\n\nAdiós, amigo!"
       },
+      {
+        "label": "WindowMessage_DrawTutorial_Finish_00",
+        "text": "That's the end of the flipnote \ncreation tutorial.\n\nHope you got all that!"
+      }
+    ],
+    [
       {
         "label": "WindowMessage_TitleTutorial_SamepleMemo01",
         "text": ""
       },
       {
+        "label": "WindowMessage_DrawTutorial_Finish_01",
+        "text": "Oh, one more thing!\n\nTap the Quit icon at the\nbottom to go back to the \ntitle screen."
+      }
+    ],
+    [
+      {
         "label": "WindowWait_TitleTutorial_HandResultRight",
         "text": ""
       },
       {
-        "label": "WindowMessage_TitleTutorial_SamepleMemo03",
+        "label": "WindowMessage_TitleTutorial_SamepleMemo02",
         "text": ""
       },
+      {
+        "label": "WindowMessage_DrawTutorial_Cancel_Finish",
+        "text": "You should be ready to go!\n\nHave fun making your own\nanimated flipnotes!\n\nAdiós, amigo!\n"
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_Finish_02",
+        "text": "You should be ready to go!\n\nHave fun making your own\nanimated flipnotes!\n\nAdiós, amigo!\n"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_SamepleMemo03",
+        "text": ""
+      }
+    ],
+    [
       {
         "label": "WindowMessage_TitleTutorial_SamepleMemo04",
         "text": ""
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowMessage_WatchTutorial",
         "text": ""
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowMessage_TitleTutorial_Manual",
-        "text": "If you need any help,\npress  to open the\nHOME Menu, then\nselect Manual."
-      },
+        "text": "If you need any help,\npress  to open the\nHOME Menu, and \nthen tap Manual."
+      }
+    ],
+    [
       {
         "label": "WindowMessageUpper_FlagSequencerTutorial",
         "text": "Add a flag to a page to make\na sound effect start playing\non that page.\n\nCheck the manual for details."
-      },
+      }
+    ],
+    [
       {
         "label": "WindowMessage_DrawTutorial_StartConfirm_Cancel",
         "text": "No, thanks"
-      },
+      }
+    ],
+    [],
+    [
       {
         "label": "WindowMessageUpper_DrawTutorial_ExplainMenu_Left",
-        "text": "There are all sorts of tools\nin here. Try them out to see\nwhat they do!\n\nIf you get lost, just press \nto go back to the page."
-      },
+        "text": "There are all sorts of\ndifferent tools. Try them\nout to see how they work.\n\nIf you get lost, press  to\ngo back to the page."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowMessageUpper_FrameEditTutorial",
-        "text": "Here you'll find tools for editing\nthe Flipnote timeline. For instance,\nyou can insert new pages, or copy\nand paste existing ones.\n\nTouch  when you're finished."
-      },
+        "text": "Here you'll find tools for editing\nyour flipnote timeline. For instance,\nyou can add pages or copy and\npaste existing ones.\n\nTap  to exit."
+      }
+    ],
+    [
       {
         "label": "WindowMessage_DrawTutorial_OpenMenu_Right",
-        "text": "Press  to open the menu."
-      },
+        "text": "Press  to open the \ntools menu."
+      }
+    ],
+    [],
+    [
       {
         "label": "WindowWait_TitleTutorial_HandResultLeft",
         "text": ""
-      },
+      }
+    ],
+    [
       {
         "label": "WindowMessage_TitleTutorial_Welcome01",
-        "text": "Welcome to Flipnote\nStudio 3D!"
+        "text": "Welcome to Flipnote Studio 3D!"
       },
+      {
+        "label": "WindowMessage_DrawTutorial_ExplainFrog",
+        "text": "Oh, and by the way...\n\nIf you want to get back to\nthe tools menu, you can\ntap on me anytime."
+      }
+    ],
+    [
       {
         "label": "WindowMessage_TitleTutorial_Welcome02",
-        "text": "Flipnote Studio 3D is a handy\ntool for making fancy notes\nand animated flipbooks.\n\nShall we jump right in?"
+        "text": "Flipnote Studio 3D is a \nunique drawing application \nthat allows you to create \nanimated flip books.\nNow, let's learn more!"
       },
+      {
+        "label": "WindowMessage_DrawTutorial_ReConfirm_Ok",
+        "text": "Yep, I'm sure"
+      }
+    ],
+    [
       {
         "label": "WindowMessage_TitleTutorial_Welcome03",
-        "text": "Now, why don't you tell me\na little bit about yourself?"
-      },
+        "text": "Wait a sec...\n\nBefore we get started, let's \nfind out a bit more about you."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowWait_TitleTutorial_HandSetting",
-        "text": "Excellent!\n\nNow, which hand\ndo you use to write?"
+        "text": "Excellent!\n\nNow, which hand do you use \nto hold the stylus?"
       },
+      {
+        "label": "WindowMessage_TitleTutorial_DrawStartConfirm",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowMessage_TitleTutorial_CreatorName",
-        "text": "First, please enter\nyour name.\n\nWe'll use that as your\nuser name for creating\nFlipnotes."
+        "text": "First, please tell me\nyour name.\nThis will be used as your \ncreator name for \nflipnotes you make."
       },
       {
+        "label": "WindowMessage_WatchTutorial_TouchMemo_01",
+        "text": "Tap Edit to work on a\nflipnote, or tap Details\nto see information about it."
+      }
+    ],
+    [
+      {
         "label": "WindowMessage_WatchTutorial_TouchMemo",
-        "text": "Hey there!\n\nI see you've just\nselected a Flipnote."
-      },
+        "text": "Hey there!\n\nI see you found the \nsample flipnotes!"
+      }
+    ],
+    [
       {
         "label": "WindowMessage_TitleTutorial_DrawStartConfirm_Cancel",
         "text": ""
-      },
+      }
+    ],
+    [],
+    [
       {
         "label": "WindowMessage_DrawTutorial_OpenMenu_Left",
-        "text": "Press  to open the menu."
+        "text": "Press  to open the \ntools menu."
       },
+      {
+        "label": "WindowMessage_TitleTutorial_WatchStartConfirm",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_WatchTutorial_Finish_Next",
+        "text": "Finish"
+      }
+    ],
+    [],
+    [
       {
         "label": "WindowMessageUpper_SaveTutorial_End",
         "text": ""
       },
       {
-        "label": "WindowMessageUpper_WatchTutorial_TouchMemo",
+        "label": "WindowMessageUpper_WatchTutorial_Folder",
         "text": ""
       },
       {
+        "label": "WindowMessage_DrawTutorial_StartConfirm",
+        "text": "Hi again!\n\nWould you like me to explain\nhow to create flipnotes?"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessageUpper_WatchTutorial_TouchMemo",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [
+      {
         "label": "WindowMessage_TitleTutorial_CancelConfirm01",
         "text": ""
-      },
+      }
+    ],
+    [
       {
         "label": "WindowMessage_TitleTutorial_CancelConfirm02",
         "text": ""
       },
       {
-        "label": "WindowMessage_DrawTutorial_PageChange_Right",
-        "text": "Nice!\n\nNow then, try using\n to turn the pages."
+        "label": "WindowMessage_DrawTutorial_PageChange_Left",
+        "text": "OK!\nNext...\n\nPress / to flip the pages."
       },
+      {
+        "label": "WindowMessage_DrawTutorial_Cancel_Finish_Next",
+        "text": "Finish"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_DrawTutorial_PageChange_Right",
+        "text": "Nice!\nMoving on...\n\nPress  to flip the pages."
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_CancelConfirm03",
+        "text": ""
+      }
+    ],
+    [
       {
         "label": "WindowMessage_TitleTutorial_CancelConfirm04",
         "text": ""
-      },
+      }
+    ],
+    [
       {
         "label": "WindowMessage_DrawTutorial_ReConfirm",
-        "text": "Are you sure you want\nto skip this explanation?"
-      },
+        "text": "Are you sure you don't\nwant an explanation?"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowMessage_TitleTutorial_SampleMemo",
-        "text": "Lastly...\nWould you like some\nsample Flipnotes?\n\nYou can also get them at any\ntime using the Settings menu."
-      },
+        "text": "And one more thing...\nWould you like some sample\nflipnotes?\n\nYou can also get them later\nfrom the Settings menu."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowMessage_TitleTutorial_Thanks",
-        "text": "Got it!\n\nThanks a bundle."
-      },
+        "text": "Got it!\n\nThanks a lot."
+      }
+    ],
+    [
       {
         "label": "WindowMessageUpper_WatchTutorial_Draw",
         "text": ""
-      },
+      }
+    ],
+    [],
+    [
       {
         "label": "WindowMessage_DrawTutorial_Manual",
-        "text": "Right you are, then!\n\nIf you run into trouble,\npress  to open the\nHOME Menu, then\nselect Manual."
+        "text": "All righty, then!\n\nIf you run into trouble,\npress  to open the\nHOME Menu, and\nthen tap Manual."
       }
-    ]
+    ],
+    []
   ]
 }

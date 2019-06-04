@@ -37,11 +37,11 @@
     [
       {
         "label": "ErrorApplet_Ecdk_IndicatesServiceNotAvailable",
-        "text": "Impossible d'accéder au Nintendo\neShop.\nRéessayez ultérieurement."
+        "text": "Impossible d'accéder à Nintendo\neShop. Veuillez patienter et\nréessayer ultérieurement."
       },
       {
         "label": "ErrorApplet_Ecdk_SessionInvalid",
-        "text": "La connexion a échoué.\n\nRéessayez ultérieurement."
+        "text": "La connexion a échoué.\nVeuillez patienter et\nréessayer ultérieurement."
       }
     ],
     [],

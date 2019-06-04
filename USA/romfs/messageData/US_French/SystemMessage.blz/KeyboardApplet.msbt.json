@@ -86,7 +86,7 @@
     [
       {
         "label": "KeyboardApplet_LineOver",
-        "text": "Vous ne pouvez pas\nécrire plus de 11 lignes."
+        "text": "Le nombre maximum\nde lignes est 11."
       }
     ],
     [],

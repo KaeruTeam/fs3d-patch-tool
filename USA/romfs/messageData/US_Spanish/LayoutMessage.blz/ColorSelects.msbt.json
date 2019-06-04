@@ -44,14 +44,14 @@
     [
       {
         "label": "ColorSelects_TxtMergeBtA",
-        "text": "Combinar B con A"
+        "text": "Combinar B + A"
       }
     ],
     [],
     [
       {
         "label": "ColorSelects_TxtMergeBtC",
-        "text": "Combinar B con C"
+        "text": "Combinar B + C"
       }
     ],
     [],
@@ -135,13 +135,13 @@
     [
       {
         "label": "ColorSelects_TxtMergeCtA",
-        "text": "Combinar C con A"
+        "text": "Combinar C + A"
       }
     ],
     [
       {
         "label": "ColorSelects_TxtMergeCtB",
-        "text": "Combinar C con B"
+        "text": "Combinar C + B"
       }
     ],
     [],
@@ -153,13 +153,13 @@
     [
       {
         "label": "ColorSelects_TxtMergeAtB",
-        "text": "Combinar A con B"
+        "text": "Combinar A + B"
       }
     ],
     [
       {
         "label": "ColorSelects_TxtMergeAtC",
-        "text": "Combinar A con C"
+        "text": "Combinar A + C"
       }
     ],
     [],

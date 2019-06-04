@@ -87,7 +87,7 @@
     [
       {
         "label": "WindowLock_TxtCancel",
-        "text": "Cancelar"
+        "text": "No"
       },
       {
         "label": "WindowLock_TxtGSubjectB",
@@ -99,7 +99,7 @@
     [
       {
         "label": "WindowLock_TxtOK",
-        "text": "Aceptar"
+        "text": "Sí"
       }
     ],
     [

@@ -87,14 +87,14 @@
     [
       {
         "label": "DepthEdit_TxtCenter",
-        "text": "Tout au plan interméd."
+        "text": "Placer au centre"
       }
     ],
     [],
     [
       {
         "label": "DepthEdit_TxtInner",
-        "text": "Tout à l'arrière-plan"
+        "text": "Placer à l'arrière-plan"
       }
     ],
     [],
@@ -112,7 +112,7 @@
     [
       {
         "label": "DepthEdit_TxtNear",
-        "text": "Tout au premier plan"
+        "text": "Placer au premier plan"
       }
     ],
     [],

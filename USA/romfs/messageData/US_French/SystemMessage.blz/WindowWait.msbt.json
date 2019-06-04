@@ -45,7 +45,7 @@
     [
       {
         "label": "WindowWait_AccessResult_Write_NothingFreeSpace",
-        "text": "Sauvegarde impossible.\nEspace libre insuffisant\nsur la carte SD."
+        "text": "Sauvegarde impossible.\nPas assez d'espace libre\nsur la carte SD."
       }
     ],
     [],
@@ -54,7 +54,7 @@
     [
       {
         "label": "WindowWait_Save_WriteGifAviFile_MemoryError",
-        "text": "Sauvegarde impossible.\nEspace libre insuffisant\nsur la carte SD."
+        "text": "Sauvegarde impossible.\nPas assez d'espace libre\nsur la carte SD."
       },
       {
         "label": "WindowInfo_Title_Lock_TextSet",
@@ -66,7 +66,7 @@
     [
       {
         "label": "WindowWait_WarningFullFolder",
-        "text": "Tous les dossiers sont pleins,\nvous ne pouvez donc pas\nsauvegarder d'autre Flipnote.\nVeuillez effacer des Flipnotes\npour libérer de l'espace."
+        "text": "Tous les dossiers sont pleins,\nvous ne pouvez donc pas\nsauvegarder d'autres flipnotes.\nVeuillez supprimer des flipnotes\npour libérer de l'espace."
       }
     ],
     [],
@@ -86,7 +86,7 @@
     [
       {
         "label": "WindowWait_AccessResult_InvalidList",
-        "text": "Le fichier de gestion était\ncorrompu et a été effacé."
+        "text": "Le fichier de gestion était\ncorrompu et a été supprimé."
       }
     ],
     [],
@@ -106,13 +106,13 @@
     [
       {
         "label": "WindowWait_DeleteMemo",
-        "text": "Effacement de la Flipnote..."
+        "text": "Suppression de la flipnote..."
       }
     ],
     [
       {
         "label": "WindowWait_AccessResult_WriteMemoFile_OverPath",
-        "text": "Impossible de sauvegarder cette\nFlipnote car il existe déjà un\nfichier Flipnote portant le même\nnom sur la carte SD. Essayez\nd'effectuer la sauvegarde dans\nun autre dossier."
+        "text": "Cette flipnote ne peut pas être\nsauvegardée, car il existe déjà\nune flipnote portant le même\nnom."
       },
       {
         "label": "WindowWait_Initialize_PatchError_CloseApplication",
@@ -125,19 +125,19 @@
     [
       {
         "label": "WindowWait_AccessResult_WriteMemoFile",
-        "text": "Sauvegarde de la Flipnote..."
+        "text": "Sauvegarde en cours..."
       }
     ],
     [
       {
         "label": "WindowWait_Draw_IllustMode",
-        "text": "Sélectionnez ce mode pour\ntravailler sur le dessin comme\nsi les trois calques n'en\nformaient qu'un seul.\nVous pouvez ainsi modifier le\ndessin ou le déplacer sans tenir\ncompte de l'ordre des calques."
+        "text": "Ce mode permet de travailler\ncomme s'il n'y avait qu'un\ncalque. Le calque C est le\ncalque principal et dessiner\ndessus efface les couleurs des\nautres calques. Vous pouvez\naussi déplacer les trois à la fois."
       }
     ],
     [
       {
         "label": "WindowWait_Config_AllDelete_End",
-        "text": "Toutes les Flipnotes et tous\nles dossiers ont été effacés."
+        "text": "Toutes les flipnotes et tous\nles dossiers ont été effacés."
       }
     ],
     [],
@@ -171,7 +171,7 @@
     [
       {
         "label": "WindowWait_SampleMemoCopy_FolderFull",
-        "text": "Le dossier Home est plein.\n\nDes exemples de Flipnotes\nn'ont pas pu être copiés."
+        "text": "Le dossier Home est plein.\n\nDes exemples de flipnotes\nn'ont pas pu être copiés."
       },
       {
         "label": "WindowWait_Save_WriteJpeg_Info",
@@ -185,7 +185,7 @@
       },
       {
         "label": "WindowInfo_Contents_Lock_TextSet_plural",
-        "text": "Verrouiller vos Flipnotes empêchera les\nautres utilisateurs de les éditer.\n\nCependant, les Flipnotes verrouillées\npeuvent toujours être renvoyées ou\npubliées sur Internet par le destinataire\nou par un tiers."
+        "text": "Verrouiller vos flipnotes empêchera les\nautres utilisateurs de les éditer.\nCependant, les flipnotes verrouillées\npeuvent toujours être renvoyées ou\npubliées sur Internet par le destinataire\nou par un tiers."
       }
     ],
     [],
@@ -209,14 +209,14 @@
     [
       {
         "label": "WindowInfo_Contents_Lock_TextSet",
-        "text": "Verrouiller votre Flipnote empêchera les\nautres utilisateurs de l'éditer.\n\nCependant, les Flipnotes verrouillées\npeuvent toujours être renvoyées ou\npubliées sur Internet par le destinataire\nou un tiers."
+        "text": "Verrouiller votre flipnote empêchera les\nautres utilisateurs de l'éditer.\n\nCependant, les flipnotes verrouillées\npeuvent toujours être renvoyées ou\npubliées sur Internet par le destinataire\nou par un tiers."
       }
     ],
     [],
     [
       {
         "label": "WindowConfirm_Save_OutputConfirm",
-        "text": "La sauvegarde dans ce format\npeut prendre un certain temps.\n\nCommencer l'opération ?"
+        "text": "La sauvegarde dans ce format\npeut prendre un certain temps.\n\nCommencer l'opération?"
       }
     ],
     [
@@ -226,7 +226,7 @@
       },
       {
         "label": "WindowWait_Save_WriteGifAviFile_OverNumImages",
-        "text": "Sauvegarde impossible.\nLa carte SD contient trop\nd'images ou de vidéos.\nUtilisez l'appareil photo\nNintendo 3DS afin d'en\neffacer et de libérer de\nl'espace."
+        "text": "Sauvegarde impossible. La carte\nSD contient trop de photos et/ou\nde vidéos. Utilisez l'appareil photo\nNintendo 3DS afin d'en effacer et\nde libérer de l'espace."
       },
       {
         "label": "WindowConfirm_Save_OutputConfirm_Jpeg_Ok",
@@ -247,7 +247,7 @@
     [
       {
         "label": "WindowWait_Initialize_CloseApplication",
-        "text": "Appuyez sur ,\npuis quittez le logiciel.\nPour pouvoir être utilisé, ce\nlogiciel doit être mis à jour, ou\nses données de sauvegarde\ndoivent être réinitialisées."
+        "text": "Appuyez sur , puis quittez le\nlogiciel.\nPour pouvoir être utilisé, ce\nlogiciel doit être mis à jour, ou\nses données de sauvegarde\ndoivent être réinitialisées."
       }
     ],
     [],
@@ -296,14 +296,14 @@
       },
       {
         "label": "WindowConfirm_Save_OutputConfirm_Jpeg",
-        "text": "Sauvegarder la page\nau format JPEG ?\n\nNote : le fichier sera\nsauvegardé dans l'appareil\nphoto Nintendo 3DS."
+        "text": "Sauvegarder la page\nau format JPEG?\n\nNote : Le fichier sera\nsauvegardé dans l'appareil\nphoto Nintendo 3DS."
       }
     ],
     [],
     [
       {
         "label": "WindowWait_AccessResult_MoveMemoFile_OverPath",
-        "text": "Le déplacement a été\ninterrompu car il existe déjà\nun fichier Flipnote portant le\nmême nom dans le dossier\nde destination."
+        "text": "Cette flipnote ne peut pas être\ndéplacée, car il existe déjà une\nflipnote portant le même nom\ndans le dossier de destination."
       }
     ],
     [],
@@ -314,17 +314,17 @@
     [
       {
         "label": "WindowWait_AccessResult_WriteMemoOrListFile_NothingFreeSpace",
-        "text": "Sauvegarde de la Flipnote ou\ndu fichier de gestion impossible.\nEspace libre insuffisant\nsur la carte SD."
+        "text": "Sauvegarde de la flipnote ou\ndu fichier de gestion impossible.\nEspace libre insuffisant\nsur la carte SD."
       }
     ],
     [
       {
         "label": "WindowWait_Config_AllDelete",
-        "text": "Effacement des données..."
+        "text": "Suppression des données..."
       },
       {
         "label": "WindowConfirm_Save_OutputConfirmAvi",
-        "text": "La sauvegarde au format AVI\npeut prendre un certain temps.\nCommencer l'opération ?\n\nNote : le fichier sera\nsauvegardé dans l'appareil\nphoto Nintendo 3DS."
+        "text": "La sauvegarde au format AVI\npeut prendre un certain temps.\nCommencer l'opération?\n\nNote : Le fichier sera\nsauvegardé dans l'appareil\nphoto Nintendo 3DS."
       }
     ],
     [],
@@ -336,7 +336,7 @@
     [
       {
         "label": "WindowWait_AccessResult_ReadMemoFile_Failure",
-        "text": "Impossible de lire la Flipnote."
+        "text": "Impossible de lire la flipnote."
       }
     ],
     [],

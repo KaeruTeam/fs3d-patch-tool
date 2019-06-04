@@ -11,11 +11,11 @@
       },
       {
         "label": "WindowWait_MemoExchange_Send_Failure",
-        "text": "No se ha podido enviar\nla Flipnote."
+        "text": "No se ha podido enviar\nla nota."
       },
       {
         "label": "ExchangeUpper_TxtSetContents_Wait",
-        "text": "Espera unos instantes..."
+        "text": "Espera..."
       }
     ],
     [],
@@ -26,7 +26,7 @@
     [
       {
         "label": "WindowInfo_Title_Exchange_Top",
-        "text": "Intercambiar Flipnotes"
+        "text": "Intercambiar notas"
       },
       {
         "label": "WindowConfirm_MemoExchange_Connect_Cancel",
@@ -46,7 +46,7 @@
     [
       {
         "label": "WindowConfirm_MemoExchange_Disconnect",
-        "text": "¿Seguro que quieres\ndesconectarte del otro usuario?"
+        "text": "¿Seguro que quieres interrumpir\nla conexión con el otro usuario?"
       }
     ],
     [
@@ -70,7 +70,7 @@
     [
       {
         "label": "WindowConfirm_MemoExchange_Agreement_Ok",
-        "text": "Aceptar"
+        "text": "Acepto"
       }
     ],
     [],
@@ -79,7 +79,7 @@
     [
       {
         "label": "WindowWait_MemoExchange_Receive_Failure",
-        "text": "No se ha podido recibir\nla Flipnote."
+        "text": "No se ha podido recibir\nla nota."
       }
     ],
     [
@@ -89,7 +89,7 @@
       },
       {
         "label": "ExchangeUpper_TxtSetContents_Send_L",
-        "text": "Elige una Flipnote y toca \"Enviar\".\nMantén pulsado el botón R para\nseleccionar varias Flipnotes."
+        "text": "Elige una nota y toca \"Enviar\".\nMantén oprimido el botón R para\nseleccionar varias notas."
       }
     ],
     [],
@@ -100,7 +100,7 @@
     [
       {
         "label": "WindowWait_MemoExchange_ReturnTopmenu_Wait",
-        "text": "Espera unos instantes..."
+        "text": "Espera..."
       }
     ],
     [],
@@ -134,7 +134,7 @@
     [
       {
         "label": "ExchangeUpper_TxtSetTitle_Send",
-        "text": "Enviar Flipnotes"
+        "text": "Enviar notas"
       }
     ],
     [],
@@ -142,7 +142,7 @@
     [
       {
         "label": "WindowWait_MemoExchange_Receive_Success_plural",
-        "text": "Se han guardado las Flipnotes."
+        "text": "Se han guardado las notas."
       }
     ],
     [],
@@ -151,7 +151,7 @@
     [
       {
         "label": "WindowInfo_Contents_Exchange_Agreement",
-        "text": "No envíes Flipnotes ilegales, ofensivas o\nque puedan vulnerar los derechos de\notros. Al enviar una Flipnote, confirmas\nque has obtenido todos los derechos\nnecesarios de terceras partes. Además,\ntambién aceptas que las Flipnotes que no\nbloquees podrán ser editadas, publicadas\nen internet o compartidas de nuevo con\nterceras partes."
+        "text": "No envíes notas ilegales, ofensivas o que\npuedan infringir los derechos de otros.\nAl enviar una nota, confirmas que has\nobtenido todos los derechos necesarios\nde terceras partes. Además, comprendes\ny aceptas que las notas que no bloquees\npodrán ser editadas, publicadas en\ninternet o compartidas de nuevo con\nterceras partes."
       },
       {
         "label": "WindowWait_MemoExchange_Receive_CancelButton",
@@ -161,13 +161,13 @@
     [
       {
         "label": "WindowWait_MemoExchange_PreReceive",
-        "text": "Recibiendo...\n(Es posible que esto tarde\nun poco.)"
+        "text": "Recibiendo y guardando...\n(Este proceso puede tardar\nun poco)."
       }
     ],
     [
       {
         "label": "ExchangeUpper_TxtSetContents_Send",
-        "text": "Elige una Flipnote y toca \"Enviar\".\nMantén pulsado el botón L para\nseleccionar varias Flipnotes."
+        "text": "Elige una nota y toca \"Enviar\".\nMantén oprimido el botón L para\nseleccionar varias notas."
       }
     ],
     [],
@@ -185,7 +185,7 @@
     [
       {
         "label": "WindowWait_MemoExchange_Receive_Failure_plural",
-        "text": "No se han podido recibir\nlas Flipnotes."
+        "text": "No se han podido recibir\nlas notas."
       }
     ],
     [
@@ -219,7 +219,7 @@
     [
       {
         "label": "WindowWait_MemoExchange_Send_Success_plural",
-        "text": "Se han enviado las Flipnotes."
+        "text": "Se han enviado las notas."
       }
     ],
     [],
@@ -232,7 +232,7 @@
       },
       {
         "label": "WindowWait_MemoExchange_Send_Success",
-        "text": "Se ha enviado la Flipnote."
+        "text": "Se ha enviado la nota."
       }
     ],
     [],
@@ -243,7 +243,7 @@
     [
       {
         "label": "WindowWait_MemoExchange_Send_Failure_plural",
-        "text": "No se han podido enviar\nlas Flipnotes."
+        "text": "No se han podido enviar\nlas notas."
       }
     ],
     [],
@@ -253,20 +253,20 @@
     [
       {
         "label": "ExchangeUpper_TxtSetTitle_Receive",
-        "text": "Recibir Flipnotes"
+        "text": "Recibir notas"
       }
     ],
     [
       {
         "label": "WindowWait_MemoExchange_Send",
-        "text": "Enviando Flipnote \u000e\u0001"
+        "text": "Enviando...\n(Este proceso puede tardar\nun poco).\n\u000e\u0001"
       }
     ],
     [],
     [
       {
         "label": "WindowWait_MemoExchange_Receive",
-        "text": "Recibiendo Flipnote \u000e\u0001"
+        "text": "Recibiendo y guardando...\n(Este proceso puede tardar\nun poco).\n\u000e\u0001"
       }
     ],
     [],
@@ -274,17 +274,17 @@
     [
       {
         "label": "WindowWait_MemoExchange_StartWirelessOff",
-        "text": "Para intercambiar Flipnotes, activa\nla comunicación inalámbrica."
+        "text": "Para intercambiar notas, activa\nla conexión inalámbrica."
       }
     ],
     [
       {
         "label": "WindowWait_MemoExchange_Receive_Success",
-        "text": "Se ha guardado la Flipnote."
+        "text": "Se ha guardado la nota."
       },
       {
         "label": "WindowWait_MemoExchange_Send_InvalidMemo",
-        "text": "No se ha podido completar\nla transferencia porque algunos\ndatos de Flipnote están dañados."
+        "text": "No se ha podido completar\nla transferencia porque algunos\ndatos están dañados."
       }
     ],
     [],
@@ -300,7 +300,7 @@
     [
       {
         "label": "WindowWait_MemoExchange_Receive_MemoFileCrached",
-        "text": "No se ha podido completar\nla transferencia porque algunos\ndatos de Flipnote están dañados."
+        "text": "No se ha podido completar\nla transferencia porque algunos\ndatos están dañados."
       }
     ],
     [

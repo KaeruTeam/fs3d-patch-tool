@@ -1,46 +1,155 @@
 {
   "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
     [
       {
         "label": "DepthEdit_TxtLayerA",
         "text": "A"
-      },
+      }
+    ],
+    [
       {
         "label": "DepthEdit_TxtLayerB",
         "text": "B"
-      },
+      }
+    ],
+    [
       {
         "label": "DepthEdit_TxtLayerC",
         "text": "C"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "DepthEdit_TxtBScreen",
         "text": "B"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "DepthEdit_TxtReset",
         "text": "Reset"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "DepthEdit_TxtCenter",
-        "text": "To the middle"
-      },
+        "text": "Move to middle depth"
+      }
+    ],
+    [],
+    [
       {
         "label": "DepthEdit_TxtInner",
-        "text": "To the back"
-      },
+        "text": "Move to background"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "DepthEdit_TxtNear",
-        "text": "To the front"
-      },
+        "text": "Move to foreground"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "DepthEdit_TxtCScreen",
         "text": "C"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "DepthEdit_TxtAScreen",
         "text": "A"
       }
-    ]
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
   ]
 }

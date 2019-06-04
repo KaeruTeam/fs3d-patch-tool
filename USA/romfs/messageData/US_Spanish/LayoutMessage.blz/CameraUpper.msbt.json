@@ -46,7 +46,7 @@
     [
       {
         "label": "CameraUpper_TxtBlur",
-        "text": "Estela"
+        "text": "Desenfocar"
       }
     ],
     [],
@@ -81,7 +81,7 @@
     [
       {
         "label": "CameraUpper_TxtLine",
-        "text": "Contorno"
+        "text": "Línea"
       }
     ],
     [],

@@ -21,7 +21,7 @@
     [
       {
         "label": "ErrorApplet_CreateSystemFolder_ErrorFailure",
-        "text": "No se ha podido crear la carpeta\nporque no se ha podido acceder\na la tarjeta SD.\n\nPulsa  para volver al menú HOME."
+        "text": "No se ha podido crear la carpeta\nporque no se ha podido acceder\na la tarjeta SD.\n\nOprime  para volver al menú HOME."
       }
     ],
     [],
@@ -37,7 +37,7 @@
     [
       {
         "label": "ErrorApplet_Ecdk_IndicatesServiceNotAvailable",
-        "text": "No se puede acceder a Nintendo eShop.\nVuelve a intentarlo más tarde."
+        "text": "No se puede acceder a\nNintendo eShop. Vuelve\na intentarlo más tarde."
       },
       {
         "label": "ErrorApplet_Ecdk_SessionInvalid",
@@ -51,7 +51,7 @@
     [
       {
         "label": "ErrorApplet_Theater_NetworkError",
-        "text": "Error de conexión."
+        "text": "No se pudo establecer la\nconexión con el servidor."
       }
     ],
     [],
@@ -62,7 +62,7 @@
     [
       {
         "label": "ErrorApplet_AccessSdCard_ErrorFailure",
-        "text": "No se ha podido acceder\na la tarjeta SD.\n\nPulsa  para volver al menú HOME."
+        "text": "No se ha podido acceder\na la tarjeta SD.\n\nOprime  para volver al menú HOME."
       }
     ],
     [],
@@ -78,7 +78,7 @@
     [
       {
         "label": "ErrorApplet_CreateSystemFolder_ErrorNothingFreeSpace",
-        "text": "No se ha podido crear la carpeta\nporque no hay suficiente espacio\nlibre en la tarjeta SD.\n\nPulsa  para volver al menú HOME."
+        "text": "No se ha podido crear la carpeta\nporque no hay suficiente espacio\nlibre en la tarjeta SD.\n\nOprime  para volver al menú HOME."
       }
     ],
     [],

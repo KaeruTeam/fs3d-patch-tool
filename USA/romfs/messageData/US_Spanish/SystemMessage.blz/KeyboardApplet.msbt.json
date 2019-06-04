@@ -7,7 +7,7 @@
     [
       {
         "label": "KeyboardApplet_Guide_DrawFont",
-        "text": "Introduce el texto\n(máx. 80 caracteres y 11 líneas)."
+        "text": "Introduce el texto (máx. 80\ncaracteres y 11 líneas)."
       }
     ],
     [],
@@ -54,7 +54,7 @@
     [
       {
         "label": "KeyboardApplet_TextCheck_NgWord",
-        "text": "No se puede usar porque\ncontiene lenguaje\ninapropiado."
+        "text": "Esta palabra no se puede\nusar porque contiene\nlenguaje inapropiado."
       }
     ],
     [],

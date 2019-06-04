@@ -8,21 +8,21 @@
     [
       {
         "label": "FrogMemo3D_10",
-        "text": "(Vous devez pousser le curseur 3D\nvers le haut pour voir l'écran en 3D.)"
+        "text": "... voilà ce que vous voyez :\n\n(Vous devez pousser le curseur 3D\nvers le haut pour voir l'écran en 3D.)"
       },
       {
         "label": "FrogMemoLSift_1",
-        "text": "Coâ ! Savez-vous\nce que font les\nboutons L et R ?"
+        "text": "Coâ! Savez-vous\nà quoi servent les\nboutons L et R?"
       }
     ],
     [
       {
         "label": "FrogMemo3D_11",
-        "text": "Prenons un exemple\nplus concret."
+        "text": "Alors, comment \npouvons-nous\nutiliser cet effet?"
       },
       {
         "label": "FrogMemoLSift_2",
-        "text": "Maintenez enfoncé\nle bouton L...\n\n(Maintenez le\nbouton R si\nvous êtes\ngaucher)"
+        "text": "Maintenez\nle bouton L\nenfoncé...\n\n(Ou le bouton R\nsi vous êtes\ngaucher.)"
       }
     ],
     [
@@ -32,7 +32,7 @@
       },
       {
         "label": "FrogMemoLSift_3",
-        "text": "Et des options\nsupplémentaires\napparaîtront !"
+        "text": "... et des options\nsupplémentaires\napparaîtront!"
       }
     ],
     [
@@ -42,49 +42,49 @@
       },
       {
         "label": "FrogMemoLSift_4",
-        "text": "Essayez, vous allez\nsûrement trouver\ndes choses utiles !"
+        "text": "Essayez, vous allez\nsûrement trouver\ndes choses utiles!"
       },
       {
         "label": "Bug",
-        "text": "Exemple : outil 3D\n(outils experts)"
+        "text": "Créée avec : \nOutils experts / 3D."
       }
     ],
     [
       {
         "label": "FrogMemo3D_14",
-        "text": "Boing !"
+        "text": "Boing!"
       },
       {
         "label": "FrogMemoLSift_5",
-        "text": "Au plaisir !"
+        "text": "Au plaisir!"
       }
     ],
     [
       {
         "label": "FrogMemo3D_15",
-        "text": "Boing !"
+        "text": "Boing!"
       }
     ],
     [
       {
         "label": "FrogMemo3D_16",
-        "text": "C'est une balle\nqui rebondit !"
+        "text": "C'est une balle\nqui rebondit!"
       }
     ],
     [
       {
         "label": "DotSheep",
-        "text": "Exemple :\n- fonction zoom (bouton L + ○)\n- outil de transformation (agrandissement)\n(outils simples)"
+        "text": "Créée avec : Outils simples /\nFonction zoom (bouton L + ○ pour droitiers)\nFonction zoom (bouton R + ○ pour gauchers) /\nTransformer (agrandissement)."
       },
       {
         "label": "FrogMemo3D_17",
-        "text": "Essayez donc avec\nquelque chose de\nsimple !"
+        "text": "Essayez donc avec\nquelque chose de\nsimple!"
       }
     ],
     [
       {
         "label": "FrogMemo3D_18",
-        "text": "Au plaisir !"
+        "text": "Au plaisir!"
       }
     ],
     [],
@@ -113,7 +113,7 @@
     [
       {
         "label": "Punch",
-        "text": "Exemple :\noutil 3D\n(outils\nexperts)"
+        "text": "Créée avec : \n\nOutils experts / \n3D."
       }
     ],
     [],
@@ -121,7 +121,7 @@
     [
       {
         "label": "Swim",
-        "text": "Exemple : outil 3D\n(outils experts)"
+        "text": "Créée avec : \nOutils experts / 3D."
       }
     ],
     [],
@@ -150,7 +150,7 @@
     [
       {
         "label": "Plane",
-        "text": "Exemple : outil de transformation\n(outils experts)"
+        "text": "Créée avec : \n\nOutils experts / Transformer."
       }
     ],
     [],
@@ -165,7 +165,7 @@
     [
       {
         "label": "ColorSample_1",
-        "text": "Palette des couleurs"
+        "text": "Palette de couleur"
       }
     ],
     [
@@ -209,7 +209,7 @@
     [
       {
         "label": "FrogMemoLayer_1",
-        "text": "Coâ ! Les calques\ndes outils experts\nvous intéressent ?"
+        "text": "Coâ! Les calques\ndes outils experts\nvous intéressent?"
       }
     ],
     [
@@ -221,7 +221,7 @@
     [
       {
         "label": "FrogMemoLayer_3",
-        "text": "C'est comme si vous dessiniez\nsur une simple feuille de papier."
+        "text": "... c'est comme si vous dessiniez\nsur une simple feuille de papier."
       }
     ],
     [
@@ -233,25 +233,25 @@
     [
       {
         "label": "FrogMemoLayer_5",
-        "text": "Vous pouvez dessiner sur\ntrois calques différents !"
+        "text": "... vous pouvez dessiner sur\ntrois calques différents!"
       }
     ],
     [
       {
         "label": "FrogMemoLayer_6",
-        "text": "Ça peut paraître\nun peu compliqué..."
+        "text": "Ça vous paraît\nun peu compliqué?\n"
       }
     ],
     [
       {
         "label": "FrogMemoLayer_7",
-        "text": "Mais croyez-moi,\nc'est très utile pour\ncréer vos Flipnotes !"
+        "text": "Croyez-moi, c'est\ntrès utile pour créer\nvos flipnotes!"
       }
     ],
     [
       {
         "label": "FrogMemo3D_1",
-        "text": "Coâ ! L'animation\n3D vous intéresse ?"
+        "text": "Côa! L'animation\n3D vous intéresse?"
       },
       {
         "label": "FrogMemoLayer_8",
@@ -261,7 +261,7 @@
     [
       {
         "label": "FrogMemo3D_2",
-        "text": "D'abord, qu'est-ce qu'une animation 3D ?"
+        "text": "D'abord, qu'est-ce qu'une animation 3D?"
       },
       {
         "label": "FrogMemoLayer_9",
@@ -277,7 +277,7 @@
     [
       {
         "label": "FrogMemo3D_4",
-        "text": "... qui joue sur\nla profondeur."
+        "text": "... qui joue sur la profondeur."
       }
     ],
     [
@@ -287,7 +287,7 @@
       },
       {
         "label": "FrogMemoLayer_10",
-        "text": "Essayez donc par\nvous-même !"
+        "text": "Essayez donc par\nvous-même!"
       }
     ],
     [
@@ -297,25 +297,25 @@
       },
       {
         "label": "FrogMemoLayer_11",
-        "text": "Au plaisir !"
+        "text": "Au plaisir!"
       }
     ],
     [
       {
         "label": "FrogMemo3D_7",
-        "text": "Pour utiliser la 3D, touchez\nl'icône du coin supérieur droit."
+        "text": "Touchez l'icône 3D en haut\nà droite."
       }
     ],
     [
       {
         "label": "FrogMemo3D_8",
-        "text": "Ensuite, déplacez le curseur\npour ajuster la profondeur."
+        "text": "Puis déplacez le curseur\npour ajuster la profondeur."
       }
     ],
     [
       {
         "label": "FrogMemo3D_9",
-        "text": "En pratique, voilà\nce que ça donne..."
+        "text": "Lorsque vous regardez\nune balle de face..."
       }
     ],
     [],

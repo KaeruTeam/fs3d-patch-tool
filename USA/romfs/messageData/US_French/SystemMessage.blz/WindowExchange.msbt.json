@@ -11,7 +11,7 @@
       },
       {
         "label": "WindowWait_MemoExchange_Send_Failure",
-        "text": "Impossible d'envoyer\nla Flipnote."
+        "text": "Impossible d'envoyer\nla flipnote."
       },
       {
         "label": "ExchangeUpper_TxtSetContents_Wait",
@@ -26,7 +26,7 @@
     [
       {
         "label": "WindowInfo_Title_Exchange_Top",
-        "text": "Échange de Flipnotes"
+        "text": "Échange de flipnotes"
       },
       {
         "label": "WindowConfirm_MemoExchange_Connect_Cancel",
@@ -46,7 +46,7 @@
     [
       {
         "label": "WindowConfirm_MemoExchange_Disconnect",
-        "text": "Voulez-vous vraiment\ninterrompre la connexion\navec l'autre utilisateur ?"
+        "text": "Voulez-vous vraiment\ninterrompre la connexion\navec l'autre utilisateur?"
       }
     ],
     [
@@ -79,7 +79,7 @@
     [
       {
         "label": "WindowWait_MemoExchange_Receive_Failure",
-        "text": "Impossible de recevoir\nla Flipnote."
+        "text": "Impossible de recevoir\nla flipnote."
       }
     ],
     [
@@ -89,7 +89,7 @@
       },
       {
         "label": "ExchangeUpper_TxtSetContents_Send_L",
-        "text": "Choisissez une Flipnote et touchez\nEnvoyer. Maintenez  enfoncé\npour en sélectionner plusieurs."
+        "text": "Choisissez une flipnote et touchez\nEnvoyer. Maintenez le bouton R\npour en sélectionner plusieurs."
       }
     ],
     [],
@@ -134,7 +134,7 @@
     [
       {
         "label": "ExchangeUpper_TxtSetTitle_Send",
-        "text": "Envoyer des Flipnotes"
+        "text": "Envoyer des flipnotes"
       }
     ],
     [],
@@ -142,7 +142,7 @@
     [
       {
         "label": "WindowWait_MemoExchange_Receive_Success_plural",
-        "text": "Les Flipnotes reçues ont été\nsauvegardées."
+        "text": "Les flipnotes reçues ont été\nsauvegardées."
       }
     ],
     [],
@@ -151,7 +151,7 @@
     [
       {
         "label": "WindowInfo_Contents_Exchange_Agreement",
-        "text": "N'envoyez pas de Flipnotes incluant du\ncontenu illégal ou offensant et/ou portant\natteinte aux droits d'autrui. En envoyant\nune Flipnote, vous confirmez avoir obtenu\nles droits ainsi que les autorisations de\ntiers nécessaires. Vous acceptez aussi\nqu'une Flipnote non verrouillée puisse être\nmodifiée, publiée sur Internet ou partagée\npar un tiers."
+        "text": "N'envoyez pas de flipnotes incluant du\ncontenu illégal ou offensant et/ou portant\natteinte aux droits d'autrui. En envoyant\nune flipnote, vous confirmez avoir obtenu\nles droits ainsi que les autorisations de\ntiers nécessaires. Vous acceptez aussi\nqu'une flipnote non verrouillée puisse être\nmodifiée, publiée sur Internet ou partagée\npar le destinataire ou par un tiers."
       },
       {
         "label": "WindowWait_MemoExchange_Receive_CancelButton",
@@ -161,13 +161,13 @@
     [
       {
         "label": "WindowWait_MemoExchange_PreReceive",
-        "text": "Réception en cours...\n(L'opération peut prendre\nun certain temps.)"
+        "text": "Réception et sauvegarde...\n(L'opération peut prendre\nun certain temps.)"
       }
     ],
     [
       {
         "label": "ExchangeUpper_TxtSetContents_Send",
-        "text": "Choisissez une Flipnote et touchez\nEnvoyer. Maintenez  enfoncé\npour en sélectionner plusieurs."
+        "text": "Choisissez une flipnote et touchez\nEnvoyer. Maintenez le bouton L\npour en sélectionner plusieurs."
       }
     ],
     [],
@@ -185,7 +185,7 @@
     [
       {
         "label": "WindowWait_MemoExchange_Receive_Failure_plural",
-        "text": "Impossible de recevoir\nles Flipnotes."
+        "text": "Impossible de recevoir\nles flipnotes."
       }
     ],
     [
@@ -219,7 +219,7 @@
     [
       {
         "label": "WindowWait_MemoExchange_Send_Success_plural",
-        "text": "Les Flipnotes ont été envoyées."
+        "text": "Les flipnotes ont été envoyées."
       }
     ],
     [],
@@ -232,7 +232,7 @@
       },
       {
         "label": "WindowWait_MemoExchange_Send_Success",
-        "text": "La Flipnote a été envoyée."
+        "text": "La flipnote a été envoyée."
       }
     ],
     [],
@@ -243,7 +243,7 @@
     [
       {
         "label": "WindowWait_MemoExchange_Send_Failure_plural",
-        "text": "Impossible d'envoyer\nles Flipnotes."
+        "text": "Impossible d'envoyer\nles flipnotes."
       }
     ],
     [],
@@ -253,7 +253,7 @@
     [
       {
         "label": "ExchangeUpper_TxtSetTitle_Receive",
-        "text": "Recevoir des Flipnotes"
+        "text": "Recevoir des flipnotes"
       }
     ],
     [
@@ -280,18 +280,18 @@
     [
       {
         "label": "WindowWait_MemoExchange_Receive_Success",
-        "text": "La Flipnote reçue a été\nsauvegardée."
+        "text": "La flipnote reçue a été\nsauvegardée."
       },
       {
         "label": "WindowWait_MemoExchange_Send_InvalidMemo",
-        "text": "Le transfert a été interrompu car\ndes données de Flipnote sont\ncorrompues."
+        "text": "Le transfert a été interrompu, car\ndes données sont corrompues."
       }
     ],
     [],
     [
       {
         "label": "WindowWait_MemoExchange_ErrorNothingPartner",
-        "text": "Impossible d'établir une\nconnexion avec l'autre\nutilisateur."
+        "text": "Impossible d'établir une connexion\navec l'autre utilisateur."
       }
     ],
     [],
@@ -300,13 +300,13 @@
     [
       {
         "label": "WindowWait_MemoExchange_Receive_MemoFileCrached",
-        "text": "Le transfert a été interrompu car\ndes données de Flipnote sont\ncorrompues."
+        "text": "Le transfert a été interrompu, car\ndes données sont corrompues."
       }
     ],
     [
       {
         "label": "WindowInfo_Title_Exchange_Agreement",
-        "text": "Important"
+        "text": "Attention"
       },
       {
         "label": "ExchangeUpper_TxtConnect_Disconnect",

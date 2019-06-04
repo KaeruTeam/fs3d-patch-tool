@@ -7,7 +7,7 @@
     [
       {
         "label": "WindowInfo_Contents_RestrictPhoto",
-        "text": "La transferencia de datos, como audio,\nimágenes, vídeo y texto, está restringida\npor el control parental."
+        "text": "El intercambio de audio, imágenes,\nvideo y texto, que pueden contener\ninformación privada, está restringido por\nel control parental."
       }
     ],
     [],
@@ -60,7 +60,7 @@
     [
       {
         "label": "WindowWait_Cinema_CancelEula",
-        "text": "La Galería Nintendo DSi\nno se puede usar."
+        "text": "No se puede usar la\nBiblioteca Nintendo DSi."
       }
     ],
     [],
@@ -69,7 +69,7 @@
     [
       {
         "label": "WindowWait_MemoExchange_Restrict",
-        "text": "Esta función no se puede usar\nporque el intercambio de datos\nestá restringido por el control\nparental."
+        "text": "El intercambio de datos está\nrestringido por el control\nparental, de manera que no\npuedes intercambiar notas."
       }
     ],
     [],
@@ -102,7 +102,7 @@
     [
       {
         "label": "WindowInfo_Title_RestrictPhoto",
-        "text": "Funciones restringidas:"
+        "text": "Funciones restringidas"
       }
     ],
     [],
@@ -113,7 +113,7 @@
     [
       {
         "label": "WindowWait_Cinema_Restrict",
-        "text": "La Galería Nintendo DSi no\nse puede usar porque está\nrestringida por el control\nparental."
+        "text": "La Biblioteca Nintendo DSi está\nrestringida por el control parental\ny no se puede usar."
       }
     ],
     [],

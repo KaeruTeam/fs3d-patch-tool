@@ -44,14 +44,14 @@
     [
       {
         "label": "ColorSelects_TxtMergeBtA",
-        "text": "Intégrer B à A"
+        "text": "B + A"
       }
     ],
     [],
     [
       {
         "label": "ColorSelects_TxtMergeBtC",
-        "text": "Intégrer B à C"
+        "text": "B + C"
       }
     ],
     [],
@@ -101,7 +101,7 @@
     [
       {
         "label": "ColorSelects_TxtMergeA",
-        "text": "Intégrer B et C à A"
+        "text": "A + B + C"
       },
       {
         "label": "ColorSelects_TxtBL",
@@ -111,13 +111,13 @@
     [
       {
         "label": "ColorSelects_TxtMergeB",
-        "text": "Intégrer A et C à B"
+        "text": "A + B + C"
       }
     ],
     [
       {
         "label": "ColorSelects_TxtMergeC",
-        "text": "Intégrer A et B à C"
+        "text": "A + B + C"
       }
     ],
     [],
@@ -135,13 +135,13 @@
     [
       {
         "label": "ColorSelects_TxtMergeCtA",
-        "text": "Intégrer C à A"
+        "text": "C + A"
       }
     ],
     [
       {
         "label": "ColorSelects_TxtMergeCtB",
-        "text": "Intégrer C à B"
+        "text": "C + B"
       }
     ],
     [],
@@ -153,13 +153,13 @@
     [
       {
         "label": "ColorSelects_TxtMergeAtB",
-        "text": "Intégrer A à B"
+        "text": "A + B"
       }
     ],
     [
       {
         "label": "ColorSelects_TxtMergeAtC",
-        "text": "Intégrer A à C"
+        "text": "A + C"
       }
     ],
     [],

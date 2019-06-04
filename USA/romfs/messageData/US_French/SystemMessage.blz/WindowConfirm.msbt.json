@@ -32,13 +32,13 @@
     [
       {
         "label": "WindowConfirm_FrameEdit_UnityPalette_LayerMode",
-        "text": "Appliquer les paramètres de\ncouleurs et de papier utilisés\nsur cette page à toutes les\nautres pages ?"
+        "text": "Appliquer les paramètres de\ncouleurs et de papier utilisés\nsur cette page à toutes les\nautres pages?"
       }
     ],
     [
       {
         "label": "WindowInfo_Title_Save_Jpg",
-        "text": "Emplacement de sauvegarde :"
+        "text": "Sauvegarde dans :"
       }
     ],
     [
@@ -50,7 +50,7 @@
     [
       {
         "label": "WindowConfirm_Save_IsQuit",
-        "text": "Cette Flipnote a été modifiée.\n\nVoulez-vous vraiment quitter\nsans sauvegarder ?"
+        "text": "Cette flipnote a été modifiée.\n\nVoulez-vous vraiment quitter\nsans sauvegarder?"
       }
     ],
     [],
@@ -61,7 +61,7 @@
     [
       {
         "label": "WindowConfirm_Memo_Over",
-        "text": "Le dossier sélectionné est\nplein. Vous ne pouvez pas\ny sauvegarder de Flipnote\nsupplémentaire."
+        "text": "Le dossier sélectionné est\nplein. Vous ne pouvez pas\ny sauvegarder de flipnote\nsupplémentaire."
       },
       {
         "label": "WindowConfirm_Initialize_PatchDownload_Ok",
@@ -77,7 +77,7 @@
     [
       {
         "label": "WindowConfirm_FrameEdit_UnityParallax",
-        "text": "Appliquer les paramètres 3D\nutilisés sur cette page à\ntoutes les autres pages ?"
+        "text": "Appliquer les paramètres 3D\nutilisés sur cette page à\ntoutes les autres pages?"
       }
     ],
     [],
@@ -90,7 +90,7 @@
     [
       {
         "label": "WindowConfirm_Delete_Folder_Confirm_Ok",
-        "text": "Effacer"
+        "text": "Supprimer"
       }
     ],
     [],
@@ -116,7 +116,7 @@
     [
       {
         "label": "WindowConfirm_Save_SD_InfoAvi",
-        "text": "Données sauvegardées sur la\ncarte SD, à l'emplacement\nindiqué sur l'écran supérieur.\nVous avez la possibilité de\nvisionner votre vidéo avec\nl'appareil photo Nintendo 3DS."
+        "text": "Données sauvegardées sur la\ncarte SD, dans le dossier\nindiqué sur l'écran supérieur.\nVous avez la possibilité de\nvisionner votre vidéo avec\nl'appareil photo Nintendo 3DS."
       }
     ],
     [],
@@ -150,7 +150,7 @@
     [
       {
         "label": "WindowInfo_Title_Save_SD_Info",
-        "text": "Emplacement de sauvegarde :"
+        "text": "Sauvegarde dans :"
       }
     ],
     [],
@@ -176,11 +176,11 @@
     [
       {
         "label": "WindowConfirm_Save_IsQuit_Icon",
-        "text": "Toute modification apportée\nà l'icône sera perdue.\n\nVoulez-vous vraiment quitter\nsans sauvegarder ?"
+        "text": "L'icône a été modifiée.\nVoulez-vous vraiment quitter\nsans sauvegarder et choisir\nune nouvelle icône?"
       },
       {
         "label": "WindowConfirm_Initialize_SaveDataClear",
-        "text": "Réinitialiser les données\nd'utilisateur ?\n\nLes Flipnotes sauvegardées\nne seront pas effacées."
+        "text": "Réinitialiser les données\nd'utilisateur?\n\nLes flipnotes sauvegardées\nne seront pas supprimées."
       },
       {
         "label": "WindowConfirm_Save_MemoSave_Sns_Ok",
@@ -221,7 +221,7 @@
     [
       {
         "label": "WindowConfirm_Initialize_ClearSavedata",
-        "text": "Pour continuer, vous devez\nréinitialiser les données de\nsauvegarde.\nNote : les paramètres d'origine\nseront restaurés. Les Flipnotes\nsauvegardées ne seront pas\neffacées."
+        "text": "Si vous continuez, les données\nde sauvegarde seront\nréinitialisées.\nNote : Les paramètres par\ndéfaut seront restaurés. Les\nflipnotes sauvegardées ne\nseront pas effacées."
       }
     ],
     [],
@@ -236,7 +236,7 @@
     [
       {
         "label": "WindowConfirm_FrameEdit_UnityPalette_ColorMode",
-        "text": "Appliquer les paramètres de\npapier utilisés sur cette page\nà toutes les autres pages ?"
+        "text": "Appliquer les paramètres de\npapier utilisés sur cette page\nà toutes les autres pages?"
       }
     ],
     [],
@@ -244,7 +244,7 @@
     [
       {
         "label": "WindowConfirm_Initialize_SaveDataClear_Real",
-        "text": "Voulez-vous vraiment\nréinitialiser les données\nd'utilisateur ?"
+        "text": "Voulez-vous vraiment\nréinitialiser les données\nd'utilisateur?"
       },
       {
         "label": "WindowConfirm_Initialize_SaveDataClear_Real_Ok",
@@ -252,11 +252,11 @@
       },
       {
         "label": "WindowInfo_Title_Save_SD_InfoAvi",
-        "text": "Emplacement de sauvegarde :"
+        "text": "Sauvegarde dans :"
       },
       {
         "label": "WindowConfirm_Initialize_PatchDownload",
-        "text": "Pour pouvoir être utilisé, ce\nlogiciel doit être mis à jour.\n\nTélécharger la dernière\nversion du logiciel ?"
+        "text": "Pour pouvoir être utilisé, ce\nlogiciel doit être mis à jour.\n\nTélécharger la dernière\nversion du logiciel?"
       }
     ],
     [],
@@ -270,7 +270,7 @@
     [
       {
         "label": "WindowConfirm_Delete_Folder_Confirm",
-        "text": "Effacer ce dossier ainsi que\nl'ensemble de son contenu ?\n\nLes dossiers et Flipnotes\neffacés ne peuvent pas être\nrécupérés."
+        "text": "Supprimer ce dossier ainsi que\nl'ensemble de son contenu?\n\nLes dossiers et flipnotes\nsupprimés ne peuvent pas être\nrécupérés."
       },
       {
         "label": "WindowInfo_Title_Save_QrCode",
@@ -281,24 +281,24 @@
     [
       {
         "label": "WindowConfirm_Save_MemoSave_Sns",
-        "text": "Cette Flipnote n'a pas encore\nété sauvegardée. Démarrer le\nnavigateur malgré tout ?\nNote : il est recommandé de\nsauvegarder vos Flipnotes avant\nd'utiliser le partage d'images\nNintendo 3DS."
+        "text": "Cette flipnote n'a pas encore\nété sauvegardée. Démarrer le\nnavigateur malgré tout?\nNote : Il est recommandé de\nsauvegarder vos flipnotes avant\nd'utiliser le service Partage\nd'images Nintendo 3DS."
       }
     ],
     [],
     [
       {
         "label": "WindowConfirm_Delete_Memo_Confirm_Ok",
-        "text": "Effacer"
+        "text": "Supprimer"
       },
       {
         "label": "WindowConfirm_Save_Browser_Sns",
-        "text": "Démarrer le navigateur Internet\npour utiliser le partage d'images\nNintendo 3DS ?"
+        "text": "Démarrer le navigateur Internet\npour utiliser le service Partage\nd'images Nintendo 3DS?"
       }
     ],
     [
       {
         "label": "WindowConfirm_Delete_Memo_Confirm",
-        "text": "Effacer cette Flipnote ?\n\nLes Flipnotes effacées ne\npeuvent pas être récupérées."
+        "text": "Supprimer cette flipnote?\n\nLes flipnotes supprimées ne\npeuvent pas être récupérées."
       }
     ],
     [],

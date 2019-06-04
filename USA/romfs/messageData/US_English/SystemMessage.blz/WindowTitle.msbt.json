@@ -1,38 +1,145 @@
 {
   "groups": [
+    [],
+    [],
+    [],
+    [],
     [
       {
         "label": "WindowInfo_Contents_RestrictPhoto",
-        "text": "The current Parental Controls settings\nrestrict the sharing of data such\nas images, audio, video and long text."
-      },
+        "text": "The current Parental Controls settings\nrestrict the sharing of data that may\ncontain personal information, such as\nimages, audio, video, and long text data."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowWait_Cinema_Mii",
         "text": ""
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowInfo_Contents_RestrictInternet",
         "text": ""
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowWait_Cinema_CancelEula",
         "text": "Nintendo DSi Library\ncannot be used."
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowWait_MemoExchange_Restrict",
-        "text": "Data sharing is restricted by\nParental Controls, so it is\nnot possible to exchange\nFlipnotes."
-      },
+        "text": "Data sharing is restricted by\nParental Controls, so it is\nnot possible to exchange\nflipnotes."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowInfo_Title_RestrictInternet",
         "text": ""
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowInfo_Title_RestrictPhoto",
         "text": "Restricted Functions"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowWait_Cinema_Restrict",
         "text": "Nintendo DSi Library is\nrestricted by Parental Controls\nsettings and cannot be used."
       }
-    ]
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
   ]
 }

@@ -1,42 +1,150 @@
 {
   "groups": [
+    [],
     [
       {
         "label": "WatchBar_TxtCont",
         "text": "Post"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WatchBar_TxtFolderDetail",
-        "text": "Folder Details"
-      },
+        "text": "Folder details"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WatchBar_TxtAllStop",
         "text": "Stop"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WatchBar_TxtSend",
         "text": "Send"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WatchBar_TxtPost",
         "text": ""
-      },
+      }
+    ],
+    [
       {
         "label": "WatchBar_TxtMemoDetail",
         "text": "Details"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WatchBar_TxtDraw",
         "text": "Edit"
-      },
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "WatchBar_TxtGet",
         "text": "Receive"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WatchBar_TxtAllPlay",
-        "text": "Play All"
+        "text": "Play all"
       }
-    ]
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
   ]
 }

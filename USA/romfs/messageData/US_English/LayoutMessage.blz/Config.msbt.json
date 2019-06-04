@@ -1,46 +1,155 @@
 {
   "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
     [
       {
         "label": "Config_TxtAdvancedT",
         "text": "Tools"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "Config_TxtSoundT",
         "text": "Sound Effects"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "Config_TxtNameT",
-        "text": "User Name"
-      },
+        "text": "Creator Name"
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "Config_TxtAllClear",
-        "text": "Delete Flipnotes"
-      },
+        "text": "Delete All Data"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "Config_TxtSample",
         "text": "Copy"
-      },
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "Config_TxtSampleT",
         "text": "Samples"
-      },
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "Config_TxtName",
         "text": "Change"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "Config_TxtBirthdayT",
         "text": ""
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "Config_TxtFrogT",
         "text": "Frog"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "Config_TxtHandednessT",
         "text": "Stylus Hand"
       }
-    ]
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
   ]
 }

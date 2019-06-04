@@ -122,14 +122,14 @@
     [
       {
         "label": "WindowInfo_Contents_Icon_Editor_Folder",
-        "text": "Introduce un nombre para la carpeta.\n\nSi ya existe una carpeta con el mismo\nnombre, no podrás usarlo."
+        "text": "Introduce un nombre para la carpeta.\n\nNo podrás usar un nombre que ya hayas\nasignado a otra carpeta."
       }
     ],
     [],
     [
       {
         "label": "WindowInfo_Contents_FolderRename",
-        "text": "Introduce un nombre para la carpeta.\n\nSi ya existe una carpeta con el mismo\nnombre, no podrás usarlo."
+        "text": "Introduce un nombre para la carpeta.\n\nNo podrás usar un nombre que ya hayas\nasignado a otra carpeta."
       }
     ],
     [],

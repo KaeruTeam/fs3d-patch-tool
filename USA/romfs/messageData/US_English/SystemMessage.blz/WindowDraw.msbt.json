@@ -1,58 +1,178 @@
 {
   "groups": [
+    [],
     [
       {
         "label": "WindowWait_Draw_LittleMemoryReport",
-        "text": "This Flipnote is at the\nmaximum possible size.\n\nSave it now or delete a page."
-      },
+        "text": "This flipnote has reached\nits size limit.\n\nSave it now or delete a page."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_Draw_TransformConfirm",
-        "text": "Apply changes? You may not\nbe able to revert these changes\nonce they have been made.\n\nPlease note that this operation\nmay take a little while."
-      },
+        "text": "Apply changes? You may not be\nable to undo these changes once\nthey have been made.\n\nPlease note that this operation\nmay take a little while."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_Draw_EraseAllConfirm_Ok",
-        "text": "Delete All"
-      },
+        "text": "Delete all"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_Draw_EraseAllConfirm_Cancel",
         "text": "Cancel"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_Draw_TransformCancelConfirm_Cancel",
-        "text": "Cancel"
-      },
+        "text": "Go back"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_Draw_TransformCancelConfirm",
-        "text": "Are you sure you want to exit\nwithout applying changes?"
-      },
+        "text": "Cancel your changes?"
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "WindowWait_Draw_Transforming",
         "text": "Applying changes..."
       },
       {
+        "label": "WindowWait_Draw_Transforming_CancelButton",
+        "text": "Cancel"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
         "label": "WindowConfirm_Draw_TransformCancelConfirm_Ok",
-        "text": "OK"
-      },
+        "text": "Yes"
+      }
+    ],
+    [
       {
         "label": "WindowConfirm_Draw_TransformConfirm_Cancel",
-        "text": "Don't Apply"
-      },
+        "text": "Cancel"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowWait_AccessResult_InvalidSound",
-        "text": "Could not load because of\ninvalid Nintendo 3DS Sound\ndata."
-      },
+        "text": "Could not load because\nNintendo 3DS Sound\ndata is invalid."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_Draw_EraseAllConfirm",
-        "text": "Delete all pages of\nthe current Flipnote?\n\nSounds and 3D effects will\nalso be deleted."
+        "text": "Delete all pages of\nthe current flipnote?\n\nAll sound and 3D effects will\nalso be deleted."
       },
+      {
+        "label": "WindowConfirm_Draw_CameraError",
+        "text": "An error has occurred with\nthe camera."
+      }
+    ],
+    [
       {
         "label": "WindowConfirm_Draw_TransformConfirm_Ok",
         "text": "Apply"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowWait_Draw_TransformMemoryFull",
-        "text": "This Flipnote is at the\nmaximum possible size.\n\nYou cannot edit it any further."
+        "text": "This flipnote has reached\nits size limit.\n\nYou cannot edit it any further."
       }
-    ]
+    ],
+    [],
+    [],
+    []
   ]
 }

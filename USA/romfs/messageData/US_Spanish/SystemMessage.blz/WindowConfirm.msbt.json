@@ -50,7 +50,7 @@
     [
       {
         "label": "WindowConfirm_Save_IsQuit",
-        "text": "Esta Flipnote se ha modificado.\n¿Seguro que quieres salir\nsin guardar?"
+        "text": "Esta nota se ha modificado.\n¿Seguro que quieres salir\nsin guardar?"
       }
     ],
     [],
@@ -61,7 +61,7 @@
     [
       {
         "label": "WindowConfirm_Memo_Over",
-        "text": "No se puede guardar la Flipnote\nen esta ubicación porque la\ncarpeta está llena."
+        "text": "No se puede guardar la nota\nporque la carpeta seleccionada\nestá llena."
       },
       {
         "label": "WindowConfirm_Initialize_PatchDownload_Ok",
@@ -116,7 +116,7 @@
     [
       {
         "label": "WindowConfirm_Save_SD_InfoAvi",
-        "text": "Se ha guardado en la ubicación\nde la tarjeta SD mostrada en la\npantalla superior.\n\nUsa la aplicación Cámara de\nNintendo 3DS para reproducir\nel vídeo."
+        "text": "Los datos se han guardado\nen la tarjeta SD. Consulta\nla ubicación en la pantalla\nsuperior. Puedes ver el\nvideo en la aplicación\nCámara de Nintendo 3DS."
       }
     ],
     [],
@@ -124,7 +124,7 @@
     [
       {
         "label": "WindowConfirm_Save_SD_Info",
-        "text": "Los datos se han guardado\nen la tarjeta SD. Puedes ver\nla ubicación en la pantalla\nsuperior."
+        "text": "Los datos se han guardado en\nla tarjeta SD. Consulta la\nubicación en la pantalla\nsuperior."
       }
     ],
     [],
@@ -176,11 +176,11 @@
     [
       {
         "label": "WindowConfirm_Save_IsQuit_Icon",
-        "text": "Los cambios que hayas hecho\nen el icono se perderán.\n¿Seguro que quieres\nsalir sin guardar?"
+        "text": "El icono ha sido editado.\n¿Seguro que quieres salir sin\nguardar y elegir otro icono?"
       },
       {
         "label": "WindowConfirm_Initialize_SaveDataClear",
-        "text": "¿Quieres borrar los datos de\nusuario?\n\nNo se borrarán las Flipnotes."
+        "text": "¿Quieres borrar los datos de\nusuario?\n\nNo se borrarán las notas."
       },
       {
         "label": "WindowConfirm_Save_MemoSave_Sns_Ok",
@@ -221,7 +221,7 @@
     [
       {
         "label": "WindowConfirm_Initialize_ClearSavedata",
-        "text": "Se van a borrar los datos\nde guardado.\n¿Seguro que quieres continuar?\n\n(Se restablecerán los ajustes\niniciales, pero las Flipnotes\nno se borrarán.)"
+        "text": "Se van a borrar los datos\nde guardado.\n¿Quieres continuar?\n\n(Se restablecerán los ajustes\niniciales, pero no se borrarán\nlas notas)."
       }
     ],
     [],
@@ -270,7 +270,7 @@
     [
       {
         "label": "WindowConfirm_Delete_Folder_Confirm",
-        "text": "¿Quieres borrar esta carpeta\ny su contenido?\n\nLas carpetas y las Flipnotes\nborradas no se pueden\nrecuperar."
+        "text": "¿Quieres borrar esta carpeta\ny su contenido?\n\nTen en cuenta que no podrás\nrecuperar las carpetas y notas\nborradas."
       },
       {
         "label": "WindowInfo_Title_Save_QrCode",
@@ -281,7 +281,7 @@
     [
       {
         "label": "WindowConfirm_Save_MemoSave_Sns",
-        "text": "No se ha guardado la Flipnote.\n¿Seguro que quieres iniciar\nel navegador sin guardarla?\n\n(Es recomendable guardarla\nantes de iniciar Publicación\nde imágenes de Nintendo 3DS.)"
+        "text": "No se ha guardado la nota.\n¿Quieres iniciar el navegador\nsin guardarla?\n\n(Es recomendable guardarla\nantes de iniciar Carga de\nimágenes de Nintendo 3DS)."
       }
     ],
     [],
@@ -292,13 +292,13 @@
       },
       {
         "label": "WindowConfirm_Save_Browser_Sns",
-        "text": "Para usar la función Publicación\nde imágenes de Nintendo 3DS,\ndebes iniciar el navegador\nde internet.\n\n¿Quieres iniciarlo?"
+        "text": "Para usar la función Carga de\nimágenes de Nintendo 3DS,\ndebes iniciar el navegador\nde internet.\n\n¿Quieres iniciarlo?"
       }
     ],
     [
       {
         "label": "WindowConfirm_Delete_Memo_Confirm",
-        "text": "¿Quieres borrar esta Flipnote?\n\nLas Flipnotes borradas no se\npueden recuperar."
+        "text": "¿Quieres borrar esta nota?\n\nTen en cuenta que no podrás\nrecuperar las notas borradas."
       }
     ],
     [],

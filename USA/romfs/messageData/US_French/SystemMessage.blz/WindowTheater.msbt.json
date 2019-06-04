@@ -86,7 +86,7 @@
     [
       {
         "label": "WindowWait_Theater_MemoDownloadError",
-        "text": "Le téléchargement de\nla Flipnote a échoué."
+        "text": "Le chargement de la\nflipnote a échoué."
       }
     ],
     [
@@ -99,7 +99,7 @@
     [
       {
         "label": "WindowConfirm_Theater_UpdatePatch",
-        "text": "Une mise à jour est nécessaire\npour pouvoir utiliser la galerie\nNintendo DSi.\n\nTélécharger la dernière version\nde ce logiciel ?"
+        "text": "Une mise à jour est nécessaire\npour pouvoir utiliser la\ncollection Nintendo DSi.\n\nTélécharger la dernière version\nde ce logiciel?"
       }
     ],
     [],
@@ -243,7 +243,7 @@
     [
       {
         "label": "WindowConfirm_Theater_ReturnTitle",
-        "text": "Une erreur est survenue.\nRetourner au menu principal ?"
+        "text": "Une erreur est survenue.\nRetourner au menu principal?"
       },
       {
         "label": "WindowConfirm_Theater_QrCode_Create_Ok",

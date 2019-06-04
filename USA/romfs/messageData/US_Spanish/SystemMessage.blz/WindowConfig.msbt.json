@@ -31,7 +31,7 @@
     [
       {
         "label": "WindowInfo_Contents_Config_Delete",
-        "text": "Se borrarán todas las Flipnotes y las\ncarpetas creadas con este programa.\n\n(Es posible que esto tarde un poco.)"
+        "text": "Se borrarán todas las notas y carpetas\ncreadas con este programa.\n\n(Este proceso puede tardar un poco)."
       }
     ],
     [
@@ -58,7 +58,7 @@
     [
       {
         "label": "WindowWait_Config_SampleCopy",
-        "text": "Copiando las Flipnotes\nde muestra..."
+        "text": "Copiando las notas de\nmuestra..."
       }
     ],
     [
@@ -104,7 +104,7 @@
     [
       {
         "label": "WindowInfo_Contents_Config_PenBox",
-        "text": "Puedes utilizar las herramientas básicas\no las avanzadas para crear Flipnotes.\n\nSi usas las herramientas avanzadas,\npuedes usar hasta tres capas."
+        "text": "Crea notas con las herramientas básicas\no con las avanzadas. Si eliges las\nherramientas avanzadas podrás usar\nhasta tres capas en tu nota."
       }
     ],
     [],
@@ -154,7 +154,7 @@
     [
       {
         "label": "WindowInfo_Contents_Config_Hand",
-        "text": "Los controles de la creación de\nFlipnotes cambiarán dependiendo de\nsi usas la mano izquierda o la derecha\npara sujetar el lápiz.\n\nElige una mano."
+        "text": "Ajusta los controles de creación de\nnotas que más se acomoden a la\nmano con la que sujetas el lápiz.\n\nElige una mano."
       },
       {
         "label": "WindowConfirm_Config_Frog_B",
@@ -165,7 +165,7 @@
     [
       {
         "label": "WindowConfirm_Config_Sample",
-        "text": "¿Quieres copiar las Flipnotes\nde muestra en la tarjeta SD?"
+        "text": "¿Quieres copiar las notas\nde muestra a la tarjeta SD?"
       }
     ],
     [],
@@ -181,7 +181,7 @@
     [
       {
         "label": "WindowInfo_Contents_Config_Sample",
-        "text": "Copia las Flipnotes de muestra en\nla carpeta \"Inicio\".\n\nLas Flipnotes de muestra no se podrán\ncopiar si no hay suficiente espacio libre\nen la tarjeta SD."
+        "text": "Copia las notas de muestra a la\ncarpeta Home.\n\nEs posible que no puedas copiar las\nnotas de muestra si no hay suficiente\nespacio libre en la tarjeta SD."
       }
     ],
     [
@@ -193,19 +193,19 @@
     [
       {
         "label": "WindowConfirm_Config_AllDelete_Confirm",
-        "text": "¿Seguro que quieres borrar\ntodas las Flipnotes y todas\nlas carpetas?\n\nLos datos borrados no se\npueden recuperar."
+        "text": "¿Seguro que quieres borrar\ntodas las notas y las carpetas?\n\nTen en cuenta que no podrás\nrecuperar los datos borrados."
       }
     ],
     [
       {
         "label": "WindowInfo_Contents_Config_Creator",
-        "text": "Cambia tu nombre de usuario.\n\nTu nombre de usuario se muestra en\nla información detallada de tus Flipnotes\ny en otras partes de la aplicación."
+        "text": "Cambia tu nombre de usuario.\nEste nombre se muestra en la\ninformación detallada de tus notas\ny en otras partes de la aplicación."
       }
     ],
     [
       {
         "label": "WindowInfo_Contents_Config_Se",
-        "text": "Decide si quieres que se reproduzcan\nefectos de sonido en ciertos momentos,\ncomo al dibujar o al tocar iconos."
+        "text": "Elige si quieres que se reproduzcan\nefectos de sonido al realizar ciertas\nacciones, como dibujar o tocar iconos."
       },
       {
         "label": "WindowConfirm_Config_PenBox_Title",
@@ -231,7 +231,7 @@
     [
       {
         "label": "WindowInfo_Title_Config_Delete",
-        "text": "Borrar Flipnotes"
+        "text": "Borrar notas"
       }
     ],
     [],
@@ -244,13 +244,13 @@
     [
       {
         "label": "WindowConfirm_Config_AllDelete",
-        "text": "¿Quieres borrar las Flipnotes\ny las carpetas?"
+        "text": "¿Quieres borrar las notas\ny las carpetas?"
       }
     ],
     [
       {
         "label": "WindowInfo_Contents_Config_Frog",
-        "text": "Elige si quieres ver u ocultar el icono\nde la rana que se ve en la esquina\ninferior izquierda de la pantalla táctil\ndurante la creación de Flipnotes."
+        "text": "Muestra u oculta el icono de la rana en\nla esquina inferior izquierda de la\npantalla táctil mientras creas notas."
       }
     ],
     [],
@@ -278,7 +278,7 @@
     [
       {
         "label": "WindowWait_Config_SampleCopy_End",
-        "text": "Las Flipnotes de muestra\nse han copiado en la\ncarpeta \"Inicio\"."
+        "text": "Las notas de muestra se han\ncopiado a la carpeta Home."
       }
     ]
   ]

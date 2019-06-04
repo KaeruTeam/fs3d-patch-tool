@@ -7,7 +7,7 @@
     [
       {
         "label": "WindowInfo_Contents_RestrictPhoto",
-        "text": "Les paramètres de contrôle parental\nactuels empêchent l'échange de données\ntelles que les images, les fichiers\naudio/vidéo et les messages."
+        "text": "Les paramètres actuels du contrôle\nparental empêchent l'échange de données\nsusceptibles de contenir des informations\nprivées telles que les images, les fichiers\naudio/vidéo et les messages."
       }
     ],
     [],
@@ -60,7 +60,7 @@
     [
       {
         "label": "WindowWait_Cinema_CancelEula",
-        "text": "Impossible d'accéder à\nla galerie Nintendo DSi."
+        "text": "Vous n'avez pas accès à\nla collection Nintendo DSi."
       }
     ],
     [],
@@ -113,7 +113,7 @@
     [
       {
         "label": "WindowWait_Cinema_Restrict",
-        "text": "Impossible d'accéder à\nla galerie Nintendo DSi.\nCette fonction a été restreinte\npar le contrôle parental."
+        "text": "Impossible d'accéder à la\ncollection Nintendo DSi.\nCette fonction a été restreinte\npar le contrôle parental."
       }
     ],
     [],

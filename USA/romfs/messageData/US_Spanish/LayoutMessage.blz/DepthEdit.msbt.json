@@ -87,14 +87,14 @@
     [
       {
         "label": "DepthEdit_TxtCenter",
-        "text": "Hacia el centro"
+        "text": "Centrar"
       }
     ],
     [],
     [
       {
         "label": "DepthEdit_TxtInner",
-        "text": "Hacia el fondo"
+        "text": "Al fondo"
       }
     ],
     [],
@@ -112,7 +112,7 @@
     [
       {
         "label": "DepthEdit_TxtNear",
-        "text": "Hacia el primer plano"
+        "text": "Primer plano"
       }
     ],
     [],

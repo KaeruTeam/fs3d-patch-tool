@@ -26,7 +26,7 @@
     [
       {
         "label": "WindowMessage_DefaultCancel",
-        "text": "No"
+        "text": "Mejor no"
       }
     ],
     [],
@@ -90,7 +90,7 @@
     [
       {
         "label": "WindowMessage_PlayTime_Over",
-        "text": "Procura descansar de vez\nen cuando."
+        "text": "Recuerda descansar antes de\nque comiences a sentirte\nfatigado."
       }
     ],
     [],
@@ -111,7 +111,7 @@
     [
       {
         "label": "WindowLock_TxtSetContents_plural",
-        "text": "¿Quieres bloquear estas Flipnotes?"
+        "text": "¿Quieres bloquear estas notas?"
       }
     ],
     [],
@@ -130,7 +130,7 @@
     [
       {
         "label": "WindowLock_TxtSetContents",
-        "text": "¿Quieres bloquear esta Flipnote?"
+        "text": "¿Quieres bloquear esta nota?"
       }
     ],
     [],

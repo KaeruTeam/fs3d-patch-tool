@@ -11,7 +11,7 @@
     [
       {
         "label": "DrwCanvasBar_TxtNaviL",
-        "text": " Menú  / Pasar página   Reproducir"
+        "text": " Menú   /  Pasar página   Reproducir"
       }
     ],
     [],
@@ -22,7 +22,7 @@
     [
       {
         "label": "DrwCanvasBar_TxtNaviR",
-        "text": " Menú　 Pasar página　 Reproducir"
+        "text": " Menú   Pasar página   Reproducir"
       }
     ],
     [],
@@ -84,7 +84,7 @@
     [
       {
         "label": "DrwCanvasBar_TxtPushNaviLP",
-        "text": " Volver a la página  / Pasar página"
+        "text": " Volver a la página   /  Pasar página"
       }
     ],
     [],

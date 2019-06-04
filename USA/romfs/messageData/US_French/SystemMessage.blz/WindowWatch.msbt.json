@@ -8,7 +8,7 @@
     [
       {
         "label": "WindowConfirm_Watch_InvalidMemo",
-        "text": "Cette Flipnote est corrompue\net va être effacée."
+        "text": "Cette flipnote est corrompue\net va être supprimée."
       }
     ],
     [],
@@ -21,7 +21,7 @@
     [
       {
         "label": "WindowConfirm_Watch_InvalidIcon",
-        "text": "Des données d'icône ont été\ncorrompues. Toutes les icônes\ncorrompues vont être effacées."
+        "text": "Des données d'icône ont été\ncorrompues. \nToutes les icônes corrompues\nvont être supprimées."
       }
     ],
     [],

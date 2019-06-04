@@ -1,86 +1,214 @@
 {
   "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
     [
       {
         "label": "SoundRec_TxtKey2L",
         "text": ""
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "SoundRec_TxtSE1",
-        "text": "Sound 1"
-      },
+        "text": "Sound Effect 1"
+      }
+    ],
+    [
       {
         "label": "SoundRec_TxtSE2",
-        "text": "Sound 2"
-      },
+        "text": "Sound Effect 2"
+      }
+    ],
+    [
       {
         "label": "SoundRec_TxtSE3",
-        "text": "Sound 3"
-      },
+        "text": "Sound Effect 3"
+      }
+    ],
+    [
       {
         "label": "SoundRec_TxtSE4",
-        "text": "Sound 4"
-      },
+        "text": "Sound Effect 4"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "SoundRec_TxtSE1Rec",
-        "text": "Sound 1"
-      },
+        "text": "Sound Effect 1"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "SoundRec_TxtSE3RecOn",
         "text": "Recording..."
       },
       {
+        "label": "SoundRec_TxtKey4L",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
         "label": "SoundRec_TxtBGMRec",
         "text": "Background"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "SoundRec_TxtSE3Rec",
-        "text": "Sound 3"
-      },
+        "text": "Sound Effect 3"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "SoundRec_TxtKey1L",
         "text": ""
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "SoundRec_TxtSE4RecOn",
         "text": "Recording..."
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "SoundRec_TxtSE1RecOn",
         "text": "Recording..."
-      },
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "SoundRec_TxtSE2Rec",
-        "text": "Sound 2"
+        "text": "Sound Effect 2"
       },
+      {
+        "label": "SoundRec_TxtKey3L",
+        "text": ""
+      }
+    ],
+    [
       {
         "label": "SoundRec_TxtBGM",
         "text": "Background"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "SoundRec_TxtKey1",
         "text": ""
-      },
+      }
+    ],
+    [
       {
         "label": "SoundRec_TxtKey2",
         "text": ""
-      },
+      }
+    ],
+    [
       {
         "label": "SoundRec_TxtKey3",
         "text": ""
-      },
+      }
+    ],
+    [
       {
         "label": "SoundRec_TxtKey4",
         "text": ""
-      },
+      }
+    ],
+    [
       {
         "label": "SoundRec_TxtBGMRecOn",
         "text": "Recording..."
-      },
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "SoundRec_TxtSE4Rec",
-        "text": "Sound 4"
-      },
+        "text": "Sound Effect 4"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "SoundRec_TxtSE2RecOn",
         "text": "Recording..."
