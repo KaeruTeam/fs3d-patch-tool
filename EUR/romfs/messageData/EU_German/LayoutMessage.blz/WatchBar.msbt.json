@@ -1,0 +1,150 @@
+{
+  "groups": [
+    [],
+    [
+      {
+        "label": "WatchBar_TxtCont",
+        "text": "Hochladen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtFolderDetail",
+        "text": "Ordner-Informationen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtAllStop",
+        "text": "Anhalten"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtSend",
+        "text": "Senden"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtPost",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WatchBar_TxtMemoDetail",
+        "text": "Details"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtDraw",
+        "text": "Bearbeiten"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtGet",
+        "text": "Empfangen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtAllPlay",
+        "text": "Alle abspielen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

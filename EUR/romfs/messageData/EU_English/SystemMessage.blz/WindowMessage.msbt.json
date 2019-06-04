@@ -4,31 +4,137 @@
       {
         "label": "WindowMessage_DefaultOk",
         "text": "OK"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowMessage_DefaultCancel",
         "text": "Back"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowMessage_PlayTime_Over_Next",
         "text": "OK"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowMessage_PlayTime_Over",
         "text": "Be sure to take breaks\nso you don't get tired."
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowMessage_DefaultNext",
         "text": "Next"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowLock_TxtSetContents_plural",
         "text": "Lock these Flipnotes?"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowLock_TxtSetContents",
         "text": "Lock the Flipnote?"
       }
-    ]
+    ],
+    [],
+    [],
+    []
   ]
 }

@@ -1,0 +1,352 @@
+{
+  "groups": [
+    [],
+    [
+      {
+        "label": "WindowWait_Save_ImageDb_OverNumFolders",
+        "text": "Sauvegarde impossible.\nLa carte SD contient trop de\ndossiers vidéo ou d'images.\n\nEffacez des dossiers dans\nl'appareil photo Nintendo 3DS."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_CreateFolder_NothingFreeSpace",
+        "text": "Il n'y a pas assez d'espace\nlibre sur la carte SD."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteIconFile",
+        "text": "Sauvegarde de l'icône..."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_DeleteFolder_Success",
+        "text": "Suppression du dossier..."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_SaveDataLoadError_Verificate",
+        "text": "Les données de sauvegarde\nsont corrompues et vont être\nréinitialisées."
+      },
+      {
+        "label": "WindowConfirm_Save_OutputConfirm_Ok",
+        "text": "Sauvegarder"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_Write_NothingFreeSpace",
+        "text": "Sauvegarde impossible.\nEspace libre insuffisant\nsur la carte SD."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Save_WriteGifAviFile_MemoryError",
+        "text": "Sauvegarde impossible.\nEspace libre insuffisant\nsur la carte SD."
+      },
+      {
+        "label": "WindowInfo_Title_Lock_TextSet",
+        "text": "Verrouillage"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_WarningFullFolder",
+        "text": "Tous les dossiers sont pleins,\nvous ne pouvez donc pas\nsauvegarder d'autre Flipnote.\nVeuillez effacer des Flipnotes\npour libérer de l'espace."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Save_WriteJpeg",
+        "text": "Sauvegarde du fichier...\n\nN'éteignez pas la console et\nne retirez pas la carte SD."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_Folder_OverPath",
+        "text": "Il existe un autre dossier\nportant le même nom."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_InvalidList",
+        "text": "Le fichier de gestion était\ncorrompu et a été effacé."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_OutputConfirmAvi_Ok",
+        "text": "Sauvegarder"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteGifAviFile",
+        "text": "Sauvegarde du fichier...\n(L'opération peut prendre\nun certain temps.)\nN'éteignez pas la console et\nne retirez pas la carte SD."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_DeleteMemo",
+        "text": "Effacement de la Flipnote..."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteMemoFile_OverPath",
+        "text": "Impossible de sauvegarder cette\nFlipnote car il existe déjà un\nfichier Flipnote portant le même\nnom sur la carte SD. Essayez\nd'effectuer la sauvegarde dans\nun autre dossier."
+      },
+      {
+        "label": "WindowWait_Initialize_PatchError_CloseApplication",
+        "text": "Une erreur est survenue.\nImpossible de continuer.\n\nAppuyez sur ,\npuis quittez le logiciel."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteMemoFile",
+        "text": "Sauvegarde de la Flipnote..."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Draw_IllustMode",
+        "text": "Sélectionnez ce mode pour\ntravailler sur le dessin comme\nsi les trois calques n'en\nformaient qu'un seul.\nVous pouvez ainsi modifier le\ndessin ou le déplacer sans tenir\ncompte de l'ordre des calques."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Config_AllDelete_End",
+        "text": "Toutes les Flipnotes et tous\nles dossiers ont été effacés."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_Failure",
+        "text": "Impossible d'accéder à la\ncarte SD."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_OutputConfirm_Cancel",
+        "text": "Annuler"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_SaveData_NewCreating",
+        "text": "Création de nouvelles données\nde sauvegarde..."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_SampleMemoCopy_FolderFull",
+        "text": "Le dossier Home est plein.\n\nDes exemples de Flipnotes\nn'ont pas pu être copiés."
+      },
+      {
+        "label": "WindowWait_Save_WriteJpeg_Info",
+        "text": "Données sauvegardées sur la\ncarte SD, dans le dossier\nindiqué sur l'écran supérieur."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteGifAviFile_CancelButton",
+        "text": "Annuler"
+      },
+      {
+        "label": "WindowInfo_Contents_Lock_TextSet_plural",
+        "text": "Verrouiller vos Flipnotes empêchera les\nautres utilisateurs de les éditer.\n\nCependant, les Flipnotes verrouillées\npeuvent toujours être renvoyées ou\npubliées sur Internet par le destinataire\nou par un tiers."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Initialize_Ready",
+        "text": "Préparation..."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_ReadIconFile_Failure",
+        "text": "Cette icône ne peut être lue."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Lock_TextSet",
+        "text": "Verrouiller votre Flipnote empêchera les\nautres utilisateurs de l'éditer.\n\nCependant, les Flipnotes verrouillées\npeuvent toujours être renvoyées ou\npubliées sur Internet par le destinataire\nou un tiers."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_OutputConfirm",
+        "text": "La sauvegarde dans ce format\npeut prendre un certain temps.\n\nCommencer l'opération ?"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_DefaultButton",
+        "text": "OK"
+      },
+      {
+        "label": "WindowWait_Save_WriteGifAviFile_OverNumImages",
+        "text": "Sauvegarde impossible.\nLa carte SD contient trop\nd'images ou de vidéos.\nUtilisez l'appareil photo\nNintendo 3DS afin d'en\neffacer et de libérer de\nl'espace."
+      },
+      {
+        "label": "WindowConfirm_Save_OutputConfirm_Jpeg_Ok",
+        "text": "Sauvegarder"
+      },
+      {
+        "label": "WindowWait_Draw_CameraFlagWarning",
+        "text": ""
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_Save_WriteGifAviFile_MemoryErrorStop",
+        "text": "Impossible de sauvegarder\ntoutes les données. Il n'y a\npas assez d'espace libre sur\nla carte SD."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Initialize_CloseApplication",
+        "text": "Appuyez sur ,\npuis quittez le logiciel.\nPour pouvoir être utilisé, ce\nlogiciel doit être mis à jour, ou\nses données de sauvegarde\ndoivent être réinitialisées."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_SaveDataLoadError_Failed",
+        "text": "Une erreur est survenue\nlors de la lecture des\ndonnées de sauvegarde."
+      },
+      {
+        "label": "WindowWait_AccessResult_CreateFolder",
+        "text": "Création du dossier..."
+      },
+      {
+        "label": "WindowWait_Save_WriteGifAviFile_AccessError",
+        "text": "Une erreur est survenue lors\nde la sauvegarde du fichier."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_SaveDataWriteError_Failed",
+        "text": "Une erreur est survenue\nlors de l'écriture des\ndonnées de sauvegarde."
+      },
+      {
+        "label": "WindowWait_AccessResult_RenameFolder_Success",
+        "text": "Mise à jour du nom\ndu dossier..."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_SaveDataWriting",
+        "text": "Sauvegarde en cours..."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_WarningSdCardFreeSpace",
+        "text": "La carte SD est presque pleine.\n\nPensez à libérer de l'espace."
+      },
+      {
+        "label": "WindowConfirm_Save_OutputConfirm_Jpeg",
+        "text": "Sauvegarder la page\nau format JPEG ?\n\nNote : le fichier sera\nsauvegardé dans l'appareil\nphoto Nintendo 3DS."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_MoveMemoFile_OverPath",
+        "text": "Le déplacement a été\ninterrompu car il existe déjà\nun fichier Flipnote portant le\nmême nom dans le dossier\nde destination."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteMemoOrListFile_NothingFreeSpace",
+        "text": "Sauvegarde de la Flipnote ou\ndu fichier de gestion impossible.\nEspace libre insuffisant\nsur la carte SD."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Config_AllDelete",
+        "text": "Effacement des données..."
+      },
+      {
+        "label": "WindowConfirm_Save_OutputConfirmAvi",
+        "text": "La sauvegarde au format AVI\npeut prendre un certain temps.\nCommencer l'opération ?\n\nNote : le fichier sera\nsauvegardé dans l'appareil\nphoto Nintendo 3DS."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_ReadMemoFile_Failure",
+        "text": "Impossible de lire la Flipnote."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteList",
+        "text": "Sauvegarde du fichier\nde gestion..."
+      }
+    ],
+    [],
+    []
+  ]
+}

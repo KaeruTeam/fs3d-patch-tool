@@ -1,0 +1,135 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwAssistTool_TxtPaperColor",
+        "text": "Papier"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwAssistTool_TxtTrans",
+        "text": "Transformer"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwAssistTool_TxtSelect",
+        "text": "Lasso"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwAssistTool_TxtTrace",
+        "text": "Éclairer"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwAssistTool_TxtCopy",
+        "text": "Copier"
+      }
+    ],
+    [
+      {
+        "label": "DrwAssistTool_TxtRectangle",
+        "text": "Formes"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

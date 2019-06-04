@@ -1,0 +1,324 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "FrogMemo3D_10",
+        "text": "(Verstelle den 3D-Tiefenregler,\num den Bildschirm in 3D zu sehen.)"
+      },
+      {
+        "label": "FrogMemoLSift_1",
+        "text": "Quak!\nKennst du schon\ndie L-Taste?"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_11",
+        "text": "Und wie können wir jetzt\nmit diesem Effekt arbeiten?"
+      },
+      {
+        "label": "FrogMemoLSift_2",
+        "text": "Drücke die L-Taste\n(oder die R-Taste,\nwenn du Links-\nhänder bist)..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_12",
+        "text": "Machen wir das hier kleiner..."
+      },
+      {
+        "label": "FrogMemoLSift_3",
+        "text": "...um neue Optionen\nerscheinen zu lassen!"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_13",
+        "text": "...und lassen es hüpfen."
+      },
+      {
+        "label": "FrogMemoLSift_4",
+        "text": "Versuch es!\nBestimmt ist etwas\nNützliches dabei."
+      },
+      {
+        "label": "Bug",
+        "text": "Mit den erweiterten\nUtensilien\nund 3D\nerstellt."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_14",
+        "text": "BOING!"
+      },
+      {
+        "label": "FrogMemoLSift_5",
+        "text": "Bis bald!"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_15",
+        "text": "BOING!"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_16",
+        "text": "Sieh mal!\nEs ist ein Ball!"
+      }
+    ],
+    [
+      {
+        "label": "DotSheep",
+        "text": "Erstellt mit den normalen Utensilien,\nL-Taste + ○ und Transformieren:\nVergrößern."
+      },
+      {
+        "label": "FrogMemo3D_17",
+        "text": "Versuch es doch mal!\nAber fang mit etwas\nLeichtem an, ja?"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_18",
+        "text": "Bis später!"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Punch",
+        "text": "Mit den erweiterten\nUtensilien und\n3D erstellt."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "Swim",
+        "text": "Mit den erweiterten\nUtensilien und 3D\nerstellt."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Plane",
+        "text": "Erstellt mit den erweiterten\nUtensilien und Transformieren."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSample_1",
+        "text": "Flipnote Farbpalette"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_2",
+        "text": "Basisfarbe Schwarz"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_3",
+        "text": "Basisfarbe Weiß"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_4",
+        "text": "Basisfarbe Rot"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_5",
+        "text": "Basisfarbe Gelb"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_6",
+        "text": "Basisfarbe Grün"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_7",
+        "text": "Basisfarbe Blau"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "FrogMemoLayer_1",
+        "text": "Quak!\nWas hat es eigentlich mit den\nEbenen auf sich, die in den\nerweiterten Utensilien auf dich\nwarten?"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_2",
+        "text": "Mit den normalen Utensilien..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_3",
+        "text": "...zeichnest du auf einer\neinzigen Arbeitsfläche."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_4",
+        "text": "Aber mit den erweiterten\nUtensilien..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_5",
+        "text": "...kannst du auf bis zu drei\nEbenen zeichnen."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_6",
+        "text": "Es ist zwar etwas\nkomplizierter..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_7",
+        "text": "Aber wenn du erst mal den\nDreh raus hast, dann ist\nes ziemlich praktisch."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_1",
+        "text": "Quak!\nMöchtest du mehr über\n3D-Animationen erfahren?"
+      },
+      {
+        "label": "FrogMemoLayer_8",
+        "text": "Und jetzt pass auf..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_2",
+        "text": "Nun... Was ist eine 3D-Animation?"
+      },
+      {
+        "label": "FrogMemoLayer_9",
+        "text": "Du kannst tolle 3D-Animationen\nzaubern, indem du eine Ebene\nverschiebst."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_3",
+        "text": "Es ist eine Animation..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_4",
+        "text": "...die auf Tiefenwirkung\nberuht."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_5",
+        "text": "Das Bild lässt sich\nnach vorne..."
+      },
+      {
+        "label": "FrogMemoLayer_10",
+        "text": "Probier es doch mal aus!"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_6",
+        "text": "...und nach hinten\nbewegen."
+      },
+      {
+        "label": "FrogMemoLayer_11",
+        "text": "Tschüssi!"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_7",
+        "text": "Um 3D zu verwenden, berühre\ndas Symbol oben rechts."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_8",
+        "text": "Dann verstelle den Schieber auf der\nLeiste, um die Tiefe zu verändern."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_9",
+        "text": "Schauen wir uns das Ganze\ndoch mal von vorne an."
+      }
+    ],
+    [],
+    []
+  ]
+}

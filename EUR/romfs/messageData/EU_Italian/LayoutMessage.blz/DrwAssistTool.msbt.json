@@ -1,0 +1,135 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwAssistTool_TxtPaperColor",
+        "text": "Sfondo"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwAssistTool_TxtTrans",
+        "text": "Trasformazioni"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwAssistTool_TxtSelect",
+        "text": "Modifica area"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwAssistTool_TxtTrace",
+        "text": "Ricalco"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwAssistTool_TxtCopy",
+        "text": "Copia"
+      }
+    ],
+    [
+      {
+        "label": "DrwAssistTool_TxtRectangle",
+        "text": "Forme"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

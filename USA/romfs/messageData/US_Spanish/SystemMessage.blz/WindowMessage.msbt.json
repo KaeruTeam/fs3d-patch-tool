@@ -1,0 +1,140 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WindowMessage_DefaultOk",
+        "text": "Sí"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_DefaultCancel",
+        "text": "No"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_PlayTime_Over_Next",
+        "text": "Aceptar"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_PlayTime_Over",
+        "text": "Procura descansar de vez\nen cuando."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_DefaultNext",
+        "text": "Siguiente"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowLock_TxtSetContents_plural",
+        "text": "¿Quieres bloquear estas Flipnotes?"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowLock_TxtSetContents",
+        "text": "¿Quieres bloquear esta Flipnote?"
+      }
+    ],
+    [],
+    [],
+    []
+  ]
+}

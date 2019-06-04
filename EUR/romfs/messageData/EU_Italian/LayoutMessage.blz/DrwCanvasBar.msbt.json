@@ -1,0 +1,150 @@
+{
+  "groups": [
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtPushNaviRP",
+        "text": " Torna al foglio    Gira foglio"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtNaviL",
+        "text": " Menu   / Gira foglio    Riproduci"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtNaviR",
+        "text": " Menu    Gira foglio    Riproduci"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtLayerA",
+        "text": "A"
+      }
+    ],
+    [
+      {
+        "label": "DrwCanvasBar_TxtLayerB",
+        "text": "B"
+      }
+    ],
+    [
+      {
+        "label": "DrwCanvasBar_TxtLayerC",
+        "text": "C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtPushNaviLP",
+        "text": " Torna al foglio   / Gira foglio"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtPushNaviL",
+        "text": " Annulla    Rifai"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtPushNaviR",
+        "text": " Annulla    Rifai"
+      }
+    ],
+    [],
+    [],
+    []
+  ]
+}

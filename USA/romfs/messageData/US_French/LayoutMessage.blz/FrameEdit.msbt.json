@@ -1,0 +1,198 @@
+{
+  "groups": [
+    [
+      {
+        "label": "FrameEdit_TxtCopy",
+        "text": "Copier"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "FrameEdit_TxtClear",
+        "text": "Couper"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "FrameEdit_TxtColor",
+        "text": "Appliquer para. couleurs partout"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "FrameEdit_TxtNew",
+        "text": "Insérer"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "FrameEdit_TxtLPaste",
+        "text": "Coller sur"
+      },
+      {
+        "label": "FrameEdit_TxtCopyA",
+        "text": "A"
+      }
+    ],
+    [
+      {
+        "label": "FrameEdit_TxtCopyB",
+        "text": "B"
+      }
+    ],
+    [
+      {
+        "label": "FrameEdit_TxtLOver",
+        "text": "Intégrer à"
+      },
+      {
+        "label": "FrameEdit_TxtCopyC",
+        "text": "C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "FrameEdit_TxtClearA",
+        "text": "A"
+      },
+      {
+        "label": "FrameEdit_TxtPasteA",
+        "text": "A"
+      }
+    ],
+    [
+      {
+        "label": "FrameEdit_TxtClearB",
+        "text": "B"
+      },
+      {
+        "label": "FrameEdit_TxtPasteB",
+        "text": "B"
+      },
+      {
+        "label": "FrameEdit_TxtDepth",
+        "text": "Appliquer paramètres 3D partout"
+      }
+    ],
+    [
+      {
+        "label": "FrameEdit_TxtClearC",
+        "text": "C"
+      },
+      {
+        "label": "FrameEdit_TxtPasteC",
+        "text": "C"
+      }
+    ],
+    [
+      {
+        "label": "FrameEdit_TxtLClear",
+        "text": "Couper"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "FrameEdit_TxtPaste",
+        "text": "Coller"
+      },
+      {
+        "label": "FrameEdit_TxtOver",
+        "text": "Intégrer"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "FrameEdit_TxtLCopy",
+        "text": "Copier"
+      }
+    ],
+    [],
+    []
+  ]
+}

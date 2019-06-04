@@ -1,142 +1,308 @@
 {
   "groups": [
+    [],
+    [],
+    [],
+    [],
     [
       {
         "label": "WindowInfo_Contents_Save_QrCode",
         "text": "\u000e\u0001\u0004\u0002"
-      },
+      }
+    ],
+    [],
+    [
       {
         "label": "WindowConfirm_DefaultNext",
         "text": "OK"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_DefaultOk",
         "text": "OK"
-      },
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_FrameEdit_UnityPalette_LayerMode",
         "text": "このページの\nパレットと紙色の設定を\nすべてのページに反映しますか？"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowInfo_Title_Save_Jpg",
         "text": "出力場所"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowConfirm_Initialize_ClearSavedata_Ok",
         "text": "初期化する"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowConfirm_Save_IsQuit",
         "text": "メモが変更されています。\n保存せずに終了しますか？"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_Memo_Over",
         "text": "このフォルダは、\nメモがいっぱいです。\n\n保存できません。"
       },
       {
+        "label": "WindowConfirm_Initialize_PatchDownload_Ok",
+        "text": "ダウンロード"
+      }
+    ],
+    [
+      {
         "label": "WindowConfirm_Initialize_SaveDataClear_Cancel",
         "text": "キャンセル"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowConfirm_FrameEdit_UnityParallax",
         "text": "このページの3Dの設定を\nすべてのページに反映しますか？"
-      },
+      }
+    ],
+    [],
+    [
       {
         "label": "WindowConfirm_FrameEdit_UnityPalette_LayerMode_Ok",
         "text": "反映する"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowConfirm_Delete_Folder_Confirm_Ok",
         "text": "削除する"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowInfo_Contents_Save_Jpg",
         "text": "\u000e\u0001\u0004\u0002"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_Save_SD_InfoAvi",
         "text": "上画面に書いてある\nSDカードの場所に保存しました。\n\n出力したムービーは\nニンテンドー3DSカメラで\n見ることができます。"
-      },
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_Save_SD_Info",
         "text": "上画面に書いてある\nSDカードの場所に保存しました。"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_FrameEdit_UnityParallax_Ok",
         "text": "反映する"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_Save_IsQuit_Cancel",
         "text": "キャンセル"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowInfo_Title_Save_SD_Info",
         "text": "出力場所"
-      },
+      }
+    ],
+    [],
+    [
       {
         "label": "WindowConfirm_FrameEdit_UnityPalette_ColorMode_Ok",
         "text": "反映する"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_Initialize_SaveDataClear_Real_Cancel",
         "text": "キャンセル"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowConfirm_Save_IsQuit_Icon",
         "text": "アイコンが変更されていますが、\nもどりますか？"
       },
       {
+        "label": "WindowConfirm_Initialize_SaveDataClear",
+        "text": "初期化しますか？\n\n保存されているメモは\n消えません。"
+      },
+      {
+        "label": "WindowConfirm_Save_MemoSave_Sns_Ok",
+        "text": "保存せず起動"
+      }
+    ],
+    [],
+    [
+      {
         "label": "WindowConfirm_Initialize_SaveDataClear_Ok",
         "text": "初期化する"
-      },
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_Save_Browser_Sns_Ok",
         "text": "起動する"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_Save_IsQuit_Ok",
         "text": "保存せず終了"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowConfirm_DefaultCancel",
         "text": "キャンセル"
-      },
+      }
+    ],
+    [],
+    [
       {
         "label": "WindowConfirm_Initialize_ClearSavedata",
         "text": "このまま続ける場合は\nセーブデータを初期化する\n必要があります。初期化しますか？\n\n※設定が元に戻ります。\n保存されているメモは消えません。"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowWait_Initialize_SaveDataClear",
         "text": "初期化しています…"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowConfirm_FrameEdit_UnityPalette_ColorMode",
         "text": "このページの紙色の設定を\nすべてのページに反映しますか？"
-      },
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_Initialize_SaveDataClear_Real",
         "text": "本当に初期化しますか？"
       },
       {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Real_Ok",
+        "text": "初期化する"
+      },
+      {
+        "label": "WindowInfo_Title_Save_SD_InfoAvi",
+        "text": "出力場所"
+      },
+      {
+        "label": "WindowConfirm_Initialize_PatchDownload",
+        "text": "このソフトで遊ぶには\n最新版をダウンロードする\n必要があります。\n\n今すぐ ダウンロードを行いますか？"
+      }
+    ],
+    [],
+    [
+      {
         "label": "WindowConfirm_Delete_Memo_Confirm_Cancel",
         "text": "キャンセル"
-      },
+      }
+    ],
+    [],
+    [
       {
         "label": "WindowConfirm_Delete_Folder_Confirm",
         "text": "フォルダとフォルダ内のメモを\n削除しますか？\n\n消えたフォルダとメモは\nもとに戻りません。"
       },
       {
+        "label": "WindowInfo_Title_Save_QrCode",
+        "text": "QRコードの出力場所"
+      }
+    ],
+    [],
+    [
+      {
         "label": "WindowConfirm_Save_MemoSave_Sns",
         "text": "メモの保存がされていません。\n保存せずに、起動して\nよろしいですか？\n\n※ニンテンドー3DS画像投稿ツール\nを起動する前に、メモの保存を\nおすすめします。"
-      },
+      }
+    ],
+    [],
+    [
       {
         "label": "WindowConfirm_Delete_Memo_Confirm_Ok",
         "text": "削除する"
       },
       {
+        "label": "WindowConfirm_Save_Browser_Sns",
+        "text": "ニンテンドー3DS画像投稿ツールに\n接続するため、インターネット\nブラウザーを起動します。\n\nよろしいですか？"
+      }
+    ],
+    [
+      {
         "label": "WindowConfirm_Delete_Memo_Confirm",
         "text": "メモを削除しますか？\n\n消えたメモは、\nもとに戻りません。"
-      },
+      }
+    ],
+    [],
+    [
       {
         "label": "WindowConfirm_Delete_Folder_Confirm_Cancel",
         "text": "キャンセル"

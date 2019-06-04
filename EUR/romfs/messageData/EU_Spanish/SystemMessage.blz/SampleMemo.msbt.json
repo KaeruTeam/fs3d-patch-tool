@@ -1,0 +1,324 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "FrogMemo3D_10",
+        "text": "(Mueve el regulador 3D para ver la pantalla en 3D.)"
+      },
+      {
+        "label": "FrogMemoLSift_1",
+        "text": "¡Hola! ¿Sabes lo que hacen los botones L y R?"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_11",
+        "text": "¿Y qué uso le podemos dar a este efecto?"
+      },
+      {
+        "label": "FrogMemoLSift_2",
+        "text": "Si mantienes pulsado el botón L (o el R si usas la mano izquierda)..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_12",
+        "text": "El objeto se encoge..."
+      },
+      {
+        "label": "FrogMemoLSift_3",
+        "text": "¡podrás acceder a opciones adicionales!"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_13",
+        "text": "y parece que bota."
+      },
+      {
+        "label": "FrogMemoLSift_4",
+        "text": "¿Por qué no lo intentas? Seguro que le encuentras utilidad."
+      },
+      {
+        "label": "Bug",
+        "text": "Creada con herramientas avanzadas y 3D"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_14",
+        "text": "BOING"
+      },
+      {
+        "label": "FrogMemoLSift_5",
+        "text": "¡Hasta la vista!"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_15",
+        "text": "BOING"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_16",
+        "text": "¿Lo ves? ¡Es una pelota!"
+      }
+    ],
+    [
+      {
+        "label": "DotSheep",
+        "text": "Creada con herramientas básicas, botón L/R + ○ y agrandar (en transformar)"
+      },
+      {
+        "label": "FrogMemo3D_17",
+        "text": "¿Por qué no pruebas por tu cuenta? ¡Empieza por algo sencillo!"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_18",
+        "text": "¡Hasta la vista!"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Punch",
+        "text": "Creada con herramientas avanzadas y 3D"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "Swim",
+        "text": "Creada con herramientas avanzadas y 3D"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Plane",
+        "text": "Creada con herramientas avanzadas y transformar"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSample_1",
+        "text": "Paleta de colores de Flipnote"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_2",
+        "text": "Base negra"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_3",
+        "text": "Base blanca"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_4",
+        "text": "Base roja"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_5",
+        "text": "Base amarilla"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_6",
+        "text": "Base verde"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_7",
+        "text": "Base azul"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "FrogMemoLayer_1",
+        "text": "¡Hola! ¿Conoces las \"capas\" de las herramientas avanzadas?"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_2",
+        "text": "Con las herramientas básicas..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_3",
+        "text": "solo tienes una hoja de papel en la que dibujar."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_4",
+        "text": "Pero con las avanzadas..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_5",
+        "text": "tienes tres capas diferentes."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_6",
+        "text": "Es un poco más complicado."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_7",
+        "text": "Pero resulta útil cuando le coges el tranquillo."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_1",
+        "text": "¡Hola! ¿Quieres aprender a hacer animaciones en 3D?"
+      },
+      {
+        "label": "FrogMemoLayer_8",
+        "text": "Fíjate bien."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_2",
+        "text": "¿Y qué es una animación en 3D?"
+      },
+      {
+        "label": "FrogMemoLayer_9",
+        "text": "Con solo mover una capa, puedes crear animaciones en 3D geniales."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_3",
+        "text": "Es una animación..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_4",
+        "text": "que usa la profundidad."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_5",
+        "text": "La imagen se puede mover hacia delante..."
+      },
+      {
+        "label": "FrogMemoLayer_10",
+        "text": "¡No dudes en probar esta función!"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_6",
+        "text": "y hacia atrás."
+      },
+      {
+        "label": "FrogMemoLayer_11",
+        "text": "¡Hasta la vista!"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_7",
+        "text": "Toca el icono de la esquina superior derecha."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_8",
+        "text": "Después, mueve el regulador para ajustar la profundidad."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_9",
+        "text": "Vamos a verlo de frente."
+      }
+    ],
+    [],
+    []
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Save_QrCode",
+        "text": ""
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_DefaultNext",
+        "text": "OK"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_DefaultOk",
+        "text": "OK"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityPalette_LayerMode",
+        "text": "Vuoi applicare a tutti i fogli\nle impostazioni del colore\ne dello sfondo utilizzati\nper questo foglio?"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Title_Save_Jpg",
+        "text": "Destinazione di salvataggio"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Initialize_ClearSavedata_Ok",
+        "text": "Elimina dati"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Save_IsQuit",
+        "text": "Questo Flipnote è stato\nmodificato. Vuoi davvero\nuscire senza salvare?"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Memo_Over",
+        "text": "Non puoi salvare questo\nFlipnote perché la cartella\nè piena."
+      },
+      {
+        "label": "WindowConfirm_Initialize_PatchDownload_Ok",
+        "text": "Scarica"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Cancel",
+        "text": "No"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityParallax",
+        "text": "Vuoi applicare a tutti i fogli\nle impostazioni 3D utilizzate\nper questo foglio?"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityPalette_LayerMode_Ok",
+        "text": "Applica"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Delete_Folder_Confirm_Ok",
+        "text": "Elimina"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Save_Jpg",
+        "text": "\u000e\u0001\u0004\u0002"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_SD_InfoAvi",
+        "text": "Salvato nella scheda SD\nnella destinazione indicata\nsullo schermo superiore.\n\nPer visualizzare il tuo video, usa\nla Fotocamera Nintendo 3DS."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_SD_Info",
+        "text": "Salvato nella scheda SD\nnella destinazione indicata\nsullo schermo superiore."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityParallax_Ok",
+        "text": "Applica"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_IsQuit_Cancel",
+        "text": "No"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Title_Save_SD_Info",
+        "text": "Destinazione di salvataggio"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityPalette_ColorMode_Ok",
+        "text": "Applica"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Real_Cancel",
+        "text": "No"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Save_IsQuit_Icon",
+        "text": "Eventuali modifiche fatte\nall'icona saranno perdute.\n\nVuoi davvero uscire\nsenza salvare?"
+      },
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear",
+        "text": "Vuoi ripristinare le\nimpostazioni originali?\n\nI Flipnote salvati non\nsaranno eliminati."
+      },
+      {
+        "label": "WindowConfirm_Save_MemoSave_Sns_Ok",
+        "text": "Sì"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Ok",
+        "text": "Sì"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_Browser_Sns_Ok",
+        "text": "Sì"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_IsQuit_Ok",
+        "text": "Sì"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_DefaultCancel",
+        "text": "Annulla"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Initialize_ClearSavedata",
+        "text": "Proseguendo, i dati di\nsalvataggio verranno eliminati.\n\nNota: verranno ripristinate\nle impostazioni originali.\nI tuoi Flipnote non saranno\neliminati."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Initialize_SaveDataClear",
+        "text": "Ripristino in corso..."
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityPalette_ColorMode",
+        "text": "Vuoi applicare a tutti i fogli\nle impostazioni dello sfondo\nutilizzate per questo foglio?"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Real",
+        "text": "Vuoi davvero ripristinare\nle impostazioni originali?"
+      },
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Real_Ok",
+        "text": "Sì"
+      },
+      {
+        "label": "WindowInfo_Title_Save_SD_InfoAvi",
+        "text": "Destinazione di salvataggio"
+      },
+      {
+        "label": "WindowConfirm_Initialize_PatchDownload",
+        "text": "Prima di utilizzare il software\nè necessario aggiornarlo.\n\nVuoi scaricare adesso\nla versione più recente?"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Delete_Memo_Confirm_Cancel",
+        "text": "Annulla"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Delete_Folder_Confirm",
+        "text": "Vuoi eliminare questa cartella\ne tutto il suo contenuto?\n\nLa cartella e i Flipnote eliminati\nnon potranno essere recuperati."
+      },
+      {
+        "label": "WindowInfo_Title_Save_QrCode",
+        "text": ""
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_MemoSave_Sns",
+        "text": "Il Flipnote non è stato salvato.\nVuoi davvero aprire il browser?\n\nNota: è consigliabile salvare\ni Flipnote prima di utilizzare\nla Condivisione immagini\nper Nintendo 3DS."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Delete_Memo_Confirm_Ok",
+        "text": "Elimina"
+      },
+      {
+        "label": "WindowConfirm_Save_Browser_Sns",
+        "text": "Per utilizzare la Condivisione\nimmagini per Nintendo 3DS\nè necessario aprire\nil browser Internet.\n\nVa bene?"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Delete_Memo_Confirm",
+        "text": "Vuoi eliminare\nquesto Flipnote?\n\nI Flipnote eliminati\nnon potranno essere\nrecuperati."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Delete_Folder_Confirm_Cancel",
+        "text": "Annulla"
+      }
+    ]
+  ]
+}

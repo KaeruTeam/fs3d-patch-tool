@@ -1,0 +1,145 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_FolderRename",
+        "text": "Ordner umbenennen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Icon_Editor",
+        "text": "Symbol wählen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Icon_Editor_Edit",
+        "text": "Ändere das Ordnersymbol.\n\nDas Symbol kannst\ndu jederzeit ändern."
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Icon_Editor",
+        "text": "Wähle ein Symbol für den Ordner.\n\nDieses kannst du später\nändern, wenn du möchtest."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Icon_Editor_Edit",
+        "text": "Symbol ändern"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Icon_Editor_Folder",
+        "text": "Neuer Ordner"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Icon_Editor_Folder",
+        "text": "Bitte benenne den Ordner.\n\nEin bereits verwendeter Ordnername\nkann nicht erneut gewählt werden."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_FolderRename",
+        "text": "Gib einen Namen für den Ordner ein.\n\nEin bereits existierender Ordnername\nkann nicht erneut gewählt werden."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

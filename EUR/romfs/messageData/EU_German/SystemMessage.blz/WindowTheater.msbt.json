@@ -1,0 +1,272 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WindowConfirm_Theater_QrCode_PageJump",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_Reboot",
+        "text": "Die neueste Version von\nFlipnote Studio 3D wurde\nheruntergeladen.\nDie Software wird nun\nneu gestartet."
+      },
+      {
+        "label": "WindowWait_Theater_QrCode_Read_Failed",
+        "text": ""
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Theater_AppJumpToEshop",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Theater_PostCommentMemo",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Theater_QrCode_Saving",
+        "text": ""
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Theater_QrCode_Create",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Theater_PostCommentMemo_Return",
+        "text": ""
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_QrCode_Save_Result",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_CancelPostMemo",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_Post_Memo_Violation",
+        "text": ""
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_MemoDownloadError",
+        "text": "Die Flipnote konnte nicht\nheruntergeladen werden."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Theater_MemoDownload_CancelButton",
+        "text": "Abbrechen"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Theater_UpdatePatch",
+        "text": "Diese Software muss\naktualisiert werden, bevor das\nNintendo DSi-Archiv verwendet\nwerden kann.\nMöchtest du die neueste\nVersion dieser Software\njetzt herunterladen?"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_Prepare_Post_Memo",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Theater_EshopJump",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Theater_UpdatePatch_Ok",
+        "text": "Herunterladen"
+      },
+      {
+        "label": "WindowWait_Theater_Reboot_Button",
+        "text": "Neu starten"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Theater_AppJump_Ok",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_PostMemo_CancelButton",
+        "text": ""
+      },
+      {
+        "label": "WindowWait_Theater_QrCode_Reading_CancelButton",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_PostMemo",
+        "text": ""
+      },
+      {
+        "label": "WindowWait_Theater_MemoDownload",
+        "text": "Bitte warte einen Moment..."
+      },
+      {
+        "label": "WindowWait_Theater_QrCode_Reading",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Theater_EshopJump_Ok",
+        "text": ""
+      },
+      {
+        "label": "WindowConfirm_Theater_AppJump",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Theater_Login",
+        "text": "Verbindungsaufbau mit\ndem Nintendo Network..."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Theater_AppJumpToEshop_Ok",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Theater_PostCommentMemo_Return_Ok",
+        "text": ""
+      },
+      {
+        "label": "WindowConfirm_Theater_QrCode_PageJump_Ok",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_Prepare_Post_Memo_CancelButton",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Theater_ReturnTitle",
+        "text": "Ein Fehler ist aufgetreten.\nZurück zum Titelbildschirm?"
+      },
+      {
+        "label": "WindowConfirm_Theater_QrCode_Create_Ok",
+        "text": ""
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_AppJump_NotFound",
+        "text": ""
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_Login_CancelButton",
+        "text": "Abbrechen"
+      }
+    ],
+    [],
+    [],
+    [],
+    []
+  ]
+}

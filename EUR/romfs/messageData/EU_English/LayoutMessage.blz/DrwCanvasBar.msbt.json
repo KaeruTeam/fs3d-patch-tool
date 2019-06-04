@@ -1,42 +1,150 @@
 {
   "groups": [
+    [],
     [
       {
         "label": "DrwCanvasBar_TxtPushNaviRP",
         "text": " Back to page     Turn page"
-      },
+      }
+    ],
+    [],
+    [
       {
         "label": "DrwCanvasBar_TxtNaviL",
         "text": " Menu    / Turn page     Play"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "DrwCanvasBar_TxtNaviR",
         "text": " Menu     Turn page     Play"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "DrwCanvasBar_TxtLayerA",
         "text": "A"
-      },
+      }
+    ],
+    [
       {
         "label": "DrwCanvasBar_TxtLayerB",
         "text": "B"
-      },
+      }
+    ],
+    [
       {
         "label": "DrwCanvasBar_TxtLayerC",
         "text": "C"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "DrwCanvasBar_TxtPushNaviLP",
         "text": " Back to page    / Turn page"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "DrwCanvasBar_TxtPushNaviL",
         "text": " Undo     Redo"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "DrwCanvasBar_TxtPushNaviR",
         "text": " Undo     Redo"
       }
-    ]
+    ],
+    [],
+    [],
+    []
   ]
 }

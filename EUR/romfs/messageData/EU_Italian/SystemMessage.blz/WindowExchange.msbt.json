@@ -1,0 +1,323 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_ReadyWait",
+        "text": "In attesa dell'altro utente..."
+      },
+      {
+        "label": "WindowWait_MemoExchange_Send_Failure",
+        "text": "Impossibile inviare il Flipnote."
+      },
+      {
+        "label": "ExchangeUpper_TxtSetContents_Wait",
+        "text": "Attendi..."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Exchange_Top",
+        "text": "Scambia Flipnote"
+      },
+      {
+        "label": "WindowConfirm_MemoExchange_Connect_Cancel",
+        "text": "No"
+      },
+      {
+        "label": "ExchangeUpper_TxtSetContents_Receive",
+        "text": "Seleziona la cartella di\ndestinazione e tocca Ricevi."
+      },
+      {
+        "label": "WindowWait_MemoExchange_Disconnect_Report",
+        "text": "L'altro utente ha interrotto\nil collegamento."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_MemoExchange_Disconnect",
+        "text": "Vuoi davvero interrompere\nil collegamento?"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_MemoExchange_FullFolder",
+        "text": "Questa cartella è piena.\n\nSelezionane un'altra."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_ReadyOk",
+        "text": "Il collegamento\nè stato stabilito."
+      },
+      {
+        "label": "WindowWait_MemoExchange_ReadyWait_CancelButton",
+        "text": "Annulla"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_MemoExchange_Agreement_Ok",
+        "text": "Accetto"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Receive_Failure",
+        "text": "Impossibile ricevere il Flipnote."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_MemoExchange",
+        "text": "Ricerca utenti in corso..."
+      },
+      {
+        "label": "ExchangeUpper_TxtSetContents_Send_L",
+        "text": "Scegli un Flipnote e tocca Invia.\nTieni premuto il pulsante R per\nselezionare più Flipnote."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_ReturnTopmenu_Wait",
+        "text": "Attendi..."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_CancelButton",
+        "text": "Annulla"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ExchangeUpper_TxtConnect_Connect",
+        "text": "Collegamento con"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_ChangeFolder",
+        "text": "Questa cartella è piena.\n\nSelezionane un'altra."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ExchangeUpper_TxtSetTitle_Send",
+        "text": "Invia Flipnote"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Receive_Success_plural",
+        "text": "I Flipnote sono stati salvati."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Exchange_Agreement",
+        "text": "Non inviare Flipnote con contenuti illegali,\noffensivi o lesivi dei diritti di altre persone.\nInviando un Flipnote confermi di avere\nottenuto da terze parti tutti i diritti e\npermessi necessari. Inoltre, accetti che\ni Flipnote non protetti possano essere\nmodificati, pubblicati su Internet e\ncondivisi con terze parti."
+      },
+      {
+        "label": "WindowWait_MemoExchange_Receive_CancelButton",
+        "text": "Annulla"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_MemoExchange_PreReceive",
+        "text": "Ricezione in corso...\nPotrebbero essere necessari\nalcuni istanti."
+      }
+    ],
+    [
+      {
+        "label": "ExchangeUpper_TxtSetContents_Send",
+        "text": "Scegli un Flipnote e tocca Invia.\nTieni premuto il pulsante L per\nselezionare più Flipnote."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Exchange_Top",
+        "text": "Attenzione: se chiudi la console o accedi\nal menu HOME durante lo scambio,\nil collegamento sarà interrotto."
+      },
+      {
+        "label": "WindowWait_MemoExchange_Cancel",
+        "text": "L'operazione è\nstata annullata."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Receive_Failure_plural",
+        "text": "Impossibile ricevere i Flipnote."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Disconnect",
+        "text": "Il collegamento si è interrotto."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_MemoExchange_Connect_Ok",
+        "text": "Sì"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_MemoExchange_Agreement",
+        "text": "Prima di proseguire, leggi\nle informazioni riportate\nsullo schermo superiore."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Send_Success_plural",
+        "text": "I Flipnote sono stati inviati."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_MemoExchange_Connect",
+        "text": "Utente trovato:\n\u000e\u0001\u0002\u0002"
+      },
+      {
+        "label": "WindowWait_MemoExchange_Send_Success",
+        "text": "Il Flipnote è stato inviato."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Send_Failure_plural",
+        "text": "Impossibile inviare i Flipnote."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ExchangeUpper_TxtSetTitle_Receive",
+        "text": "Ricevi Flipnote"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Send",
+        "text": "Invio in corso...\nPotrebbero essere necessari\nalcuni istanti.\n\u000e\u0001"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Receive",
+        "text": "Ricezione in corso...\nPotrebbero essere necessari\nalcuni istanti.\n\u000e\u0001"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_StartWirelessOff",
+        "text": "Per scambiare i Flipnote occorre\nattivare la comunicazione wireless."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Receive_Success",
+        "text": "Il Flipnote è stato salvato."
+      },
+      {
+        "label": "WindowWait_MemoExchange_Send_InvalidMemo",
+        "text": "Impossibile completare il\ntrasferimento. Alcuni dati di\nFlipnote sono danneggiati."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_ErrorNothingPartner",
+        "text": "Impossibile collegarsi\ncon l'altro utente."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Receive_MemoFileCrached",
+        "text": "Impossibile completare il\ntrasferimento. Alcuni dati di\nFlipnote sono danneggiati."
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Title_Exchange_Agreement",
+        "text": "Avviso!"
+      },
+      {
+        "label": "ExchangeUpper_TxtConnect_Disconnect",
+        "text": "Nessun collegamento"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Send_CancelButton",
+        "text": "Annulla"
+      }
+    ]
+  ]
+}

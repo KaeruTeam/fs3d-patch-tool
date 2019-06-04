@@ -1,0 +1,150 @@
+{
+  "groups": [
+    [],
+    [
+      {
+        "label": "WatchBar_TxtCont",
+        "text": "Publicar"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtFolderDetail",
+        "text": "Detalles de la carpeta"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtAllStop",
+        "text": "Detener"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtSend",
+        "text": "Enviar"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtPost",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WatchBar_TxtMemoDetail",
+        "text": "Detalles"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtDraw",
+        "text": "Editar"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtGet",
+        "text": "Recibir"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtAllPlay",
+        "text": "Reproducir todas"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

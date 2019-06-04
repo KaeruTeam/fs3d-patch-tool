@@ -1,0 +1,144 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowLock_TxtSubjectA",
+        "text": "Nicht sperren"
+      }
+    ],
+    [
+      {
+        "label": "WindowLock_TxtSubjectB",
+        "text": "Sperren"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowLock_TxtGSubjectA",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowLock_TxtCancel",
+        "text": "Abbrechen"
+      },
+      {
+        "label": "WindowLock_TxtGSubjectB",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowLock_TxtOK",
+        "text": "Okay"
+      }
+    ],
+    [
+      {
+        "label": "WindowLock_TxtTSubjectA",
+        "text": "Nicht sperren"
+      }
+    ],
+    [
+      {
+        "label": "WindowLock_TxtTSubjectB",
+        "text": "Sperren"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

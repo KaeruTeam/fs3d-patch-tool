@@ -4,127 +4,278 @@
       {
         "label": "WindowInfo_Title_Config_PenBox",
         "text": "Tools"
-      },
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_Config_Se_A",
         "text": "On"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowConfirm_Config_Se_B",
         "text": "Off"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowInfo_Contents_Config_Delete",
         "text": "This will delete all Flipnotes and\nfolders created with this software.\n\n(This may take a long time.)"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowConfirm_Config_Hand_A",
         "text": "Right"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowConfirm_Config_Hand_B",
         "text": "Left"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_Config_AllDelete_Confirm_Ok",
         "text": "Delete"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowWait_Config_SampleCopy",
         "text": "Copying sample Flipnotes..."
-      },
+      }
+    ],
+    [
       {
         "label": "WindowConfirm_Config_AllDelete_Ok",
         "text": "Delete"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowInfo_Title_Config_Sample",
         "text": "Samples"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowConfirm_Config_PenBox_A",
         "text": "Normal"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowConfirm_Config_PenBox_B",
         "text": "Advanced"
-      },
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "WindowInfo_Title_Config_Creator",
         "text": "User Name"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowInfo_Contents_Config_PenBox",
         "text": "Select the normal or the advanced\ntool set for creating Flipnotes.\n\nWith the advanced tools, you can\nuse up to three layers."
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowInfo_Title_Config_Se",
         "text": "Sound Effects"
       },
       {
+        "label": "WindowInfo_Title_Config_Hand",
+        "text": "Stylus Hand"
+      }
+    ],
+    [],
+    [],
+    [
+      {
         "label": "WindowConfirm_Config_Sample_Ok",
         "text": "Copy"
       },
       {
+        "label": "WindowConfirm_Config_Frog_Title",
+        "text": "Frog"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
         "label": "WindowConfirm_Config_Frog_A",
         "text": "Display"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowInfo_Contents_Config_Hand",
         "text": "Controls for creating Flipnotes will be\nmapped differently depending on which\nhand you use the stylus with.\n\nPlease select your stylus hand."
       },
       {
+        "label": "WindowConfirm_Config_Frog_B",
+        "text": "Hide"
+      }
+    ],
+    [],
+    [
+      {
         "label": "WindowConfirm_Config_Sample",
         "text": "Copy sample Flipnotes\nto the SD card?"
-      },
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_Config_Sample_Cancel",
         "text": "Cancel"
-      },
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "WindowInfo_Contents_Config_Sample",
         "text": "Copy sample Flipnotes\nto the Home folder.\n\nCopying will fail if there is not enough\nfree space on the SD card."
-      },
+      }
+    ],
+    [
       {
         "label": "WindowConfirm_Config_AllDelete_Confirm_Cancel",
         "text": "Cancel"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowConfirm_Config_AllDelete_Confirm",
         "text": "Are you sure you want to\ndelete all your Flipnotes\nand folders?\n\nOnce this data is deleted,\nit cannot be recovered."
-      },
+      }
+    ],
+    [
       {
         "label": "WindowInfo_Contents_Config_Creator",
         "text": "Change your user name.\n\nYour user name is displayed in\nthe detailed information about your\nFlipnotes, among other places."
-      },
+      }
+    ],
+    [
       {
         "label": "WindowInfo_Contents_Config_Se",
         "text": "Choose whether or not to have\nsound effects when drawing,\ntouching icons and so on."
       },
       {
+        "label": "WindowConfirm_Config_PenBox_Title",
+        "text": "Tools"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
         "label": "WindowInfo_Title_Config_Frog",
         "text": "Frog"
       },
       {
+        "label": "WindowConfirm_Config_AllDelete_Cancel",
+        "text": "Cancel"
+      }
+    ],
+    [],
+    [],
+    [
+      {
         "label": "WindowInfo_Title_Config_Delete",
         "text": "Delete Flipnotes"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_Config_AllDelete",
         "text": "Do you want to delete\nFlipnotes and folders?"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowInfo_Contents_Config_Frog",
         "text": "Choose whether or not to\ndisplay the frog icon on the\nbottom-left of the Touch Screen\nwhile creating Flipnotes."
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_Config_Se_Title",
         "text": "Sound Effects"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowConfirm_Config_Hand_Title",
         "text": "Stylus Hand"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowWait_Config_SampleCopy_End",
         "text": "Sample Flipnotes have been\ncopied to the Home folder."

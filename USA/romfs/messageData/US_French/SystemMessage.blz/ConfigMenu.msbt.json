@@ -1,0 +1,145 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ConfigMenu_Frog_Off",
+        "text": "Masquée"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ConfigMenu_Se_On",
+        "text": "Activés"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ConfigMenu_Hand_Right",
+        "text": "M. droite"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ConfigMenu_Frog_On",
+        "text": "Affichée"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ConfigMenu_Hand_Left",
+        "text": "M. gauche"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ConfigMenu_Se_Off",
+        "text": "Désactivés"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ConfigMenu_PenBox_Normal",
+        "text": "Simples"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ConfigMenu_PenBox_Advance",
+        "text": "Experts"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

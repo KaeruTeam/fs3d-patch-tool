@@ -1,0 +1,145 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_RestrictPhoto",
+        "text": "Der Austausch von Bild-, Audio-,\nVideo- und Textdateien unterliegt\nden Altersbeschränkungen."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Cinema_Mii",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_RestrictInternet",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Cinema_CancelEula",
+        "text": "Das Nintendo DSi-Archiv kann\nnicht verwendet werden."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Restrict",
+        "text": "Der Datenaustausch unterliegt\nden Altersbeschränkungen,\ndaher ist der Austausch von\nFlipnotes leider nicht möglich."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_RestrictInternet",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_RestrictPhoto",
+        "text": "Gesperrte Funktionen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Cinema_Restrict",
+        "text": "Das Nintendo DSi-Archiv unterliegt\nden Altersbeschränkungen und\nkann nicht verwendet werden."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

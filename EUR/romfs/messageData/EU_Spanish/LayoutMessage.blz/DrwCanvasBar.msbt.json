@@ -1,0 +1,150 @@
+{
+  "groups": [
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtPushNaviRP",
+        "text": " Volver a la página   Pasar página"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtNaviL",
+        "text": " Menú  / Pasar página   Reproducir"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtNaviR",
+        "text": " Menú　 Pasar página　 Reproducir"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtLayerA",
+        "text": "A"
+      }
+    ],
+    [
+      {
+        "label": "DrwCanvasBar_TxtLayerB",
+        "text": "B"
+      }
+    ],
+    [
+      {
+        "label": "DrwCanvasBar_TxtLayerC",
+        "text": "C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtPushNaviLP",
+        "text": " Volver a la página  / Pasar página"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtPushNaviL",
+        "text": " Deshacer   Rehacer"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtPushNaviR",
+        "text": " Deshacer   Rehacer"
+      }
+    ],
+    [],
+    [],
+    []
+  ]
+}

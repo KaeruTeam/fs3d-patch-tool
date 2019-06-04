@@ -1,0 +1,145 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_RestrictPhoto",
+        "text": "Les paramètres de contrôle parental\nactuels empêchent l'échange de données\ntelles que les images, les fichiers\naudio/vidéo et les messages."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Cinema_Mii",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_RestrictInternet",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Cinema_CancelEula",
+        "text": "Impossible d'accéder à\nla galerie Nintendo DSi."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Restrict",
+        "text": "Impossible d'effectuer des\néchanges de fichiers, cette\nfonction a été restreinte par\nle contrôle parental."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_RestrictInternet",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_RestrictPhoto",
+        "text": "Fonctions restreintes"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Cinema_Restrict",
+        "text": "Impossible d'accéder à\nla galerie Nintendo DSi.\nCette fonction a été restreinte\npar le contrôle parental."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DepthEdit_TxtLayerA",
+        "text": "A"
+      }
+    ],
+    [
+      {
+        "label": "DepthEdit_TxtLayerB",
+        "text": "B"
+      }
+    ],
+    [
+      {
+        "label": "DepthEdit_TxtLayerC",
+        "text": "C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DepthEdit_TxtBScreen",
+        "text": "B"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DepthEdit_TxtReset",
+        "text": "Réinitialiser"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DepthEdit_TxtCenter",
+        "text": "Tout au plan interméd."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "DepthEdit_TxtInner",
+        "text": "Tout à l'arrière-plan"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DepthEdit_TxtNear",
+        "text": "Tout au premier plan"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DepthEdit_TxtCScreen",
+        "text": "C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DepthEdit_TxtAScreen",
+        "text": "A"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

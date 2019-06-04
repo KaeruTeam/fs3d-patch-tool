@@ -1,0 +1,145 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_Guide_DrawFont",
+        "text": "Introduce el texto\n(máx. 80 caracteres y 11 líneas)."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_TextCheck_NgFolder_Append",
+        "text": "\"\u000e\u0001\u0002\u0002"
+      }
+    ],
+    [
+      {
+        "label": "KeyboardApplet_TextCheck_NgWord",
+        "text": "No se puede usar porque\ncontiene lenguaje\ninapropiado."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_ButtonText_Cancel",
+        "text": "Cancelar"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_LineOver",
+        "text": "Se permiten 11 líneas\ncomo máximo."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_TextCheck_NgFolder",
+        "text": "No se puede usar como\nnombre de carpeta."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_Guide_Browser",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_ButtonText_Ok",
+        "text": "Aceptar"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

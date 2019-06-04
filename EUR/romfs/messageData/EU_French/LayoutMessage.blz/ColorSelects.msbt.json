@@ -1,0 +1,193 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtLayerA",
+        "text": "Calque A"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtLayerB",
+        "text": "Calque B"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtCL",
+        "text": "C"
+      },
+      {
+        "label": "ColorSelects_TxtLayerC",
+        "text": "Calque C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtMergeBtA",
+        "text": "Intégrer B à A"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtMergeBtC",
+        "text": "Intégrer B à C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtA",
+        "text": "A"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtB",
+        "text": "B"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtC",
+        "text": "C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtMergeA",
+        "text": "Intégrer B et C à A"
+      },
+      {
+        "label": "ColorSelects_TxtBL",
+        "text": "B"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtMergeB",
+        "text": "Intégrer A et C à B"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtMergeC",
+        "text": "Intégrer A et B à C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtMergeCtA",
+        "text": "Intégrer C à A"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtMergeCtB",
+        "text": "Intégrer C à B"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtMergeAtB",
+        "text": "Intégrer A à B"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtMergeAtC",
+        "text": "Intégrer A à C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtAL",
+        "text": "A"
+      }
+    ],
+    [],
+    [],
+    [],
+    []
+  ]
+}

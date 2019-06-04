@@ -1,138 +1,319 @@
 {
   "groups": [
+    [],
+    [],
+    [],
+    [],
     [
       {
         "label": "WindowWait_MemoExchange_ReadyWait",
         "text": "相手の準備を待っています。"
       },
       {
+        "label": "WindowWait_MemoExchange_Send_Failure",
+        "text": "メモを送れませんでした。"
+      },
+      {
+        "label": "ExchangeUpper_TxtSetContents_Wait",
+        "text": "このままお待ちください。"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
         "label": "WindowInfo_Title_Exchange_Top",
         "text": "メモのこうかん"
       },
       {
+        "label": "WindowConfirm_MemoExchange_Connect_Cancel",
+        "text": "キャンセル"
+      },
+      {
+        "label": "ExchangeUpper_TxtSetContents_Receive",
+        "text": "メモを受け取るフォルダを選んで\n「うけとる」をおしてください。"
+      },
+      {
+        "label": "WindowWait_MemoExchange_Disconnect_Report",
+        "text": "相手が終了したので\n接続が切れました。"
+      }
+    ],
+    [],
+    [],
+    [
+      {
         "label": "WindowConfirm_MemoExchange_Disconnect",
         "text": "接続を切って、終了します。\n\nよろしいですか？"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowWait_MemoExchange_FullFolder",
         "text": "このフォルダは、\nメモがいっぱいです。\n\n別のフォルダを選択してください。"
-      },
+      }
+    ],
+    [],
+    [
       {
         "label": "WindowWait_MemoExchange_ReadyOk",
         "text": "接続しました。"
       },
       {
+        "label": "WindowWait_MemoExchange_ReadyWait_CancelButton",
+        "text": "キャンセル"
+      }
+    ],
+    [],
+    [
+      {
         "label": "WindowConfirm_MemoExchange_Agreement_Ok",
         "text": "同意する"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowWait_MemoExchange_Receive_Failure",
         "text": "メモを受け取れませんでした。"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowWait_MemoExchange",
         "text": "接続相手を探しています。"
       },
       {
+        "label": "ExchangeUpper_TxtSetContents_Send_L",
+        "text": "相手に送るメモを選んで\n「おくる」をおしてください。"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
         "label": "WindowWait_MemoExchange_ReturnTopmenu_Wait",
         "text": "しばらくお待ちください…"
-      },
+      }
+    ],
+    [],
+    [
       {
         "label": "WindowWait_MemoExchange_CancelButton",
         "text": "キャンセル"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "ExchangeUpper_TxtConnect_Connect",
         "text": "接続"
-      },
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "WindowWait_MemoExchange_ChangeFolder",
         "text": "このフォルダは、\nメモがいっぱいです。\n\n別のフォルダを選択してください。"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "ExchangeUpper_TxtSetTitle_Send",
         "text": "メモをおくる"
-      },
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "WindowWait_MemoExchange_Receive_Success_plural",
         "text": "メモを受け取りました。"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowInfo_Contents_Exchange_Agreement",
         "text": "送信したメモは受け取った人や\nその他の第三者によって、再送信されたり\nインターネット上に公開されたりする\n可能性があります。\n\n他人の権利を侵害するメモ、不快な内容のメモ、\n個人情報を含む内容や違法な内容のメモは\n送信しないでください。"
       },
       {
+        "label": "WindowWait_MemoExchange_Receive_CancelButton",
+        "text": "キャンセル"
+      }
+    ],
+    [
+      {
         "label": "WindowWait_MemoExchange_PreReceive",
         "text": "メモを受け取って保存しています。\n（時間がかかる場合があります）"
-      },
+      }
+    ],
+    [
       {
         "label": "ExchangeUpper_TxtSetContents_Send",
         "text": "相手に送るメモを選んで\n「おくる」をおしてください。"
-      },
+      }
+    ],
+    [],
+    [
       {
         "label": "WindowInfo_Contents_Exchange_Top",
         "text": "通信中に 本体を閉じたり\nHOMEメニューを開いたりすると、\n通信が切断されます。ご注意ください。"
       },
       {
+        "label": "WindowWait_MemoExchange_Cancel",
+        "text": "キャンセルしました。"
+      }
+    ],
+    [],
+    [
+      {
         "label": "WindowWait_MemoExchange_Receive_Failure_plural",
         "text": "メモを受け取れませんでした。"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowWait_MemoExchange_Disconnect",
         "text": "通信が切れました。"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_MemoExchange_Connect_Ok",
         "text": "接続する"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_MemoExchange_Agreement",
         "text": "上画面の内容を\n理解したうえでご利用ください。"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowWait_MemoExchange_Send_Success_plural",
         "text": "メモを送りました。"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowConfirm_MemoExchange_Connect",
         "text": "\u000e\u0001\u0002\u0002"
       },
       {
+        "label": "WindowWait_MemoExchange_Send_Success",
+        "text": "メモを送りました。"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
         "label": "WindowWait_MemoExchange_Send_Failure_plural",
         "text": "メモを送れませんでした。"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "ExchangeUpper_TxtSetTitle_Receive",
         "text": "メモをうけとる"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowWait_MemoExchange_Send",
         "text": "メモを送っています。\n（時間がかかる場合があります）\n\u000e\u0001"
-      },
+      }
+    ],
+    [],
+    [
       {
         "label": "WindowWait_MemoExchange_Receive",
         "text": "メモを受け取って保存しています。\n（時間がかかる場合があります）\n\u000e\u0001"
-      },
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "WindowWait_MemoExchange_StartWirelessOff",
         "text": "「こうかん」を行うには\n無線スイッチをスライドして\n無線ONモードにしてください。"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowWait_MemoExchange_Receive_Success",
         "text": "メモを受け取りました。"
       },
       {
+        "label": "WindowWait_MemoExchange_Send_InvalidMemo",
+        "text": "読みこんだメモが壊れているため\nメモの送信をやめます。"
+      }
+    ],
+    [],
+    [
+      {
         "label": "WindowWait_MemoExchange_ErrorNothingPartner",
         "text": "相手が見つかりませんでした。"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [
       {
         "label": "WindowWait_MemoExchange_Receive_MemoFileCrached",
         "text": "受け取ったメモが壊れていたため\n保存を行いませんでした。"
-      },
+      }
+    ],
+    [
       {
         "label": "WindowInfo_Title_Exchange_Agreement",
         "text": "ご利用上の注意"
       },
+      {
+        "label": "ExchangeUpper_TxtConnect_Disconnect",
+        "text": "未接続"
+      }
+    ],
+    [
       {
         "label": "WindowWait_MemoExchange_Send_CancelButton",
         "text": "キャンセル"

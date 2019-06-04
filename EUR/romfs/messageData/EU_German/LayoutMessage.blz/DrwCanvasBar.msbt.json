@@ -1,0 +1,150 @@
+{
+  "groups": [
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtPushNaviRP",
+        "text": " Arbeitsfläche     Blättern"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtNaviL",
+        "text": " Menü    / Blättern     Abspielen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtNaviR",
+        "text": " Menü      Blättern      Abspielen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtLayerA",
+        "text": "A"
+      }
+    ],
+    [
+      {
+        "label": "DrwCanvasBar_TxtLayerB",
+        "text": "B"
+      }
+    ],
+    [
+      {
+        "label": "DrwCanvasBar_TxtLayerC",
+        "text": "C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtPushNaviLP",
+        "text": " Arbeitsfläche     / Blättern"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtPushNaviL",
+        "text": " Rückgängig       Wiederherstellen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtPushNaviR",
+        "text": " Rückgängig       Wiederherstellen"
+      }
+    ],
+    [],
+    [],
+    []
+  ]
+}

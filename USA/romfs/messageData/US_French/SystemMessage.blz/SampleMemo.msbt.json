@@ -1,0 +1,324 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "FrogMemo3D_10",
+        "text": "(Vous devez pousser le curseur 3D\nvers le haut pour voir l'écran en 3D.)"
+      },
+      {
+        "label": "FrogMemoLSift_1",
+        "text": "Coâ ! Savez-vous\nce que font les\nboutons L et R ?"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_11",
+        "text": "Prenons un exemple\nplus concret."
+      },
+      {
+        "label": "FrogMemoLSift_2",
+        "text": "Maintenez enfoncé\nle bouton L...\n\n(Maintenez le\nbouton R si\nvous êtes\ngaucher)"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_12",
+        "text": "Un rétrécissement..."
+      },
+      {
+        "label": "FrogMemoLSift_3",
+        "text": "Et des options\nsupplémentaires\napparaîtront !"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_13",
+        "text": "Quelques retouches..."
+      },
+      {
+        "label": "FrogMemoLSift_4",
+        "text": "Essayez, vous allez\nsûrement trouver\ndes choses utiles !"
+      },
+      {
+        "label": "Bug",
+        "text": "Exemple : outil 3D\n(outils experts)"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_14",
+        "text": "Boing !"
+      },
+      {
+        "label": "FrogMemoLSift_5",
+        "text": "Au plaisir !"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_15",
+        "text": "Boing !"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_16",
+        "text": "C'est une balle\nqui rebondit !"
+      }
+    ],
+    [
+      {
+        "label": "DotSheep",
+        "text": "Exemple :\n- fonction zoom (bouton L + ○)\n- outil de transformation (agrandissement)\n(outils simples)"
+      },
+      {
+        "label": "FrogMemo3D_17",
+        "text": "Essayez donc avec\nquelque chose de\nsimple !"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_18",
+        "text": "Au plaisir !"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Punch",
+        "text": "Exemple :\noutil 3D\n(outils\nexperts)"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "Swim",
+        "text": "Exemple : outil 3D\n(outils experts)"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Plane",
+        "text": "Exemple : outil de transformation\n(outils experts)"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSample_1",
+        "text": "Palette des couleurs"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_2",
+        "text": "Base noire"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_3",
+        "text": "Base blanche"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_4",
+        "text": "Base rouge"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_5",
+        "text": "Base jaune"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_6",
+        "text": "Base verte"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_7",
+        "text": "Base bleue"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "FrogMemoLayer_1",
+        "text": "Coâ ! Les calques\ndes outils experts\nvous intéressent ?"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_2",
+        "text": "Avec les outils simples..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_3",
+        "text": "C'est comme si vous dessiniez\nsur une simple feuille de papier."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_4",
+        "text": "Mais avec les outils experts..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_5",
+        "text": "Vous pouvez dessiner sur\ntrois calques différents !"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_6",
+        "text": "Ça peut paraître\nun peu compliqué..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_7",
+        "text": "Mais croyez-moi,\nc'est très utile pour\ncréer vos Flipnotes !"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_1",
+        "text": "Coâ ! L'animation\n3D vous intéresse ?"
+      },
+      {
+        "label": "FrogMemoLayer_8",
+        "text": "Voyez plutôt..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_2",
+        "text": "D'abord, qu'est-ce qu'une animation 3D ?"
+      },
+      {
+        "label": "FrogMemoLayer_9",
+        "text": "Déplacer un calque\nsuffit à créer un\nsaisissant effet 3D."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_3",
+        "text": "C'est une animation..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_4",
+        "text": "... qui joue sur\nla profondeur."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_5",
+        "text": "Un élément peut\nse déplacer du\npremier plan..."
+      },
+      {
+        "label": "FrogMemoLayer_10",
+        "text": "Essayez donc par\nvous-même !"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_6",
+        "text": "... vers l'arrière-plan."
+      },
+      {
+        "label": "FrogMemoLayer_11",
+        "text": "Au plaisir !"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_7",
+        "text": "Pour utiliser la 3D, touchez\nl'icône du coin supérieur droit."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_8",
+        "text": "Ensuite, déplacez le curseur\npour ajuster la profondeur."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_9",
+        "text": "En pratique, voilà\nce que ça donne..."
+      }
+    ],
+    [],
+    []
+  ]
+}

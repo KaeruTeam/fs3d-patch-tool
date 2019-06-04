@@ -1,0 +1,135 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Select_TxtPaintFlip",
+        "text": "Intervertir les zones peintes"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Select_TxtCopy",
+        "text": "Copier"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Select_TxtOutLine",
+        "text": "Marquer les contours"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Select_TxtPaint",
+        "text": "Sauv. motif  du pinceau"
+      }
+    ],
+    [
+      {
+        "label": "Select_TxtPaste",
+        "text": "Coller"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Select_TxtColorFlip",
+        "text": "Permuter les couleurs"
+      }
+    ],
+    [],
+    []
+  ]
+}

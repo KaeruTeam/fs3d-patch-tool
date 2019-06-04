@@ -1,0 +1,198 @@
+{
+  "groups": [
+    [
+      {
+        "label": "FrameEdit_TxtCopy",
+        "text": "Copia"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "FrameEdit_TxtClear",
+        "text": "Taglia"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "FrameEdit_TxtColor",
+        "text": "Applica lo sfondo a tutti i fogli"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "FrameEdit_TxtNew",
+        "text": "Inserisci"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "FrameEdit_TxtLPaste",
+        "text": "Incolla"
+      },
+      {
+        "label": "FrameEdit_TxtCopyA",
+        "text": "A"
+      }
+    ],
+    [
+      {
+        "label": "FrameEdit_TxtCopyB",
+        "text": "B"
+      }
+    ],
+    [
+      {
+        "label": "FrameEdit_TxtLOver",
+        "text": "Ricopri"
+      },
+      {
+        "label": "FrameEdit_TxtCopyC",
+        "text": "C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "FrameEdit_TxtClearA",
+        "text": "A"
+      },
+      {
+        "label": "FrameEdit_TxtPasteA",
+        "text": "A"
+      }
+    ],
+    [
+      {
+        "label": "FrameEdit_TxtClearB",
+        "text": "B"
+      },
+      {
+        "label": "FrameEdit_TxtPasteB",
+        "text": "B"
+      },
+      {
+        "label": "FrameEdit_TxtDepth",
+        "text": "Applica il 3D a tutti i fogli"
+      }
+    ],
+    [
+      {
+        "label": "FrameEdit_TxtClearC",
+        "text": "C"
+      },
+      {
+        "label": "FrameEdit_TxtPasteC",
+        "text": "C"
+      }
+    ],
+    [
+      {
+        "label": "FrameEdit_TxtLClear",
+        "text": "Taglia"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "FrameEdit_TxtPaste",
+        "text": "Incolla"
+      },
+      {
+        "label": "FrameEdit_TxtOver",
+        "text": "Ricopri"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "FrameEdit_TxtLCopy",
+        "text": "Copia"
+      }
+    ],
+    [],
+    []
+  ]
+}

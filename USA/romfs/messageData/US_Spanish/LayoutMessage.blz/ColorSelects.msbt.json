@@ -1,0 +1,193 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtLayerA",
+        "text": "Capa A"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtLayerB",
+        "text": "Capa B"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtCL",
+        "text": "C"
+      },
+      {
+        "label": "ColorSelects_TxtLayerC",
+        "text": "Capa C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtMergeBtA",
+        "text": "Combinar B con A"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtMergeBtC",
+        "text": "Combinar B con C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtA",
+        "text": "A"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtB",
+        "text": "B"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtC",
+        "text": "C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtMergeA",
+        "text": "Combinar B+C con A"
+      },
+      {
+        "label": "ColorSelects_TxtBL",
+        "text": "B"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtMergeB",
+        "text": "Combinar A+C con B"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtMergeC",
+        "text": "Combinar A+B con C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtMergeCtA",
+        "text": "Combinar C con A"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtMergeCtB",
+        "text": "Combinar C con B"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtMergeAtB",
+        "text": "Combinar A con B"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtMergeAtC",
+        "text": "Combinar A con C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtAL",
+        "text": "A"
+      }
+    ],
+    [],
+    [],
+    [],
+    []
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_FolderRename",
+        "text": "Cambiar el nombre de la carpeta"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Icon_Editor",
+        "text": "Elegir icono"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Icon_Editor_Edit",
+        "text": "Edita el icono de la carpeta.\n\nTen en cuenta que podrás cambiarlo\nmás adelante."
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Icon_Editor",
+        "text": "Elige un icono para la carpeta.\n\nTen en cuenta que podrás cambiarlo\nmás adelante."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Icon_Editor_Edit",
+        "text": "Editar icono"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Icon_Editor_Folder",
+        "text": "Crear carpeta nueva"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Icon_Editor_Folder",
+        "text": "Introduce un nombre para la carpeta.\n\nSi ya existe una carpeta con el mismo\nnombre, no podrás usarlo."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_FolderRename",
+        "text": "Introduce un nombre para la carpeta.\n\nSi ya existe una carpeta con el mismo\nnombre, no podrás usarlo."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

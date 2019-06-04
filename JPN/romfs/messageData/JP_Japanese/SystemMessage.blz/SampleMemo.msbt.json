@@ -1,146 +1,324 @@
 {
   "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
     [
       {
         "label": "FrogMemo3D_10",
         "text": "こうなります。\n※３ＤをＯＮにする必要があります"
       },
       {
+        "label": "FrogMemoLSift_1",
+        "text": "ゲロリ、\nLシフトってしってる？"
+      }
+    ],
+    [
+      {
         "label": "FrogMemo3D_11",
         "text": "これに絵をつけると…"
       },
+      {
+        "label": "FrogMemoLSift_2",
+        "text": "Ｌボタンをおしてると…"
+      }
+    ],
+    [
       {
         "label": "FrogMemo3D_12",
         "text": "小さくなって…"
       },
       {
+        "label": "FrogMemoLSift_3",
+        "text": "かくれた機能が\nでてくるよ！"
+      }
+    ],
+    [
+      {
         "label": "FrogMemo3D_13",
         "text": "バウンドして…"
       },
+      {
+        "label": "FrogMemoLSift_4",
+        "text": "便利な機能\nみつけてね！"
+      },
+      {
+        "label": "Bug",
+        "text": "「上級ふでばこ」\n「３Ｄ」を使用"
+      }
+    ],
+    [
       {
         "label": "FrogMemo3D_14",
         "text": "ボヨ～ン"
       },
       {
+        "label": "FrogMemoLSift_5",
+        "text": "アディオス！アミーゴ！！"
+      }
+    ],
+    [
+      {
         "label": "FrogMemo3D_15",
         "text": "ボヨ～ン"
-      },
+      }
+    ],
+    [
       {
         "label": "FrogMemo3D_16",
         "text": "ボールになりました。"
-      },
+      }
+    ],
+    [
       {
         "label": "DotSheep",
         "text": "「普通ふでばこ」\n「Ｌシフト+○」\n「変形　拡大」使用"
       },
       {
+        "label": "FrogMemo3D_17",
+        "text": "簡単なことから\nはじめよう！"
+      }
+    ],
+    [
+      {
         "label": "FrogMemo3D_18",
         "text": "アディオス！アミーゴ！！"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "Punch",
         "text": "「上級ふでばこ」\n「３Ｄ」を使用"
-      },
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "Swim",
         "text": "「上級ふでばこ」\n「３Ｄ」を使用"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "Plane",
         "text": "「上級ふでばこ」　「変形」を使用"
-      },
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
       {
         "label": "ColorSample_1",
         "text": "うごメモカラーサンプル"
-      },
+      }
+    ],
+    [
       {
         "label": "ColorSample_2",
         "text": "くろベース"
-      },
+      }
+    ],
+    [
       {
         "label": "ColorSample_3",
         "text": "しろベース"
-      },
+      }
+    ],
+    [
       {
         "label": "ColorSample_4",
         "text": "あかベース"
-      },
+      }
+    ],
+    [
       {
         "label": "ColorSample_5",
         "text": "きいろベース"
-      },
+      }
+    ],
+    [
       {
         "label": "ColorSample_6",
         "text": "みどりベース"
-      },
+      }
+    ],
+    [
       {
         "label": "ColorSample_7",
         "text": "あおベース"
-      },
+      }
+    ],
+    [],
+    [],
+    [
       {
         "label": "FrogMemoLayer_1",
         "text": "ゲロリ、\n上級ふでばこの\nレイヤーってなに？"
-      },
+      }
+    ],
+    [
       {
         "label": "FrogMemoLayer_2",
         "text": "普通は一枚の紙に…"
-      },
+      }
+    ],
+    [
       {
         "label": "FrogMemoLayer_3",
         "text": "絵を描きますが…"
-      },
+      }
+    ],
+    [
       {
         "label": "FrogMemoLayer_4",
         "text": "上級ふでばこは…"
-      },
+      }
+    ],
+    [
       {
         "label": "FrogMemoLayer_5",
         "text": "三枚のレイヤー（層）に絵を描きます"
-      },
+      }
+    ],
+    [
       {
         "label": "FrogMemoLayer_6",
         "text": "むずかしそう？"
-      },
+      }
+    ],
+    [
       {
         "label": "FrogMemoLayer_7",
         "text": "でも\n上手に使うと\n便利なんですよ"
-      },
+      }
+    ],
+    [
       {
         "label": "FrogMemo3D_1",
         "text": "ゲロリ、\n３Ｄアニメって？"
       },
       {
+        "label": "FrogMemoLayer_8",
+        "text": "それに\nこんな風に…"
+      }
+    ],
+    [
+      {
         "label": "FrogMemo3D_2",
         "text": "３Ｄアニメとは？"
       },
       {
+        "label": "FrogMemoLayer_9",
+        "text": "レイヤーを動かせば\nおもしろい３Ｄアニメが\nできるんです"
+      }
+    ],
+    [
+      {
         "label": "FrogMemo3D_3",
         "text": "奥行きを使った…"
-      },
+      }
+    ],
+    [
       {
         "label": "FrogMemo3D_4",
         "text": "アニメです。"
-      },
+      }
+    ],
+    [
       {
         "label": "FrogMemo3D_5",
         "text": "飛び出して…"
       },
       {
+        "label": "FrogMemoLayer_10",
+        "text": "自分にあった\n使い方をみつけてね"
+      }
+    ],
+    [
+      {
         "label": "FrogMemo3D_6",
         "text": "ひっこむ。"
       },
       {
+        "label": "FrogMemoLayer_11",
+        "text": "アディオス！アミーゴ！！"
+      }
+    ],
+    [
+      {
         "label": "FrogMemo3D_7",
         "text": "「３Ｄ」は右上のボタンから…"
-      },
+      }
+    ],
+    [
       {
         "label": "FrogMemo3D_8",
         "text": "調整できます。"
-      },
+      }
+    ],
+    [
       {
         "label": "FrogMemo3D_9",
         "text": "正面から見ると…"
       }
-    ]
+    ],
+    [],
+    []
   ]
 }

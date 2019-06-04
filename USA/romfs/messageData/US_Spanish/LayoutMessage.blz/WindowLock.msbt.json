@@ -1,0 +1,144 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowLock_TxtSubjectA",
+        "text": "No bloquear"
+      }
+    ],
+    [
+      {
+        "label": "WindowLock_TxtSubjectB",
+        "text": "Bloquear"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowLock_TxtGSubjectA",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowLock_TxtCancel",
+        "text": "Cancelar"
+      },
+      {
+        "label": "WindowLock_TxtGSubjectB",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowLock_TxtOK",
+        "text": "Aceptar"
+      }
+    ],
+    [
+      {
+        "label": "WindowLock_TxtTSubjectA",
+        "text": "No bloquear"
+      }
+    ],
+    [
+      {
+        "label": "WindowLock_TxtTSubjectB",
+        "text": "Bloquear"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

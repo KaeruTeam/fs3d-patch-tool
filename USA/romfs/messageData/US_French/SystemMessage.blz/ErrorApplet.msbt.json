@@ -1,0 +1,149 @@
+{
+  "groups": [
+    [
+      {
+        "label": "ErrorApplet_Sound_ImportError",
+        "text": "Le chargement des données\ndu studio son Nintendo 3DS\na échoué."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ErrorApplet_CreateSystemFolder_ErrorFailure",
+        "text": "La création du dossier a échoué :\nla carte SD n'est pas accessible.\n\nAppuyez sur  pour retourner au\nmenu HOME."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "ErrorApplet_Ecdk_RightsDiscordant",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "ErrorApplet_Ecdk_IndicatesServiceNotAvailable",
+        "text": "Impossible d'accéder au Nintendo\neShop.\nRéessayez ultérieurement."
+      },
+      {
+        "label": "ErrorApplet_Ecdk_SessionInvalid",
+        "text": "La connexion a échoué.\n\nRéessayez ultérieurement."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ErrorApplet_Theater_NetworkError",
+        "text": "La connexion au serveur a échoué."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ErrorApplet_AccessSdCard_ErrorFailure",
+        "text": "L'accès à la carte SD a échoué.\n\nAppuyez sur  pour retourner au\nmenu HOME."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ErrorApplet_CreateSystemFolder_ErrorNothingFreeSpace",
+        "text": "La création du dossier a échoué :\nespace libre insuffisant sur la\ncarte SD.\n\nAppuyez sur  pour retourner au\nmenu HOME."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ErrorApplet_Mii_FormattedDataBase",
+        "text": ""
+      }
+    ]
+  ]
+}
