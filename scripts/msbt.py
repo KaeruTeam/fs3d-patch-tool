@@ -57,6 +57,13 @@ class Msbt:
     self.groups = []
 
   @classmethod
+  def Open(cls, path):
+    with open(path, 'rb') as fp:
+      msbt = cls()
+      msbt.read(fp)
+    return msbt
+
+  @classmethod
   def from_json(cls, path):
     msbt = cls()
     with open(path, 'r') as fp:
@@ -68,6 +75,10 @@ class Msbt:
         msbt_entry.label = entry['label']
         msbt_entry.text = entry['text']
     return msbt
+
+  def save(self, path):
+    with open(path, 'wb') as fp:
+      fp.write(self.write())
 
   def add_group(self):
     group = MsbtGroup()
@@ -183,6 +194,7 @@ class Msbt:
     lbl1 += struct.pack('%sI'%self.endian, num_groups)
     label_data = bytes()
     label_offset = 4 + (num_groups * 8)
+    string_index = 0
     for group in self.groups:
       # write group
       lbl1 += struct.pack('%sII'%self.endian, len(group.entries), label_offset)
@@ -194,8 +206,9 @@ class Msbt:
         # write label
         label_data += entry.label.encode('ascii')
         # write string index
-        label_data += struct.pack('%sI'%self.endian, strings.index(entry.text))
+        label_data += struct.pack('%sI'%self.endian, string_index)
         label_offset += label_size + 5
+        string_index += 1
     lbl1 += label_data
     lbl1 = self.write_section(b'LBL1', lbl1)
 
@@ -214,3 +227,9 @@ class Msbt:
     header = struct.pack('%s4sI'%self.endian, section_magic, section_size) + bytes(8)
     padding_size = (0x10 - (section_size % 0x10)) if section_size % 0x10 != 0 else 0
     return header + section_data + bytes([0xAB] * padding_size)
+
+if __name__ == '__main__':
+  from sys import argv
+
+  msbt = Msbt.Open(argv[1])
+  msbt.save(argv[2])

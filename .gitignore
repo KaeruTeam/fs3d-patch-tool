@@ -2,6 +2,9 @@
 luma/
 # cert files
 *.der
+# blz binary
+blz
+blz.*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

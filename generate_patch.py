@@ -10,10 +10,13 @@ import struct
 import configparser
 import pathlib
 import shutil
+import subprocess
 
 import scripts.ips as Ips
 from scripts.darc import Darc
 from scripts.msbt import Msbt
+
+BLZ_PATH = './blz'
 
 # load config
 
@@ -79,15 +82,16 @@ def build_romfs_dir(src_dir, output_dir):
     for child in src_dir.iterdir():
       if child.is_dir() and child.match('*.blz'):
         darc = Darc()
-        for subfile in child.iterdir():
-          if subfile.match('*.msbt.json'):
-            msbt = Msbt.from_json(subfile)
+        for darc_file in child.iterdir():
+          if darc_file.match('*.msbt.json'):
+            msbt = Msbt.from_json(darc_file)
             darc_entry = darc.root.add_entry()
-            darc_entry.name = str(subfile.relative_to(child).with_suffix(''))
+            darc_entry.name = str(darc_file.relative_to(child).with_suffix(''))
             darc_entry.data = msbt.write()
           else:
             pass
         darc.save(output_dir / child.name)
+        subprocess.call([BLZ_PATH, '-en', str(output_dir / child.name)], stdout=subprocess.DEVNULL)
       else:
         build_romfs_dir(child, output_dir / child.name)
   else: 

@@ -91,7 +91,7 @@ class Darc:
     labels += self.write_label('.')
     # pack entry labels + data
     num_entries = len(self.root.entries) + 2
-    for entry in self.root.entries: 
+    for entry in sorted(self.root.entries, key=lambda entry: entry.name): 
       label_offsets.append(len(labels))
       data_offset = len(data)
       # align data offset to a multiple of 0x80
