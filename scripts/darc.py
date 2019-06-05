@@ -1,3 +1,9 @@
+# DARC lib
+# Compiles and decompiles .darc file archives
+# Compiled files have 1:1 parity to the ones produced by Nintendo
+# Written by Jaames
+# github.com/jaames | jamesdaniel.dev
+
 import struct
 
 class DarcEntry:
@@ -91,6 +97,7 @@ class Darc:
     labels += self.write_label('.')
     # pack entry labels + data
     num_entries = len(self.root.entries) + 2
+    # sort entries by alphabetical order
     for entry in sorted(self.root.entries, key=lambda entry: entry.name): 
       label_offsets.append(len(labels))
       data_offset = len(data)

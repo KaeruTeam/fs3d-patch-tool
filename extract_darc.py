@@ -1,3 +1,6 @@
+# Small utility to extract a DARC file's contents to a folder
+# + Decompile .msbt translation files to an .msbt.json
+
 from scripts.darc import Darc
 from scripts.msbt import Msbt
 
@@ -12,7 +15,6 @@ outputDir.mkdir(parents=True, exist_ok=True)
 
 for entry in darc.root.entries:
   path = Path(entry.name)
-  print(path.suffix)
   # If the file is an .msbt, convert it to .msbt.json
   if path.suffix == '.msbt':
     msbt = Msbt()

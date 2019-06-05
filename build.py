@@ -1,6 +1,6 @@
 # Patch generator tool for Flipnote Studio 3D
 # Generates luma code patches which allow the app to connect to a custom server
-# Original patch written for Kaeru World by Shutterbug2000
+# Original patch written for Kaeru Gallery by Shutterbug2000
 # github.com/shutterbug2000
 # JPN support and Python tooling by Jaames
 # github.com/jaames | jamesdaniel.dev
@@ -76,42 +76,56 @@ def build_codebin(region_config, output_path):
   # Save to file
   patch.save(output_path)
 
-def build_romfs_dir(src_dir, output_dir):
-  if src_dir.is_dir():
-    output_dir.mkdir(parents=True, exist_ok=True)
-    for child in src_dir.iterdir():
-      if child.is_dir() and child.match('*.blz'):
-        darc = Darc()
-        for darc_file in child.iterdir():
-          if darc_file.match('*.msbt.json'):
-            msbt = Msbt.from_json(darc_file)
-            darc_entry = darc.root.add_entry()
-            darc_entry.name = str(darc_file.relative_to(child).with_suffix(''))
-            darc_entry.data = msbt.write()
-          else:
-            pass
-        darc.save(output_dir / child.name)
-        subprocess.call([BLZ_PATH, '-en', str(output_dir / child.name)], stdout=subprocess.DEVNULL)
+def build_romfs_dir(src_path, output_path):
+  # If the src is a file, copy it directly to the romfs output location
+  if not src_path.is_dir():
+    shutil.copy(str(src_path), str(output_path))
+  # If the src directory name ends with .blz or .arc, compile its contents into an DARC file
+  elif src_path.match('*.blz') or src_path.match('*.arc'): 
+    # Create a new DARC instance
+    darc = Darc()
+    # Loop through directory contents
+    for child in src_path.iterdir():
+      darc_entry = darc.root.add_entry()
+      # If the file ends with .msbt.json, compile this to an .msbt
+      if child.match('*.msbt.json'):
+        msbt = Msbt.from_json(child)
+        darc_entry.name = str(child.relative_to(src_path).with_suffix(''))
+        darc_entry.data = msbt.write()
+      # Else write the file as-is
       else:
-        build_romfs_dir(child, output_dir / child.name)
-  else: 
-    shutil.copy(str(src_dir), str(output_dir))
+        darc_entry.name = str(child.relative_to(src_path))
+        darc_entry.data = child.read_bytes()
+    darc.save(output_path)
+    # If the directory name ends with .blz we also need to compress the resulting DARC archive
+    if src_path.match('*.blz'):
+      subprocess.call([BLZ_PATH, '-en', str(output_path)], stdout=subprocess.DEVNULL)
+  # Otherwise make a new directory in the romfs output location
+  else:
+    output_path.mkdir(parents=True, exist_ok=True)
+    # Recuresively repeat the process on all of its children
+    for child in src_path.iterdir():
+      build_romfs_dir(child, output_path / child.name)
 
 for region in ['EUR', 'USA', 'JPN']:
 
   region_config = config[region]
-  output_dir = pathlib.Path('./luma/titles/%s' % region_config['TITLE_ID'])
-  output_dir.mkdir(parents=True, exist_ok=True)
+  output_path = pathlib.Path('./luma/titles/%s' % region_config['TITLE_ID'])
+  output_path.mkdir(parents=True, exist_ok=True)
   
   # Generate code.bin patches
-  build_codebin(region_config, output_dir / 'code.ips')
+  build_codebin(region_config, output_path / 'code.ips')
 
-  # Create romfs files
-  romfs_src_dir = pathlib.Path('./%s/romfs' % region)
-  romfs_output_dir = output_dir / 'romfs/'
-  if not romfs_src_dir.exists(): 
-    continue
-  
-  build_romfs_dir(romfs_src_dir, romfs_output_dir)
+  # Create regional romfs files
+  romfs_src_path = pathlib.Path('./%s/romfs' % region)
+  romfs_output_path = output_path / 'romfs/'
+  if romfs_src_path.exists():
+    build_romfs_dir(romfs_src_path, romfs_output_path)
+
+  # Add global romfs files
+  romfs_src_path = pathlib.Path('./ALL/romfs')
+  romfs_output_path = output_path / 'romfs/'
+  if romfs_src_path.exists(): 
+    build_romfs_dir(romfs_src_path, romfs_output_path)
 
 

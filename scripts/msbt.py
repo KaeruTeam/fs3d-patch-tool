@@ -1,7 +1,7 @@
-import struct
-import json
-
-MAGIC = b'MsgStdBn'
+# MSBT lib
+# Compiles and decompiles .msbt text translation files
+# Written by Jaames
+# github.com/jaames | jamesdaniel.dev
 
 # Format (as used by Flipnote Studio 3D)
 # ======
@@ -20,7 +20,7 @@ MAGIC = b'MsgStdBn'
 # LBL1 Section
 # - uint32 number of groups
 # - label groups (8 bytes * number of groups)
-#   - uint32 number of labels - this can ve 0 if the group is empty
+#   - uint32 number of labels - this can be 0 if the group is empty
 #   - uint32 label offset, relative to the start of this section
 #     if there's more than one label in the group, the 
 # - labels
@@ -35,7 +35,11 @@ MAGIC = b'MsgStdBn'
 # ATR1 Section
 # - uint32 number of non-empty groups
 # - uint32 - always 0
-# We don't know what this section does, but it always seems to be 
+
+import struct
+import json
+
+MAGIC = b'MsgStdBn'
 
 class MsbtEntry:
   def __init__(self, label='', text=''):

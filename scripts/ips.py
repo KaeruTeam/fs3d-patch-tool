@@ -1,4 +1,4 @@
-# IPS tool 
+# IPS lib
 # Allows .ips patch files to be generated without needing the target file, as long as you know your target offsets
 # Written by Jaames
 # github.com/jaames | jamesdaniel.dev
