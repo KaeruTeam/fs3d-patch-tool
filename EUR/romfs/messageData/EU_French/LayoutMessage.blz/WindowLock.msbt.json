@@ -1,0 +1,144 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowLock_TxtSubjectA",
+        "text": "Ne pas verrouiller"
+      }
+    ],
+    [
+      {
+        "label": "WindowLock_TxtSubjectB",
+        "text": "Verrouiller"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowLock_TxtGSubjectA",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowLock_TxtCancel",
+        "text": "Annuler"
+      },
+      {
+        "label": "WindowLock_TxtGSubjectB",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowLock_TxtOK",
+        "text": "OK"
+      }
+    ],
+    [
+      {
+        "label": "WindowLock_TxtTSubjectA",
+        "text": "Ne pas verrouiller"
+      }
+    ],
+    [
+      {
+        "label": "WindowLock_TxtTSubjectB",
+        "text": "Verrouiller"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

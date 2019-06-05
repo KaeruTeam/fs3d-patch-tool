@@ -1,0 +1,155 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtAdvancedT",
+        "text": "Outils"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtSoundT",
+        "text": "Effets sonores"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtNameT",
+        "text": "Pseudo"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtAllClear",
+        "text": "Effacer les Flipnotes"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtSample",
+        "text": "Copier"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtSampleT",
+        "text": "Exemples"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtName",
+        "text": "Modifier"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtBirthdayT",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtFrogT",
+        "text": "Grenouille"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtHandednessT",
+        "text": "Stylet"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

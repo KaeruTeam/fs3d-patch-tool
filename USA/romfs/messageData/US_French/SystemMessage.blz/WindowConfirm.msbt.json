@@ -1,0 +1,312 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Save_QrCode",
+        "text": ""
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_DefaultNext",
+        "text": "OK"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_DefaultOk",
+        "text": "OK"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityPalette_LayerMode",
+        "text": "Appliquer les paramètres de\ncouleurs et de papier utilisés\nsur cette page à toutes les\nautres pages?"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Title_Save_Jpg",
+        "text": "Sauvegarde dans :"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Initialize_ClearSavedata_Ok",
+        "text": "Réinitialiser"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Save_IsQuit",
+        "text": "Cette flipnote a été modifiée.\n\nVoulez-vous vraiment quitter\nsans sauvegarder?"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Memo_Over",
+        "text": "Le dossier sélectionné est\nplein. Vous ne pouvez pas\ny sauvegarder de flipnote\nsupplémentaire."
+      },
+      {
+        "label": "WindowConfirm_Initialize_PatchDownload_Ok",
+        "text": "Télécharger"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Cancel",
+        "text": "Annuler"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityParallax",
+        "text": "Appliquer les paramètres 3D\nutilisés sur cette page à\ntoutes les autres pages?"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityPalette_LayerMode_Ok",
+        "text": "Appliquer"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Delete_Folder_Confirm_Ok",
+        "text": "Supprimer"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Save_Jpg",
+        "text": "\u000e\u0001\u0004\u0002"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_SD_InfoAvi",
+        "text": "Données sauvegardées sur la\ncarte SD, dans le dossier\nindiqué sur l'écran supérieur.\nVous avez la possibilité de\nvisionner votre vidéo avec\nl'appareil photo Nintendo 3DS."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_SD_Info",
+        "text": "Données sauvegardées sur la\ncarte SD, dans le dossier\nindiqué sur l'écran supérieur."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityParallax_Ok",
+        "text": "Appliquer"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_IsQuit_Cancel",
+        "text": "Annuler"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Title_Save_SD_Info",
+        "text": "Sauvegarde dans :"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityPalette_ColorMode_Ok",
+        "text": "Appliquer"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Real_Cancel",
+        "text": "Annuler"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Save_IsQuit_Icon",
+        "text": "L'icône a été modifiée.\nVoulez-vous vraiment quitter\nsans sauvegarder et choisir\nune nouvelle icône?"
+      },
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear",
+        "text": "Réinitialiser les données\nd'utilisateur?\n\nLes flipnotes sauvegardées\nne seront pas supprimées."
+      },
+      {
+        "label": "WindowConfirm_Save_MemoSave_Sns_Ok",
+        "text": "Démarrer"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Ok",
+        "text": "Réinitialiser"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_Browser_Sns_Ok",
+        "text": "Démarrer"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_IsQuit_Ok",
+        "text": "Quitter"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_DefaultCancel",
+        "text": "Annuler"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Initialize_ClearSavedata",
+        "text": "Si vous continuez, les données\nde sauvegarde seront\nréinitialisées.\nNote : Les paramètres par\ndéfaut seront restaurés. Les\nflipnotes sauvegardées ne\nseront pas effacées."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Initialize_SaveDataClear",
+        "text": "Réinitialisation des\ndonnées d'utilisateur..."
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityPalette_ColorMode",
+        "text": "Appliquer les paramètres de\npapier utilisés sur cette page\nà toutes les autres pages?"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Real",
+        "text": "Voulez-vous vraiment\nréinitialiser les données\nd'utilisateur?"
+      },
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Real_Ok",
+        "text": "Réinitialiser"
+      },
+      {
+        "label": "WindowInfo_Title_Save_SD_InfoAvi",
+        "text": "Sauvegarde dans :"
+      },
+      {
+        "label": "WindowConfirm_Initialize_PatchDownload",
+        "text": "Pour pouvoir être utilisé, ce\nlogiciel doit être mis à jour.\n\nTélécharger la dernière\nversion du logiciel?"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Delete_Memo_Confirm_Cancel",
+        "text": "Annuler"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Delete_Folder_Confirm",
+        "text": "Supprimer ce dossier ainsi que\nl'ensemble de son contenu?\n\nLes dossiers et flipnotes\nsupprimés ne peuvent pas être\nrécupérés."
+      },
+      {
+        "label": "WindowInfo_Title_Save_QrCode",
+        "text": ""
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_MemoSave_Sns",
+        "text": "Cette flipnote n'a pas encore\nété sauvegardée. Démarrer le\nnavigateur malgré tout?\nNote : Il est recommandé de\nsauvegarder vos flipnotes avant\nd'utiliser le service Partage\nd'images Nintendo 3DS."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Delete_Memo_Confirm_Ok",
+        "text": "Supprimer"
+      },
+      {
+        "label": "WindowConfirm_Save_Browser_Sns",
+        "text": "Démarrer le navigateur Internet\npour utiliser le service Partage\nd'images Nintendo 3DS?"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Delete_Memo_Confirm",
+        "text": "Supprimer cette flipnote?\n\nLes flipnotes supprimées ne\npeuvent pas être récupérées."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Delete_Folder_Confirm_Cancel",
+        "text": "Annuler"
+      }
+    ]
+  ]
+}

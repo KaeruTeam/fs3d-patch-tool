@@ -1,0 +1,145 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_Guide_DrawFont",
+        "text": "Saisissez votre texte.\n(80 caractères et 11 lignes max.)"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_TextCheck_NgFolder_Append",
+        "text": "Impossible d'utiliser « \u000e\u0001\u0002\u0002"
+      }
+    ],
+    [
+      {
+        "label": "KeyboardApplet_TextCheck_NgWord",
+        "text": "Le texte contient des\ntermes inappropriés."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_ButtonText_Cancel",
+        "text": "Annuler"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_LineOver",
+        "text": "Le nombre maximum\nde lignes est 11."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_TextCheck_NgFolder",
+        "text": "Impossible d'utiliser\nce nom de dossier."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_Guide_Browser",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_ButtonText_Ok",
+        "text": "OK"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

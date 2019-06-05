@@ -1,0 +1,285 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WindowInfo_Title_Config_PenBox",
+        "text": "Outils"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Se_A",
+        "text": "Activés"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_Se_B",
+        "text": "Désactivés"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Delete",
+        "text": "Cette commande vous permet d'effacer\ntoutes les flipnotes et tous les dossiers\ncréés avec cette application.\n\n(Cela peut prendre un certain temps.)"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_Hand_A",
+        "text": "Main droite"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_Hand_B",
+        "text": "Main gauche"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_AllDelete_Confirm_Ok",
+        "text": "Effacer"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Config_SampleCopy",
+        "text": "Copie des exemples de\nflipnotes en cours..."
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_AllDelete_Ok",
+        "text": "Effacer"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Config_Sample",
+        "text": "Exemples"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_PenBox_A",
+        "text": "Simples"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_PenBox_B",
+        "text": "Experts"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Config_Creator",
+        "text": "Nom du créateur"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_PenBox",
+        "text": "Choisissez d'utiliser soit les outils\nsimples, soit les outils experts pour\ncréer vos flipnotes.\n\nLes outils experts vous permettent\nd'utiliser jusqu'à trois calques."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Config_Se",
+        "text": "Effets sonores"
+      },
+      {
+        "label": "WindowInfo_Title_Config_Hand",
+        "text": "Stylet"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Sample_Ok",
+        "text": "Copier"
+      },
+      {
+        "label": "WindowConfirm_Config_Frog_Title",
+        "text": "Grenouille"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Frog_A",
+        "text": "Affichée"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Hand",
+        "text": "Sélectionnez la main avec laquelle vous\ntenez le stylet. La configuration des\ncommandes change en fonction de\nce paramètre."
+      },
+      {
+        "label": "WindowConfirm_Config_Frog_B",
+        "text": "Masquée"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Sample",
+        "text": "Voulez-vous copier des\nexemples de flipnotes\nsur la carte SD?"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Sample_Cancel",
+        "text": "Annuler"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Sample",
+        "text": "Copiez des exemples de flipnotes dans\nle dossier Home de l'application.\n\nPour que la copie soit possible,\nassurez-vous qu'il y a suffisamment\nd'espace libre sur la carte SD."
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_AllDelete_Confirm_Cancel",
+        "text": "Annuler"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_AllDelete_Confirm",
+        "text": "Les données supprimées ne\npeuvent pas être récupérées.\n\nVoulez-vous vraiment effacer\nles flipnotes et les dossiers?"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Creator",
+        "text": "Modifiez le nom du créateur.\n\nLe nom du créateur est notamment\naffiché dans les informations détaillées\ndes flipnotes que vous créez."
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Se",
+        "text": "Choisissez d'activer ou de désactiver\nles effets sonores produits lorsque vous\ndessinez, touchez une icône ou effectuez\ncertaines actions."
+      },
+      {
+        "label": "WindowConfirm_Config_PenBox_Title",
+        "text": "Outils"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Config_Frog",
+        "text": "Grenouille"
+      },
+      {
+        "label": "WindowConfirm_Config_AllDelete_Cancel",
+        "text": "Annuler"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Config_Delete",
+        "text": "Supprimer les flipnotes"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_AllDelete",
+        "text": "Souhaitez-vous supprimer\nles flipnotes ainsi que\nles dossiers?"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Frog",
+        "text": "Choisissez d'afficher ou non l'icône\nen forme de grenouille dans le coin\ninférieur gauche de l'écran tactile\nlorsque vous créez une flipnote."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Se_Title",
+        "text": "Effets sonores"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_Hand_Title",
+        "text": "Stylet"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Config_SampleCopy_End",
+        "text": "Des exemples de flipnotes ont\nété copiés dans le dossier\nHome de l'application."
+      }
+    ]
+  ]
+}

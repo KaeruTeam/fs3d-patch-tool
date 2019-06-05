@@ -1,0 +1,140 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WindowMessage_DefaultOk",
+        "text": "Okay"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_DefaultCancel",
+        "text": "Zurück"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_PlayTime_Over_Next",
+        "text": "Okay"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_PlayTime_Over",
+        "text": "Vergiss nicht, genügend\nPausen einzulegen."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_DefaultNext",
+        "text": "Weiter"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowLock_TxtSetContents_plural",
+        "text": "Für weitere Bearbeitung sperren?"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowLock_TxtSetContents",
+        "text": "Für weitere Bearbeitung sperren?"
+      }
+    ],
+    [],
+    [],
+    []
+  ]
+}

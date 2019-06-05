@@ -1,0 +1,285 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WindowInfo_Title_Config_PenBox",
+        "text": "Strumenti"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Se_A",
+        "text": "Sì"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_Se_B",
+        "text": "No"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Delete",
+        "text": "Questa operazione eliminerà tutti\ni Flipnote e tutte le cartelle create\ncon questo software.\n\n(L'operazione potrebbe richiedere\nmolto tempo.)"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_Hand_A",
+        "text": "Destra"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_Hand_B",
+        "text": "Sinistra"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_AllDelete_Confirm_Ok",
+        "text": "Sì"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Config_SampleCopy",
+        "text": "Copia in corso..."
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_AllDelete_Ok",
+        "text": "Sì"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Config_Sample",
+        "text": "Esempi di Flipnote"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_PenBox_A",
+        "text": "Normali"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_PenBox_B",
+        "text": "Avanzati"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Config_Creator",
+        "text": "Nome utente"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_PenBox",
+        "text": "Scegli se usare gli strumenti\nnormali o quelli avanzati\nper creare i Flipnote.\n\nCon gli strumenti avanzati hai\na disposizione fino a tre livelli."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Config_Se",
+        "text": "Effetti sonori"
+      },
+      {
+        "label": "WindowInfo_Title_Config_Hand",
+        "text": "Mano usata"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Sample_Ok",
+        "text": "Sì"
+      },
+      {
+        "label": "WindowConfirm_Config_Frog_Title",
+        "text": "Rana"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Frog_A",
+        "text": "Sì"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Hand",
+        "text": "Indica la mano con cui usi lo stilo.\n\nI comandi per la creazione dei Flipnote\nsaranno assegnati diversamente in\nbase alla tua scelta."
+      },
+      {
+        "label": "WindowConfirm_Config_Frog_B",
+        "text": "No"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Sample",
+        "text": "Vuoi copiare gli esempi di\nFlipnote nella scheda SD?"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Sample_Cancel",
+        "text": "No"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Sample",
+        "text": "Puoi copiare esempi di Flipnote\nnella Cartella principale.\n\nSe non c'è abbastanza spazio libero\nnella scheda SD, non sarà possibile\neseguire questa operazione."
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_AllDelete_Confirm_Cancel",
+        "text": "No"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_AllDelete_Confirm",
+        "text": "Una volta eliminati, i dati non\npotranno essere recuperati.\n\nVuoi davvero eliminare tutti\ni Flipnote e tutte le cartelle?"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Creator",
+        "text": "Cambia il tuo nome utente.\n\nIl nome utente appare nei dettagli dei\ntuoi Flipnote e in altre occasioni."
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Se",
+        "text": "Scegli se attivare gli effetti\nsonori quando disegni, tocchi\nle icone e così via."
+      },
+      {
+        "label": "WindowConfirm_Config_PenBox_Title",
+        "text": "Strumenti"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Config_Frog",
+        "text": "Rana"
+      },
+      {
+        "label": "WindowConfirm_Config_AllDelete_Cancel",
+        "text": "No"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Config_Delete",
+        "text": "Elimina i Flipnote"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_AllDelete",
+        "text": "Vuoi eliminare tutti i Flipnote\ne tutte le cartelle?"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Frog",
+        "text": "Scegli se far apparire l'icona\ndella rana nell'angolo in basso\na sinistra del touch screen\nmentre stai creando un Flipnote."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Se_Title",
+        "text": "Effetti sonori"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_Hand_Title",
+        "text": "Mano usata"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Config_SampleCopy_End",
+        "text": "Gli esempi di Flipnote\nsono stati copiati nella\nCartella principale."
+      }
+    ]
+  ]
+}

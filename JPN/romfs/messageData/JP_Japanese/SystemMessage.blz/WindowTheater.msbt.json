@@ -1,0 +1,272 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WindowConfirm_Theater_QrCode_PageJump",
+        "text": "読み取ったQRコードを元に\nワールドうごメモギャラリー内の\n以下のページにジャンプしますか？\n\n\u000e\u0001\u0003\u0002"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_Reboot",
+        "text": "うごくメモ帳 3Dの最新版の\nダウンロードが終了しました。\n\nうごくメモ帳 3Dを再起動します。"
+      },
+      {
+        "label": "WindowWait_Theater_QrCode_Read_Failed",
+        "text": "これは、うごくメモ帳 3Dの\nQRコードではありません。"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Theater_AppJumpToEshop",
+        "text": "ソフトがありません。\n\nうごくメモ帳 3D を終了して\nニンテンドーeショップで\nソフトをダウンロードしますか？"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Theater_PostCommentMemo",
+        "text": "手書きコメントを送信しますか？"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Theater_QrCode_Saving",
+        "text": "QRコードを出力しています…"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Theater_QrCode_Create",
+        "text": "\u000e\u0001\u0003\u0002"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Theater_PostCommentMemo_Return",
+        "text": "コメントの作成をやめますか？\n\n変更した内容は保存されません。"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_QrCode_Save_Result",
+        "text": "上画面に書いてある\nSDカードの場所に保存しました。"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_CancelPostMemo",
+        "text": "送信をキャンセルしています…"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_Post_Memo_Violation",
+        "text": "このメモには過剰な点滅が\n含まれている可能性があります。\n\n再生スピードを見直すなどして、\n投稿しなおしてください。"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_MemoDownloadError",
+        "text": "メモの受信に失敗しました"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Theater_MemoDownload_CancelButton",
+        "text": "キャンセル"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Theater_UpdatePatch",
+        "text": "ワールドうごメモギャラリーを\n利用するには、このソフトの\n最新版が必要です。\n\n今すぐ ダウンロードを行いますか？"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_Prepare_Post_Memo",
+        "text": "送信の準備をしています…"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Theater_EshopJump",
+        "text": "うごくメモ帳 3D を終了して\nニンテンドーeショップへ\n接続します。よろしいですか？"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Theater_UpdatePatch_Ok",
+        "text": "ダウンロード"
+      },
+      {
+        "label": "WindowWait_Theater_Reboot_Button",
+        "text": "再起動する"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Theater_AppJump_Ok",
+        "text": "起動する"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_PostMemo_CancelButton",
+        "text": "キャンセル"
+      },
+      {
+        "label": "WindowWait_Theater_QrCode_Reading_CancelButton",
+        "text": "やめる"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_PostMemo",
+        "text": "送信しています…"
+      },
+      {
+        "label": "WindowWait_Theater_MemoDownload",
+        "text": "しばらくお待ちください…"
+      },
+      {
+        "label": "WindowWait_Theater_QrCode_Reading",
+        "text": "QRコードをさがしています…\n\nうごくメモ帳 3DのQRコードを\n点線のわくにあわせてください。"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Theater_EshopJump_Ok",
+        "text": "接続する"
+      },
+      {
+        "label": "WindowConfirm_Theater_AppJump",
+        "text": "うごくメモ帳 3D を終了して\n以下のソフトを起動しますか？\n\n\u000e\u0001\u0006\u0002"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Theater_Login",
+        "text": "ニンテンドーネットワークに\n接続しています…"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Theater_AppJumpToEshop_Ok",
+        "text": "eショップへ"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Theater_PostCommentMemo_Return_Ok",
+        "text": "OK"
+      },
+      {
+        "label": "WindowConfirm_Theater_QrCode_PageJump_Ok",
+        "text": "ジャンプする"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_Prepare_Post_Memo_CancelButton",
+        "text": "キャンセル"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Theater_ReturnTitle",
+        "text": "エラーが発生しました。\nタイトルメニューへ戻りますか？"
+      },
+      {
+        "label": "WindowConfirm_Theater_QrCode_Create_Ok",
+        "text": "出力する"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_AppJump_NotFound",
+        "text": "ソフトがありません。"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_Theater_Login_CancelButton",
+        "text": "キャンセル"
+      }
+    ],
+    [],
+    [],
+    [],
+    []
+  ]
+}

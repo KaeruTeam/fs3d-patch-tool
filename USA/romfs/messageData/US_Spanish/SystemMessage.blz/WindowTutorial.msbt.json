@@ -1,0 +1,421 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WindowWait_TitleTutorial_SettingResult",
+        "text": "Puedes cambiar tu nombre\nde usuario y la mano que\nusas siempre que quieras\nen el menú de ajustes."
+      }
+    ],
+    [
+      {
+        "label": "WindowMessageUpper_SaveTutorial_Save",
+        "text": "Solo toca \"Guardar\"."
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_End",
+        "text": "Pues eso es todo.\n¡Espero que te diviertas\ncreando notas de todo tipo!\n\n¡Hasta la vista!"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessageUpper_WatchTutorial_Output",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_DrawTutorial_StartConfirm_Ok",
+        "text": "Sí"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_CreatorName_Result",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessageUpper_DepthEditTutorial",
+        "text": "Puedes ajustar la profundidad del\nefecto 3D. Solo mueve la barra que\nves abajo en todas las páginas.\n\nToca  para salir."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_SampleMemo_Cancel",
+        "text": "No, gracias"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowMessage_DrawTutorial_SuggestMenu",
+        "text": "Además del lápiz, hay\nmuchas otras herramientas\nútiles para crear notas."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_SamepleMemo04_Cancel",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowMessageUpper_DrawTutorial_ExplainMenu_Right",
+        "text": "Encontrarás todo tipo de\nherramientas. Prueba algunas\npara conocer más. Oprime \npara salir del menú y volver a\nla página."
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_SampleMemo_Ok",
+        "text": "Sí"
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_StartDrawing",
+        "text": "Imagina que la pantalla táctil\nes una página en blanco y\nusa el lápiz táctil para hacer\nun dibujo rápido."
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_WatchStartConfirm_Cancel",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowMessageUpper_SoundEditTutorial",
+        "text": "También puedes grabar sonidos\nusando el micrófono e insertarlos\nen una nota como música de fondo\no efectos de sonido. Toca\n\"Secuenciador de audio\" para seguir.\nToca  para salir."
+      },
+      {
+        "label": "WindowMessageUpper_WatchTutorial_Other",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_End_Next",
+        "text": "Finalizar"
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_Finish_02_Next",
+        "text": "Terminar"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessageUpper_DrawTutorial_SuggestSave",
+        "text": "Cuando termines de crear una nota,\ntoca \"Guardar/Salir\".\n\n¡Recuerda guardar tus notas o todo\ntu esfuerzo será en vano!"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_WatchTutorial_Finish",
+        "text": "Espero que esta información\nte sea útil.\n\n¡Hasta luego!"
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_Finish_00",
+        "text": "Con esto hemos terminado\nla explicación.\n\n¡Espero que todo haya\nquedado claro!"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_SamepleMemo01",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_Finish_01",
+        "text": "¡Ah, por cierto!\n\nPara volver a la pantalla\ndel título, solo tienes\nque tocar \"Salir\"."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_TitleTutorial_HandResultRight",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_SamepleMemo02",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_Cancel_Finish",
+        "text": "Eso es todo por ahora.\n¡Que te diviertas creando\nnotas de todo tipo!\n\n¡Hasta luego!"
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_Finish_02",
+        "text": "Eso es todo por ahora.\n¡Que te diviertas creando\nnotas de todo tipo!\n\n¡Hasta luego!"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_SamepleMemo03",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_SamepleMemo04",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_WatchTutorial",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_Manual",
+        "text": "Si tienes alguna duda, oprime\n para abrir el menú HOME\ny elige la opción \"Manual\"."
+      }
+    ],
+    [
+      {
+        "label": "WindowMessageUpper_FlagSequencerTutorial",
+        "text": "Toca la pantalla para colocar una\nbandera en una página para que se\nreproduzca el sonido grabado.\n\nConsulta el manual para obtener\nmás información."
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_DrawTutorial_StartConfirm_Cancel",
+        "text": "No, gracias"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowMessageUpper_DrawTutorial_ExplainMenu_Left",
+        "text": "Encontrarás todo tipo de\nherramientas. Prueba algunas para\nconocer más. Oprime  para salir\ndel menú y volver a la página."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessageUpper_FrameEditTutorial",
+        "text": "Aquí puedes modificar la secuencia\nde tus notas. Por ejemplo, puedes\nañadir, copiar y pegar páginas\nexistentes.\n\nToca  para salir."
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_DrawTutorial_OpenMenu_Right",
+        "text": "Oprime  para abrir el menú."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_TitleTutorial_HandResultLeft",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_Welcome01",
+        "text": "¡Te doy la bienvenida\na Flipnote Studio 3D!"
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_ExplainFrog",
+        "text": "¡Por cierto!\n\nPara regresar al menú de\nherramientas en cualquier\nmomento, solo tienes que\ntocarme."
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_Welcome02",
+        "text": "Flipnote Studio 3D es una\naplicación que te permite\ncrear tus propias notas y\nanimaciones.\n\n¿Comenzamos?"
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_ReConfirm_Ok",
+        "text": "Sí, seguro"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_Welcome03",
+        "text": "Lo primero que debes hacer\nes introducir ciertos datos."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_TitleTutorial_HandSetting",
+        "text": "¡Genial, gracias!\n\nAhora dime, ¿con cuál mano\nsujetas el lápiz táctil?"
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_DrawStartConfirm",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_CreatorName",
+        "text": "Para empezar, introduce\ntu nombre de usuario.\n\nSerá el nombre del \"creador\"\nque aparecerá en las notas\nque diseñes."
+      },
+      {
+        "label": "WindowMessage_WatchTutorial_TouchMemo_01",
+        "text": "Toca \"Editar\" para modificar\nuna nota, o \"Detalles\" para\nobtener información sobre\nella."
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_WatchTutorial_TouchMemo",
+        "text": "¡Hola!\n\nVeo que has encontrado\nlas notas de muestra."
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_DrawStartConfirm_Cancel",
+        "text": ""
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowMessage_DrawTutorial_OpenMenu_Left",
+        "text": "Oprime  para abrir el menú."
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_WatchStartConfirm",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_WatchTutorial_Finish_Next",
+        "text": "Terminar"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowMessageUpper_SaveTutorial_End",
+        "text": ""
+      },
+      {
+        "label": "WindowMessageUpper_WatchTutorial_Folder",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_StartConfirm",
+        "text": "¡Hola de nuevo!\n\n¿Quieres que te explique\ncómo se crea una nota?"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessageUpper_WatchTutorial_TouchMemo",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_CancelConfirm01",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_CancelConfirm02",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_PageChange_Left",
+        "text": "¡Muy bien!\n\nAhora, oprime  /  para\npasar las páginas."
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_Cancel_Finish_Next",
+        "text": "Terminar"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_DrawTutorial_PageChange_Right",
+        "text": "¡Muy bien!\n\nAhora, oprime  para\npasar las páginas."
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_CancelConfirm03",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_CancelConfirm04",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_DrawTutorial_ReConfirm",
+        "text": "Si te saltas la explicación,\nno podrás verla más tarde.\n¿Seguro que quieres\nsaltártela?"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_SampleMemo",
+        "text": "Por último, ¿quieres copiar\nunas notas de muestra?\n\n(También puedes hacerlo más\ntarde eligiendo \"Muestras en\nel menú de ajustes)."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_Thanks",
+        "text": "¡Muchas gracias\npor la información!"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessageUpper_WatchTutorial_Draw",
+        "text": ""
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowMessage_DrawTutorial_Manual",
+        "text": "Si necesitas ayuda, oprime\n para abrir el menú HOME\ny elige \"Manual\"."
+      }
+    ],
+    []
+  ]
+}

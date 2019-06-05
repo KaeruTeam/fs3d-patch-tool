@@ -1,4 +1,4 @@
-# IPS tool 
+# IPS lib
 # Allows .ips patch files to be generated without needing the target file, as long as you know your target offsets
 # Written by Jaames
 # github.com/jaames | jamesdaniel.dev
@@ -26,7 +26,7 @@ class IpsPatch:
 
       # if all bytes are the same
       if len(data) > 3 and all(byte == data[0] for byte in data):
-        result += bytes([0, 0])
+        result += bytes(2) 
         result += len(data).to_bytes(2, byteorder='big')
         result += bytes([data[0]])
       
@@ -34,7 +34,7 @@ class IpsPatch:
         result += len(record.data).to_bytes(2, byteorder='big')
         result += record.data
     # Write "EOF" end of file marker
-    result += bytes([0x45, 0x4F, 0x46])
+    result += b'EOF'
     return result
 
   def read(self, buffer):

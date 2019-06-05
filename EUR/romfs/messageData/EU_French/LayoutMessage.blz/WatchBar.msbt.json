@@ -1,0 +1,150 @@
+{
+  "groups": [
+    [],
+    [
+      {
+        "label": "WatchBar_TxtCont",
+        "text": "Publier"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtFolderDetail",
+        "text": "Détails du dossier"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtAllStop",
+        "text": "Arrêter"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtSend",
+        "text": "Envoyer"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtPost",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WatchBar_TxtMemoDetail",
+        "text": "Détails"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtDraw",
+        "text": "Éditer"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtGet",
+        "text": "Recevoir"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WatchBar_TxtAllPlay",
+        "text": "Tout visionner"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtLayerA",
+        "text": "Ebene A"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtLayerB",
+        "text": "Ebene B"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtCL",
+        "text": "C"
+      },
+      {
+        "label": "ColorSelects_TxtLayerC",
+        "text": "Ebene C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtMergeBtA",
+        "text": "B auf A übertragen"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtMergeBtC",
+        "text": "B auf C übertragen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtA",
+        "text": "A"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtB",
+        "text": "B"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtC",
+        "text": "C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtMergeA",
+        "text": "B+C auf A übertragen"
+      },
+      {
+        "label": "ColorSelects_TxtBL",
+        "text": "B"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtMergeB",
+        "text": "A+C auf B übertragen"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtMergeC",
+        "text": "A+B auf C übertragen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtMergeCtA",
+        "text": "C auf A übertragen"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtMergeCtB",
+        "text": "C auf B übertragen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtMergeAtB",
+        "text": "A auf B übertragen"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtMergeAtC",
+        "text": "A auf C übertragen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtAL",
+        "text": "A"
+      }
+    ],
+    [],
+    [],
+    [],
+    []
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "FrogMemo3D_10",
+        "text": "Per vedere l'effetto, sposta\nil regolatore di profondità 3D\nverso l'alto."
+      },
+      {
+        "label": "FrogMemoLSift_1",
+        "text": "Cra cra! Vuoi che ti\nparli della funzione\ndel pulsante L?"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_11",
+        "text": "E come possiamo\nusare questo\neffetto?"
+      },
+      {
+        "label": "FrogMemoLSift_2",
+        "text": "Tenendo premuto il\npulsante L (o il pulsante R\nper i mancini)..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_12",
+        "text": "Prima rimpiccioliamo..."
+      },
+      {
+        "label": "FrogMemoLSift_3",
+        "text": "... puoi visualizzare\ndelle opzioni extra!"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_13",
+        "text": "... poi ingrandiamo e..."
+      },
+      {
+        "label": "FrogMemoLSift_4",
+        "text": "Provaci! Scoprirai\ndi certo molte\ncose utili."
+      },
+      {
+        "label": "Bug",
+        "text": "Creato con strumenti\navanzati e 3D"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_14",
+        "text": "BOING!"
+      },
+      {
+        "label": "FrogMemoLSift_5",
+        "text": "Ciao ciao!"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_15",
+        "text": "BOING!"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_16",
+        "text": "E voilà!\nEcco una pallina!"
+      }
+    ],
+    [
+      {
+        "label": "DotSheep",
+        "text": "Creato con strumenti normali, l'uso\ndel pulsante L + ○ e la funzione\nAumenta (in Trasformazioni)"
+      },
+      {
+        "label": "FrogMemo3D_17",
+        "text": "Prova anche tu!\nInizia con cose\nsemplici, OK?"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_18",
+        "text": "Ciao ciao!"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Punch",
+        "text": "Creato con\nstrumenti\navanzati\ne 3D"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "Swim",
+        "text": "Creato con\nstrumenti\navanzati\ne 3D"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Plane",
+        "text": "Creato con strumenti avanzati\ne trasformazioni"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSample_1",
+        "text": "La gamma dei colori\ndi Flipnote"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_2",
+        "text": "Colore di base: nero"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_3",
+        "text": "Colore di base: bianco"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_4",
+        "text": "Colore di base: rosso"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_5",
+        "text": "Colore di base: giallo"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_6",
+        "text": "Colore di base: verde"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_7",
+        "text": "Colore di base: blu"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "FrogMemoLayer_1",
+        "text": "Cra cra! Vuoi che ti\nparli dei livelli negli\nstrumenti avanzati?"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_2",
+        "text": "Con gli strumenti\nnormali..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_3",
+        "text": "... hai a disposizione\nun solo piano."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_4",
+        "text": "Con quelli avanzati,\ninvece..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_5",
+        "text": "... puoi disegnare su\ntre livelli distinti."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_6",
+        "text": "Ti sembra forse\nun po' complicato?"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_7",
+        "text": "Con un po' di\npratica, i livelli\nti torneranno\ndavvero utili."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_1",
+        "text": "Cra cra! Vuoi che\nti parli delle\nanimazioni 3D?"
+      },
+      {
+        "label": "FrogMemoLayer_8",
+        "text": "Guarda, ti faccio\nun esempio."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_2",
+        "text": "Innanzitutto, che cosa sono?"
+      },
+      {
+        "label": "FrogMemoLayer_9",
+        "text": "Puoi realizzare\ndivertenti animazioni\n3D semplicemente\nspostando i livelli."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_3",
+        "text": "Sono\nanimazioni..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_4",
+        "text": "... che fanno uso\ndella profondità."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_5",
+        "text": "L'immagine può\nmuoversi verso\nil primo piano..."
+      },
+      {
+        "label": "FrogMemoLayer_10",
+        "text": "Che ne dici di fare\nuna prova?"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_6",
+        "text": "... o verso\nlo sfondo."
+      },
+      {
+        "label": "FrogMemoLayer_11",
+        "text": "Ciao ciao!"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_7",
+        "text": "Per usare il 3D, tocca\nl'icona in alto a destra."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_8",
+        "text": "Poi muovi il regolatore\nper modificare la profondità."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_9",
+        "text": "Ora guardiamo\nil tutto dal davanti."
+      }
+    ],
+    [],
+    []
+  ]
+}

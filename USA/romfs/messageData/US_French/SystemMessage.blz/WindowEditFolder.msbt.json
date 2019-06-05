@@ -1,0 +1,145 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_FolderRename",
+        "text": "Renommer le dossier"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Icon_Editor",
+        "text": "Choisir une icône"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Icon_Editor_Edit",
+        "text": "Personnalisez l'icône que vous avez\nchoisie pour votre dossier.\n\nVous pourrez toujours changer\nl'icône du dossier par la suite."
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Icon_Editor",
+        "text": "Sélectionnez une icône pour\nce dossier.\n\nVous pourrez toujours la\nchanger par la suite."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Icon_Editor_Edit",
+        "text": "Modifier l'icône"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Icon_Editor_Folder",
+        "text": "Nouveau dossier"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Icon_Editor_Folder",
+        "text": "Entrez un nom pour le dossier\nque vous souhaitez créer.\n\nVous ne pouvez pas utiliser un\nnom déjà attribué à un autre\ndossier."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_FolderRename",
+        "text": "Entrez un nom pour le dossier.\n\nVous ne pouvez pas utiliser un\nnom déjà attribué à un autre\ndossier."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

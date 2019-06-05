@@ -1,0 +1,145 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_FolderRename",
+        "text": "Change Folder Name"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Icon_Editor",
+        "text": "Select Icon"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Icon_Editor_Edit",
+        "text": "Edit the folder icon.\n\nYou can change the folder icon\nwhenever you like."
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Icon_Editor",
+        "text": "Select an icon for the folder.\n\nYou can always change it later,\nif you like."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Icon_Editor_Edit",
+        "text": "Edit Icon"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Icon_Editor_Folder",
+        "text": "Create New Folder"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Icon_Editor_Folder",
+        "text": "Enter a name for the new folder.\n\nYou cannot use a name that is\nalready used for another folder."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_FolderRename",
+        "text": "Enter a name for the folder.\n\nYou cannot use a name that is\nalready used for another folder."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

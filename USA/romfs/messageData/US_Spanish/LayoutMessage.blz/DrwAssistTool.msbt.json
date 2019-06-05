@@ -1,0 +1,135 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwAssistTool_TxtPaperColor",
+        "text": "Papel"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwAssistTool_TxtTrans",
+        "text": "Transformar"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwAssistTool_TxtSelect",
+        "text": "Efectos"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwAssistTool_TxtTrace",
+        "text": "Caja de luz"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwAssistTool_TxtCopy",
+        "text": "Copiar"
+      }
+    ],
+    [
+      {
+        "label": "DrwAssistTool_TxtRectangle",
+        "text": "Formas"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

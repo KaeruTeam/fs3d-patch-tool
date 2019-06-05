@@ -1,0 +1,150 @@
+{
+  "groups": [
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtPushNaviRP",
+        "text": " Dessiner        Changer de page"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtNaviL",
+        "text": " Outils  / Changer de page   Jouer"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtNaviR",
+        "text": " Outils     Changer de page     Jouer"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtLayerA",
+        "text": "A"
+      }
+    ],
+    [
+      {
+        "label": "DrwCanvasBar_TxtLayerB",
+        "text": "B"
+      }
+    ],
+    [
+      {
+        "label": "DrwCanvasBar_TxtLayerC",
+        "text": "C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtPushNaviLP",
+        "text": " Dessiner       / Changer de page"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtPushNaviL",
+        "text": " Annuler       Rétablir"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DrwCanvasBar_TxtPushNaviR",
+        "text": " Annuler        Rétablir"
+      }
+    ],
+    [],
+    [],
+    []
+  ]
+}

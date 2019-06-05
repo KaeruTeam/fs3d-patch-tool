@@ -1,0 +1,155 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtAdvancedT",
+        "text": "Strumenti"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtSoundT",
+        "text": "Effetti sonori"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtNameT",
+        "text": "Nome utente"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtAllClear",
+        "text": "Elimina i Flipnote"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtSample",
+        "text": "Copia"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtSampleT",
+        "text": "Esempi di Flipnote"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtName",
+        "text": "Cambia"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtBirthdayT",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtFrogT",
+        "text": "Rana"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtHandednessT",
+        "text": "Mano usata"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

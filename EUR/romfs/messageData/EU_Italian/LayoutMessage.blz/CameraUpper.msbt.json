@@ -1,0 +1,140 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "CameraUpper_TxtNormal",
+        "text": "Normale"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "CameraUpper_TxtInCamera",
+        "text": "Obiettivo interno"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "CameraUpper_TxtBlur",
+        "text": "Sfocatura"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "CameraUpper_TxtOutCamera",
+        "text": "Obiettivi esterni"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "CameraUpper_TxtLine",
+        "text": "Lineare"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "CameraUpper_TxtOutCamIcon",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "CameraUpper_TxtInCamIcon",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

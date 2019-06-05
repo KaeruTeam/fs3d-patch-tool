@@ -1,0 +1,193 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtLayerA",
+        "text": "Livello A"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtLayerB",
+        "text": "Livello B"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtCL",
+        "text": "C"
+      },
+      {
+        "label": "ColorSelects_TxtLayerC",
+        "text": "Livello C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtMergeBtA",
+        "text": "Unisci B ad A"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtMergeBtC",
+        "text": "Unisci B a C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtA",
+        "text": "A"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtB",
+        "text": "B"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtC",
+        "text": "C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtMergeA",
+        "text": "Unisci B + C ad A"
+      },
+      {
+        "label": "ColorSelects_TxtBL",
+        "text": "B"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtMergeB",
+        "text": "Unisci A + C a B"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtMergeC",
+        "text": "Unisci A + B a C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtMergeCtA",
+        "text": "Unisci C ad A"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtMergeCtB",
+        "text": "Unisci C a B"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtMergeAtB",
+        "text": "Unisci A a B"
+      }
+    ],
+    [
+      {
+        "label": "ColorSelects_TxtMergeAtC",
+        "text": "Unisci A a C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSelects_TxtAL",
+        "text": "A"
+      }
+    ],
+    [],
+    [],
+    [],
+    []
+  ]
+}

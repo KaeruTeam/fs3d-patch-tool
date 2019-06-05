@@ -1,0 +1,323 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_ReadyWait",
+        "text": "Esperando al otro usuario..."
+      },
+      {
+        "label": "WindowWait_MemoExchange_Send_Failure",
+        "text": "No se ha podido enviar\nla nota."
+      },
+      {
+        "label": "ExchangeUpper_TxtSetContents_Wait",
+        "text": "Espera..."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Exchange_Top",
+        "text": "Intercambiar notas"
+      },
+      {
+        "label": "WindowConfirm_MemoExchange_Connect_Cancel",
+        "text": "No"
+      },
+      {
+        "label": "ExchangeUpper_TxtSetContents_Receive",
+        "text": "Elige la carpeta de destino\ny toca \"Recibir\"."
+      },
+      {
+        "label": "WindowWait_MemoExchange_Disconnect_Report",
+        "text": "El otro usuario se ha\ndesconectado."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_MemoExchange_Disconnect",
+        "text": "¿Seguro que quieres interrumpir\nla conexión con el otro usuario?"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_MemoExchange_FullFolder",
+        "text": "Esta carpeta está llena.\n\nElige otra carpeta."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_ReadyOk",
+        "text": "Conexión establecida."
+      },
+      {
+        "label": "WindowWait_MemoExchange_ReadyWait_CancelButton",
+        "text": "Cancelar"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_MemoExchange_Agreement_Ok",
+        "text": "Acepto"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Receive_Failure",
+        "text": "No se ha podido recibir\nla nota."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_MemoExchange",
+        "text": "Buscando usuarios..."
+      },
+      {
+        "label": "ExchangeUpper_TxtSetContents_Send_L",
+        "text": "Elige una nota y toca \"Enviar\".\nMantén oprimido el botón R para\nseleccionar varias notas."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_ReturnTopmenu_Wait",
+        "text": "Espera..."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_CancelButton",
+        "text": "Cancelar"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ExchangeUpper_TxtConnect_Connect",
+        "text": "Conexión establecida con"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_ChangeFolder",
+        "text": "Esta carpeta está llena.\n\nElige otra carpeta."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ExchangeUpper_TxtSetTitle_Send",
+        "text": "Enviar notas"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Receive_Success_plural",
+        "text": "Se han guardado las notas."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Exchange_Agreement",
+        "text": "No envíes notas ilegales, ofensivas o que\npuedan infringir los derechos de otros.\nAl enviar una nota, confirmas que has\nobtenido todos los derechos necesarios\nde terceras partes. Además, comprendes\ny aceptas que las notas que no bloquees\npodrán ser editadas, publicadas en\ninternet o compartidas de nuevo con\nterceras partes."
+      },
+      {
+        "label": "WindowWait_MemoExchange_Receive_CancelButton",
+        "text": "Cancelar"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_MemoExchange_PreReceive",
+        "text": "Recibiendo y guardando...\n(Este proceso puede tardar\nun poco)."
+      }
+    ],
+    [
+      {
+        "label": "ExchangeUpper_TxtSetContents_Send",
+        "text": "Elige una nota y toca \"Enviar\".\nMantén oprimido el botón L para\nseleccionar varias notas."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Exchange_Top",
+        "text": "Si cierras la consola o abres el menú\nHOME durante el intercambio, perderás\nla conexión con el otro usuario,\nasí que ten cuidado."
+      },
+      {
+        "label": "WindowWait_MemoExchange_Cancel",
+        "text": "Se ha cancelado el proceso."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Receive_Failure_plural",
+        "text": "No se han podido recibir\nlas notas."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Disconnect",
+        "text": "Conexión interrumpida."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_MemoExchange_Connect_Ok",
+        "text": "Sí"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_MemoExchange_Agreement",
+        "text": "Lee la información de la pantalla\nsuperior antes de seguir\nadelante."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Send_Success_plural",
+        "text": "Se han enviado las notas."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_MemoExchange_Connect",
+        "text": "Se ha encontrado\na \u000e\u0001\u0002\u0002"
+      },
+      {
+        "label": "WindowWait_MemoExchange_Send_Success",
+        "text": "Se ha enviado la nota."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Send_Failure_plural",
+        "text": "No se han podido enviar\nlas notas."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ExchangeUpper_TxtSetTitle_Receive",
+        "text": "Recibir notas"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Send",
+        "text": "Enviando...\n(Este proceso puede tardar\nun poco).\n\u000e\u0001"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Receive",
+        "text": "Recibiendo y guardando...\n(Este proceso puede tardar\nun poco).\n\u000e\u0001"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_StartWirelessOff",
+        "text": "Para intercambiar notas, activa\nla conexión inalámbrica."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Receive_Success",
+        "text": "Se ha guardado la nota."
+      },
+      {
+        "label": "WindowWait_MemoExchange_Send_InvalidMemo",
+        "text": "No se ha podido completar\nla transferencia porque algunos\ndatos están dañados."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_ErrorNothingPartner",
+        "text": "No se ha podido establecer\nla conexión con el otro usuario."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Receive_MemoFileCrached",
+        "text": "No se ha podido completar\nla transferencia porque algunos\ndatos están dañados."
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Title_Exchange_Agreement",
+        "text": "Advertencia"
+      },
+      {
+        "label": "ExchangeUpper_TxtConnect_Disconnect",
+        "text": "Conexión no establecida."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_MemoExchange_Send_CancelButton",
+        "text": "Cancelar"
+      }
+    ]
+  ]
+}

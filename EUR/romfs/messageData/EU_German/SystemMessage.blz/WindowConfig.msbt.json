@@ -1,0 +1,285 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WindowInfo_Title_Config_PenBox",
+        "text": "Utensilien"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Se_A",
+        "text": "Ein"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_Se_B",
+        "text": "Aus"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Delete",
+        "text": "Hiermit werden alle Flipnotes und\nOrdner gelöscht, die mit dieser\nSoftware erstellt wurden.\n(Dies kann einige Zeit dauern.)"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_Hand_A",
+        "text": "Rechts"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_Hand_B",
+        "text": "Links"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_AllDelete_Confirm_Ok",
+        "text": "Löschen"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Config_SampleCopy",
+        "text": "Beispiel-Flipnotes werden\nkopiert..."
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_AllDelete_Ok",
+        "text": "Löschen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Config_Sample",
+        "text": "Beispiel-Flipnotes"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_PenBox_A",
+        "text": "Normal"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_PenBox_B",
+        "text": "Erweitert"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Config_Creator",
+        "text": "Nutzername"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_PenBox",
+        "text": "Wähle zwischen den herkömmlichen\nund den erweiterten Utensilien für\nFortgeschrittene, um Flipnotes zu\nerstellen. Letztere ermöglichen dir\ndas Zeichnen auf bis zu drei Ebenen."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Config_Se",
+        "text": "Soundeffekte"
+      },
+      {
+        "label": "WindowInfo_Title_Config_Hand",
+        "text": "Schreibhand"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Sample_Ok",
+        "text": "Kopieren"
+      },
+      {
+        "label": "WindowConfirm_Config_Frog_Title",
+        "text": "Frosch"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Frog_A",
+        "text": "Anzeigen"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Hand",
+        "text": "Die Einstellungen der Arbeitsfläche\nlassen sich an deine Schreibhand\nanpassen.\n\nBitte lege deine Schreibhand fest."
+      },
+      {
+        "label": "WindowConfirm_Config_Frog_B",
+        "text": "Ausblenden"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Sample",
+        "text": "Beispiel-Flipnotes auf die\nSD Card übertragen?"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Sample_Cancel",
+        "text": "Abbrechen"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Sample",
+        "text": "Diese Funktion überträgt\nBeispiel-Flipnotes in den\nHome-Ordner.\n\nDas Kopieren ist nicht möglich, wenn\nnicht ausreichend freier Speicher\nauf der SD Card zur Verfügung steht."
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_AllDelete_Confirm_Cancel",
+        "text": "Abbrechen"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_AllDelete_Confirm",
+        "text": "Bist du sicher, dass du alle\nFlipnotes und Ordner löschen\nmöchtest?\n\nGelöschte Daten können nicht\nwiederhergestellt werden."
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Creator",
+        "text": "Ändere deinen Nutzernamen.\n\nDieser Name wird unter anderem\nin den detaillierten Informationen\nzu deinen Flipnotes angezeigt."
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Se",
+        "text": "Schalte Soundeffekte ein oder aus,\ndie unter anderem beim Zeichnen\nund Berühren von Schaltflächen\nabgespielt werden."
+      },
+      {
+        "label": "WindowConfirm_Config_PenBox_Title",
+        "text": "Utensilien"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Config_Frog",
+        "text": "Frosch"
+      },
+      {
+        "label": "WindowConfirm_Config_AllDelete_Cancel",
+        "text": "Abbrechen"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Config_Delete",
+        "text": "Flipnotes löschen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_AllDelete",
+        "text": "Möchtest du alle\nFlipnotes und Ordner\nlöschen?"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Frog",
+        "text": "Wähle, ob der Frosch beim Erstellen der\nFlipnote in der linken unteren Ecke des \nTouchscreens angezeigt werden soll oder\nnicht."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Se_Title",
+        "text": "Soundeffekte"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_Hand_Title",
+        "text": "Schreibhand"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Config_SampleCopy_End",
+        "text": "Die Beispiel-Flipnotes wurden\nim Home-Ordner gespeichert."
+      }
+    ]
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Save_QrCode",
+        "text": ""
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_DefaultNext",
+        "text": "OK"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_DefaultOk",
+        "text": "OK"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityPalette_LayerMode",
+        "text": "Apply the colour and\npaper settings for this\npage to all other pages?"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Title_Save_Jpg",
+        "text": "Save Location"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Initialize_ClearSavedata_Ok",
+        "text": "Reset Data"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Save_IsQuit",
+        "text": "This Flipnote has been edited.\nAre you sure you want to quit\nwithout saving?"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Memo_Over",
+        "text": "You cannot save the Flipnote\nhere because the folder is full."
+      },
+      {
+        "label": "WindowConfirm_Initialize_PatchDownload_Ok",
+        "text": "Download"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Cancel",
+        "text": "Cancel"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityParallax",
+        "text": "Apply the 3D settings for this\npage to all other pages?"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityPalette_LayerMode_Ok",
+        "text": "Apply"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Delete_Folder_Confirm_Ok",
+        "text": "Delete"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Save_Jpg",
+        "text": "\u000e\u0001\u0004\u0002"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_SD_InfoAvi",
+        "text": "Saved to the SD card,\nin the location displayed\non the upper screen.\n\nYou can view the video with\nNintendo 3DS Camera."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_SD_Info",
+        "text": "Saved to the SD card,\nin the location displayed\non the upper screen."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityParallax_Ok",
+        "text": "Apply"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_IsQuit_Cancel",
+        "text": "Cancel"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Title_Save_SD_Info",
+        "text": "Save Location"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityPalette_ColorMode_Ok",
+        "text": "Apply"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Real_Cancel",
+        "text": "Cancel"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Save_IsQuit_Icon",
+        "text": "Any changes you've made\nto the icon will be lost.\nAre you sure you want to\nexit without saving?"
+      },
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear",
+        "text": "Reset user data?\n\nYour Flipnotes will\nnot be deleted."
+      },
+      {
+        "label": "WindowConfirm_Save_MemoSave_Sns_Ok",
+        "text": "Open Browser"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Ok",
+        "text": "Reset Data"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_Browser_Sns_Ok",
+        "text": "Open Browser"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_IsQuit_Ok",
+        "text": "I'm sure"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_DefaultCancel",
+        "text": "Cancel"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Initialize_ClearSavedata",
+        "text": "If you continue, the save\ndata will be reset. Is this OK?\n\nNote: Original settings will\nbe restored. Your existing\nFlipnotes will not be deleted."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Initialize_SaveDataClear",
+        "text": "Resetting user data..."
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityPalette_ColorMode",
+        "text": "Apply the paper settings for\nthis page to all other pages?"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Real",
+        "text": "Are you sure you want\nto reset your user data?"
+      },
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Real_Ok",
+        "text": "Reset Data"
+      },
+      {
+        "label": "WindowInfo_Title_Save_SD_InfoAvi",
+        "text": "Save Location"
+      },
+      {
+        "label": "WindowConfirm_Initialize_PatchDownload",
+        "text": "This software must be updated\nbefore it can be used.\n\nDo you want to download\nthe newest version of this\nsoftware now?"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Delete_Memo_Confirm_Cancel",
+        "text": "Cancel"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Delete_Folder_Confirm",
+        "text": "Delete this folder and\nits contents?\n\nDeleted folders and Flipnotes\ncannot be recovered."
+      },
+      {
+        "label": "WindowInfo_Title_Save_QrCode",
+        "text": ""
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_MemoSave_Sns",
+        "text": "This Flipnote hasn't been\nsaved. Are you sure you\nwant to open the browser?\n\nNote: It's recommended to save\nyour Flipnotes before using\nNintendo 3DS Image Share."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Delete_Memo_Confirm_Ok",
+        "text": "Delete"
+      },
+      {
+        "label": "WindowConfirm_Save_Browser_Sns",
+        "text": "In order to use Nintendo 3DS\nImage Share, the internet\nbrowser must be opened.\n\nIs this OK?"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Delete_Memo_Confirm",
+        "text": "Delete this Flipnote?\n\nDeleted Flipnotes\ncannot be recovered."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Delete_Folder_Confirm_Cancel",
+        "text": "Cancel"
+      }
+    ]
+  ]
+}

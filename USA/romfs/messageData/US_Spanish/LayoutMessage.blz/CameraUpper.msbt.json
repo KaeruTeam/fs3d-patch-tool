@@ -1,0 +1,140 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "CameraUpper_TxtNormal",
+        "text": "Normal"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "CameraUpper_TxtInCamera",
+        "text": "Cámara interior"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "CameraUpper_TxtBlur",
+        "text": "Desenfocar"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "CameraUpper_TxtOutCamera",
+        "text": "Cámara exterior"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "CameraUpper_TxtLine",
+        "text": "Línea"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "CameraUpper_TxtOutCamIcon",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "CameraUpper_TxtInCamIcon",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

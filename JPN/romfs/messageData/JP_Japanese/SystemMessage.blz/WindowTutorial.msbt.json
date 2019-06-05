@@ -1,0 +1,421 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WindowWait_TitleTutorial_SettingResult",
+        "text": "作者名や利き手の設定は\nあとから「設定」画面で\n変更することができます。"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessageUpper_SaveTutorial_Save",
+        "text": "ここはまよわず 「保存する」を\nぽちっと おしてください！"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_End",
+        "text": "それでは\nまたお会いしましょう！\n\nアディオス アミーゴ！"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessageUpper_WatchTutorial_Output",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_DrawTutorial_StartConfirm_Ok",
+        "text": "説明を聞く"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_CreatorName_Result",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessageUpper_DepthEditTutorial",
+        "text": "飛出し具合（3D）を調整できます\n\nページごとに、下のバーを\n動かしてみてください\n\nもどるときは です"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_SampleMemo_Cancel",
+        "text": "あとで"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowMessage_DrawTutorial_SuggestMenu",
+        "text": "今、使っているペン以外にも\nメモを書くための\nベンリな道具がありますよ"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_SamepleMemo04_Cancel",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowMessageUpper_DrawTutorial_ExplainMenu_Right",
+        "text": "たくさん、道具がありますね\nいろいろ試してみてください\n\nまよったら、 の上をおすと\nキャンバスに もどれます"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_SampleMemo_Ok",
+        "text": "コピーする"
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_StartDrawing",
+        "text": "ここが「キャンバス」になります\nペンで何か、書いてみましょう\n\nわたしを書いてもいいですよ！"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_WatchStartConfirm_Cancel",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowMessageUpper_SoundEditTutorial",
+        "text": "マイクで音声を録音すると\nBGMやSE（効果音）として\nメモに加えることができます\n\nもどるときは です"
+      },
+      {
+        "label": "WindowMessageUpper_WatchTutorial_Other",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_End_Next",
+        "text": "OK"
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_Finish_02_Next",
+        "text": "OK"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessageUpper_DrawTutorial_SuggestSave",
+        "text": "メモを書き終わったら\n下にある「保存/終了」を\nおしてください\n\n大切なメモは、こまめに保存です！"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_WatchTutorial_Finish",
+        "text": "よろしければ、ご参考まで！\nそれでは、失礼しました\n\nアディオス アミーゴ！"
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_Finish_00",
+        "text": "これで「かく」の説明を\n終わります\n\nおつかれさまでした！"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_SamepleMemo01",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_Finish_01",
+        "text": "あ… そうそう！\n\nタイトルに戻りたい時は\n下の「終了する」ボタンですよ"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_TitleTutorial_HandResultRight",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_SamepleMemo02",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_Cancel_Finish",
+        "text": "それでは\n楽しい うごメモライフを！\n\nアディオス アミーゴ！！"
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_Finish_02",
+        "text": "それでは、\n楽しい うごメモライフを！\n\nアディオス アミーゴ！！"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_SamepleMemo03",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_SamepleMemo04",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_WatchTutorial",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_Manual",
+        "text": "わからないことがあったら\nHOMEボタンをおして\n「説明書」をみてください"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessageUpper_FlagSequencerTutorial",
+        "text": "タッチして、フラグをたてると\n録音したSE（効果音）を\nページごとに加えることができます\n\nくわしくは「説明書」をごらんください"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_DrawTutorial_StartConfirm_Cancel",
+        "text": "いらない"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowMessageUpper_DrawTutorial_ExplainMenu_Left",
+        "text": "たくさん、道具がありますね\nいろいろ試してみてください\n\nまよったら、 をおすと\nキャンバスに もどれます"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessageUpper_FrameEditTutorial",
+        "text": "メモを編集できます\n\nページを「ついか」したり\n「コピー」や「はりつけ」ができますよ\n\nもどるときは です"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_DrawTutorial_OpenMenu_Right",
+        "text": " の上をおしてください\nメニューがひらきます"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_TitleTutorial_HandResultLeft",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_Welcome01",
+        "text": "こんにちは\n\n「うごくメモ帳 3D」へ\nようこそ！"
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_ExplainFrog",
+        "text": "あ！ 突然ですが…\n\nわたしをタッチしても\nメニューが開きますよ"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_Welcome02",
+        "text": "「うごくメモ帳 3D」は、\nパラパラマンガも書ける\nちょっと変わったメモ帳です\n\nまずはさわってみましょう！"
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_ReConfirm_Ok",
+        "text": "本当にいらない"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_Welcome03",
+        "text": "と、その前に…\n\nほんのチョットだけ\nあなたのコトを教えてください"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_TitleTutorial_HandSetting",
+        "text": "ありがとうございます\n\nちなみに、ペンを持つ手は\nどちらになりますか？"
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_DrawStartConfirm",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_CreatorName",
+        "text": "まず、あなたの名前を\n教えてください\n\n今後、書いたメモの\n「作者名」として使います"
+      },
+      {
+        "label": "WindowMessage_WatchTutorial_TouchMemo_01",
+        "text": "右下の「かく」から編集したり\n「詳細」でメモの情報を見る\nこともできるんですよ"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_WatchTutorial_TouchMemo",
+        "text": "…ちょっとおじゃまします！\n\nメモはきちんと\n見られたみたいですね"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_DrawStartConfirm_Cancel",
+        "text": ""
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowMessage_DrawTutorial_OpenMenu_Left",
+        "text": "をおしてください\nメニューがひらきます"
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_WatchStartConfirm",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_WatchTutorial_Finish_Next",
+        "text": "OK"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowMessageUpper_SaveTutorial_End",
+        "text": ""
+      },
+      {
+        "label": "WindowMessageUpper_WatchTutorial_Folder",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_StartConfirm",
+        "text": "あらためまして こんにちは！\n\nよろしければ、メモの書き方を\n説明しましょうか？"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessageUpper_WatchTutorial_TouchMemo",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_CancelConfirm01",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_CancelConfirm02",
+        "text": ""
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_PageChange_Left",
+        "text": "はいっ！\nそれでは 次にいきます\n\n,で、ページを\nペラペラめくりましょう"
+      },
+      {
+        "label": "WindowMessage_DrawTutorial_Cancel_Finish_Next",
+        "text": "OK"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_DrawTutorial_PageChange_Right",
+        "text": "はいっ！\nそれでは 次にいきます\n\n の左右で、ページを\nペラペラめくりましょう"
+      },
+      {
+        "label": "WindowMessage_TitleTutorial_CancelConfirm03",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_CancelConfirm04",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "WindowMessage_DrawTutorial_ReConfirm",
+        "text": "…本当に、説明をしなくて\nよろしいのですか？"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_SampleMemo",
+        "text": "さいごに…\nサンプルメモをお渡ししますか？\n\nあとでほしい場合は「設定」の\n「サンプルメモ」から\nコピーできます"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowMessage_TitleTutorial_Thanks",
+        "text": "わかりました！\n\nご協力\nどうもありがとうございます"
+      }
+    ],
+    [
+      {
+        "label": "WindowMessageUpper_WatchTutorial_Draw",
+        "text": ""
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowMessage_DrawTutorial_Manual",
+        "text": "そうですか……\n\nもしお困りの場合は\nHOMEボタンをおして\n「説明書」をごらんください"
+      }
+    ],
+    []
+  ]
+}

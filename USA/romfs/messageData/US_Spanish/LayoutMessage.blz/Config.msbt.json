@@ -1,0 +1,155 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtAdvancedT",
+        "text": "Herramientas"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtSoundT",
+        "text": "Sonidos"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtNameT",
+        "text": "Usuario"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtAllClear",
+        "text": "Borrar notas"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtSample",
+        "text": "Copiar"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtSampleT",
+        "text": "Muestras"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtName",
+        "text": "Cambiar"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtBirthdayT",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtFrogT",
+        "text": "Rana"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Config_TxtHandednessT",
+        "text": "Mano"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

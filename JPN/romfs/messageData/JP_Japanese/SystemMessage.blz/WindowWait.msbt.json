@@ -1,0 +1,352 @@
+{
+  "groups": [
+    [],
+    [
+      {
+        "label": "WindowWait_Save_ImageDb_OverNumFolders",
+        "text": "SDカード内の画像やムービーを\n保存するフォルダ数がいっぱいなので\n保存ができません。\n\nニンテンドー3DSカメラの\n不要なフォルダを削除してください。"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_CreateFolder_NothingFreeSpace",
+        "text": "フォルダ作成に必要な空き容量が\nSDカードに足りないため、\nフォルダを作成できません。"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteIconFile",
+        "text": "アイコンを保存しています…"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_DeleteFolder_Success",
+        "text": "フォルダを削除しています…"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_SaveDataLoadError_Verificate",
+        "text": "セーブデータが壊れていたため\n初期化します。"
+      },
+      {
+        "label": "WindowConfirm_Save_OutputConfirm_Ok",
+        "text": "出力する"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_Write_NothingFreeSpace",
+        "text": "SDカードの空き容量が足りないため\n保存ができませんでした。"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Save_WriteGifAviFile_MemoryError",
+        "text": "SDカードの空き容量が\n足りないため、\n保存ができませんでした。"
+      },
+      {
+        "label": "WindowInfo_Title_Lock_TextSet",
+        "text": "創作者ロック"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_WarningFullFolder",
+        "text": "すべてのフォルダに\nメモがいっぱいになりました。\n\nこれ以上、メモを保存できません。\nデータの削除をしてください。"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Save_WriteJpeg",
+        "text": "ファイルを出力中です。\n\n電源を切ったりSDカードを\n抜いたりしないでください。"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_Folder_OverPath",
+        "text": "同じ名前のフォルダがあります。"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_InvalidList",
+        "text": "管理ファイルが壊れているため\n削除しました。"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_OutputConfirmAvi_Ok",
+        "text": "出力する"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteGifAviFile",
+        "text": "ファイルを出力中です。\n（長時間かかる場合があります）\n\n電源を切ったりSDカードを\n抜いたりしないでください。"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_DeleteMemo",
+        "text": "メモを削除しています…"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteMemoFile_OverPath",
+        "text": "同じ名前のメモが\nすでにあるため\nメモを保存できません。"
+      },
+      {
+        "label": "WindowWait_Initialize_PatchError_CloseApplication",
+        "text": "エラーが発生したため、\n続けることができません。\n\nHOMEボタンをおして\nこのソフトを終了させてください。"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteMemoFile",
+        "text": "メモを保存しています…"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Draw_IllustMode",
+        "text": "このモードにすると、3枚のレイヤーを\n1枚のレイヤーのように扱えます。\n\nレイヤーの順番を気にせず、色を\n塗りたい時や、各レイヤーを一緒に\n動かしたい時などに使ってください。"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Config_AllDelete_End",
+        "text": "データをすべて削除しました。"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_Failure",
+        "text": "SDカードにアクセスが\nできませんでした。"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_OutputConfirm_Cancel",
+        "text": "キャンセル"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_SaveData_NewCreating",
+        "text": "セーブデータを\n新規作成しています。"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_SampleMemoCopy_FolderFull",
+        "text": "ホームフォルダは、\nメモがいっぱいです。\n\nすべてのサンプルメモを\nコピーできませんでした。"
+      },
+      {
+        "label": "WindowWait_Save_WriteJpeg_Info",
+        "text": "上画面に書いてある\nSDカードの場所に保存しました。"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteGifAviFile_CancelButton",
+        "text": "キャンセル"
+      },
+      {
+        "label": "WindowInfo_Contents_Lock_TextSet_plural",
+        "text": "「ロックする」を選ぶと自分以外の人が\nこのメモを編集する事ができなくなります。\n\nなお、ロックされたメモであっても、\nフレンドや第三者によって再送信されたりする\n可能性があることにご注意ください。"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Initialize_Ready",
+        "text": "準備しています…"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_ReadIconFile_Failure",
+        "text": "アイコンが読み込めません。"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Lock_TextSet",
+        "text": "「ロックする」を選ぶと自分以外の人が\nこのメモを編集する事ができなくなります。\n\nなお、ロックされたメモであっても、\nフレンドや第三者によって再送信されたりする\n可能性があることにご注意ください。"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_OutputConfirm",
+        "text": "出力を開始しますか？\n（長時間かかる場合があります）"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_DefaultButton",
+        "text": "OK"
+      },
+      {
+        "label": "WindowWait_Save_WriteGifAviFile_OverNumImages",
+        "text": "SDカード内の画像やムービーが\nいっぱいで、保存ができません。\n\nニンテンドー3DSカメラで、\n不要なデータを削除してください。"
+      },
+      {
+        "label": "WindowConfirm_Save_OutputConfirm_Jpeg_Ok",
+        "text": "出力する"
+      },
+      {
+        "label": "WindowWait_Draw_CameraFlagWarning",
+        "text": "カメラ機能を使うと、\nワールドうごメモギャラリーへの\n投稿が制限されます。\n\n※カメラ機能を使ったページは\n「編集」で確認できます。"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_Save_WriteGifAviFile_MemoryErrorStop",
+        "text": "SDカードの空き容量が\n足りないため、\nすべて保存ができませんでした。"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Initialize_CloseApplication",
+        "text": "HOMEボタンをおして\nソフトを終了させてください。\n\nこのソフトで遊ぶには \n最新版をダウンロードするか\nセーブデータの初期化が必要です。"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_SaveDataLoadError_Failed",
+        "text": "セーブデータの読み込み時に\n想定外のエラーが発生しました。"
+      },
+      {
+        "label": "WindowWait_AccessResult_CreateFolder",
+        "text": "フォルダを作成しています…"
+      },
+      {
+        "label": "WindowWait_Save_WriteGifAviFile_AccessError",
+        "text": "ファイル出力中に\nエラーが発生しました。"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_SaveDataWriteError_Failed",
+        "text": "セーブデータの書き込み時に\n想定外のエラーが発生しました。"
+      },
+      {
+        "label": "WindowWait_AccessResult_RenameFolder_Success",
+        "text": "フォルダ名を変更しています…"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_SaveDataWriting",
+        "text": "保存しています…"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_WarningSdCardFreeSpace",
+        "text": "SDカードの空き容量が\n少なくなっています。\n\nデータの整理をすることを\nおすすめします。"
+      },
+      {
+        "label": "WindowConfirm_Save_OutputConfirm_Jpeg",
+        "text": "このページをJPEG形式で\n出力しますか？\n\n※ニンテンドー3DSカメラに\n保存します。"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_MoveMemoFile_OverPath",
+        "text": "同じ名前のメモが\n移動先のフォルダにすでにあるため\n移動できません。"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteMemoOrListFile_NothingFreeSpace",
+        "text": "SDカードの空き容量が足りないため\nメモ または 管理ファイルの\n保存ができませんでした。"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Config_AllDelete",
+        "text": "削除しています…"
+      },
+      {
+        "label": "WindowConfirm_Save_OutputConfirmAvi",
+        "text": "AVI形式で出力を開始しますか？\n（長時間かかる場合があります）\n\n※ニンテンドー3DSカメラに\n保存します。"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_ReadMemoFile_Failure",
+        "text": "メモが読み込めません。"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteList",
+        "text": "管理ファイルを保存しています…"
+      }
+    ],
+    [],
+    []
+  ]
+}

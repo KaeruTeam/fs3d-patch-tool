@@ -1,0 +1,178 @@
+{
+  "groups": [
+    [],
+    [
+      {
+        "label": "WindowWait_Draw_LittleMemoryReport",
+        "text": "Diese Flipnote hat ihre\nmaximale Größe erreicht.\n\nSpeichere sie jetzt\noder lösche eine Seite."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Draw_TransformConfirm",
+        "text": "Änderungen übernehmen?\nÄnderungen lassen sich\nmöglicherweise nicht wieder\nzurücksetzen.\nDas Übernehmen der\nÄnderungen nimmt ein\nwenig Zeit in Anspruch."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Draw_EraseAllConfirm_Ok",
+        "text": "Alles löschen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Draw_EraseAllConfirm_Cancel",
+        "text": "Abbrechen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Draw_TransformCancelConfirm_Cancel",
+        "text": "Abbrechen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Draw_TransformCancelConfirm",
+        "text": "Bist du sicher, dass du die\nBearbeitung beenden möchtest,\nohne die Änderungen zu\nübernehmen?"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Draw_Transforming",
+        "text": "Änderungen\nwerden übernommen..."
+      },
+      {
+        "label": "WindowWait_Draw_Transforming_CancelButton",
+        "text": "Abbrechen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Draw_TransformCancelConfirm_Ok",
+        "text": "Ja"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Draw_TransformConfirm_Cancel",
+        "text": "Abbrechen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_InvalidSound",
+        "text": "Konnte aufgrund fehlerhafter\nNintendo 3DS Sound-Daten\nnicht geladen werden."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Draw_EraseAllConfirm",
+        "text": "Alle Seiten der aktuellen\nFlipnote löschen?\n\nSounds und 3D-Effekte\ngehen ebenfalls verloren."
+      },
+      {
+        "label": "WindowConfirm_Draw_CameraError",
+        "text": "Es ist ein Fehler bei\nder Kamera aufgetreten."
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Draw_TransformConfirm_Ok",
+        "text": "Übernehmen"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Draw_TransformMemoryFull",
+        "text": "Diese Flipnote hat ihre\nmaximale Größe erreicht.\n\nEine weitere Bearbeitung\nist nicht möglich."
+      }
+    ],
+    [],
+    [],
+    []
+  ]
+}

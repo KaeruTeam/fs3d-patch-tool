@@ -1,0 +1,352 @@
+{
+  "groups": [
+    [],
+    [
+      {
+        "label": "WindowWait_Save_ImageDb_OverNumFolders",
+        "text": "No se puede guardar porque se\nha alcanzado el número máximo\nde carpetas en la tarjeta SD.\n\nBorra las carpetas innecesarias\nen Cámara de Nintendo 3DS."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_CreateFolder_NothingFreeSpace",
+        "text": "No hay suficiente espacio libre\nen la tarjeta SD."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteIconFile",
+        "text": "Guardando icono..."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_DeleteFolder_Success",
+        "text": "Borrando la carpeta..."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_SaveDataLoadError_Verificate",
+        "text": "Los datos de guardado están\ndañados y se borrarán."
+      },
+      {
+        "label": "WindowConfirm_Save_OutputConfirm_Ok",
+        "text": "Sí"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_Write_NothingFreeSpace",
+        "text": "No se han podido guardar los\ndatos porque no hay suficiente\nespacio libre en la tarjeta SD."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Save_WriteGifAviFile_MemoryError",
+        "text": "No se han podido guardar\nlos datos porque la tarjeta\nSD está llena."
+      },
+      {
+        "label": "WindowInfo_Title_Lock_TextSet",
+        "text": "Bloquear notas"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_WarningFullFolder",
+        "text": "No se pueden guardar más notas\nporque todas las carpetas están\nllenas. Borra las notas que no\nnecesitas para liberar espacio."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Save_WriteJpeg",
+        "text": "Exportando el archivo...\n\nNo apagues la consola ni\nextraigas la tarjeta SD."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_Folder_OverPath",
+        "text": "Ya existe una carpeta con\nel mismo nombre."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_InvalidList",
+        "text": "El archivo de gestión contenía\ndatos dañados y ha sido\neliminado."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_OutputConfirmAvi_Ok",
+        "text": "Sí"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteGifAviFile",
+        "text": "Exportando el archivo...\n(Este proceso puede tardar\nun poco).\nNo apagues la consola ni\nextraigas la tarjeta SD."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_DeleteMemo",
+        "text": "Borrando la nota..."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteMemoFile_OverPath",
+        "text": "No se ha podido guardar la\nnota porque ya existe otra\ncon el mismo nombre."
+      },
+      {
+        "label": "WindowWait_Initialize_PatchError_CloseApplication",
+        "text": "Se ha producido un error\ny no se puede continuar.\n\nOprime  para abrir el menú\nHOME y cierra el programa."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteMemoFile",
+        "text": "Guardando la nota..."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Draw_IllustMode",
+        "text": "En este modo puedes actuar sobre\nlas tres capas como si fueran una.\nLa capa C será la capa base. Al\ncolorear sobre ella, se borrará\nel color en las demás capas.\nTambién permite mover todas\nlas capas a la vez."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Config_AllDelete_End",
+        "text": "Se han borrado todas las notas\ny carpetas."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_Failure",
+        "text": "No se ha podido acceder a la\ntarjeta SD."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_OutputConfirm_Cancel",
+        "text": "No"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_SaveData_NewCreating",
+        "text": "Creando datos de guardado..."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_SampleMemoCopy_FolderFull",
+        "text": "La carpeta Home está llena.\n\nAlgunas de las notas de muestra\nno se han podido copiar."
+      },
+      {
+        "label": "WindowWait_Save_WriteJpeg_Info",
+        "text": "Los datos se han guardado en\nla tarjeta SD. Puedes ver la\nubicación en la pantalla superior."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteGifAviFile_CancelButton",
+        "text": "Cancelar"
+      },
+      {
+        "label": "WindowInfo_Contents_Lock_TextSet_plural",
+        "text": "Bloquea las notas para evitar que sean\nmodificadas por otros usuarios.\n\nTen en cuenta que es posible que las\nnotas bloqueadas sean reenviadas o\npublicadas en internet por el\ndestinatario o por terceros."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Initialize_Ready",
+        "text": "Preparando..."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_ReadIconFile_Failure",
+        "text": "No se puede leer el icono."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Lock_TextSet",
+        "text": "Bloquea la nota para evitar que sea\nmodificada por otros usuarios.\n\nTen en cuenta que es posible que las\nnotas bloqueadas sean reenviadas o\npublicadas en internet por el\ndestinatario o por terceros."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_OutputConfirm",
+        "text": "Es posible que exportar la\nnota con este formato tarde\nun poco.\n\n¿Quieres iniciar el proceso?"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_DefaultButton",
+        "text": "Aceptar"
+      },
+      {
+        "label": "WindowWait_Save_WriteGifAviFile_OverNumImages",
+        "text": "No se puede guardar porque\nse ha alcanzado el límite para\nfotos y videos de la tarjeta SD.\nUsa Cámara de Nintendo 3DS\npara borrar datos innecesarios."
+      },
+      {
+        "label": "WindowConfirm_Save_OutputConfirm_Jpeg_Ok",
+        "text": "Sí"
+      },
+      {
+        "label": "WindowWait_Draw_CameraFlagWarning",
+        "text": ""
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_Save_WriteGifAviFile_MemoryErrorStop",
+        "text": "No se han podido guardar\ntodos los datos porque no\nhay suficiente espacio libre\nen la tarjeta SD."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Initialize_CloseApplication",
+        "text": "Oprime  para abrir el menú\nHOME y cierra el programa.\n\nPara poder usar el programa,\ndescarga la última actualización\no borra los datos de guardado."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_SaveDataLoadError_Failed",
+        "text": "Se ha producido un error\nal acceder a los datos de\nguardado."
+      },
+      {
+        "label": "WindowWait_AccessResult_CreateFolder",
+        "text": "Creando la carpeta..."
+      },
+      {
+        "label": "WindowWait_Save_WriteGifAviFile_AccessError",
+        "text": "Se ha producido un error\nal guardar el archivo."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_SaveDataWriteError_Failed",
+        "text": "Se ha producido un error\nal escribir los datos de\nguardado."
+      },
+      {
+        "label": "WindowWait_AccessResult_RenameFolder_Success",
+        "text": "Cambiando el nombre de la\ncarpeta..."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_SaveDataWriting",
+        "text": "Guardando..."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_WarningSdCardFreeSpace",
+        "text": "Se está agotando el espacio libre\nde la tarjeta SD.\n\nLibera espacio en la tarjeta SD."
+      },
+      {
+        "label": "WindowConfirm_Save_OutputConfirm_Jpeg",
+        "text": "¿Quieres exportar esta página\ncomo archivo JPEG?\n\n(Se guardará en la aplicación\nCámara de Nintendo 3DS)."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_MoveMemoFile_OverPath",
+        "text": "No se ha podido mover la\nnota porque ya existe otra\ncon el mismo nombre en la\ncarpeta de destino."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteMemoOrListFile_NothingFreeSpace",
+        "text": "No se ha podido guardar la\nnota o el archivo de gestión\nporque no hay suficiente\nespacio libre en la tarjeta SD."
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Config_AllDelete",
+        "text": "Borrando..."
+      },
+      {
+        "label": "WindowConfirm_Save_OutputConfirmAvi",
+        "text": "Es posible que exportar la\nnota en formato AVI tarde\nun poco. ¿Quieres comenzar?\n\n(Se exportará a la aplicación\nCámara de Nintendo 3DS)."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_ReadMemoFile_Failure",
+        "text": "No se ha podido leer la nota."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowWait_AccessResult_WriteList",
+        "text": "Guardando el archivo de\ngestión..."
+      }
+    ],
+    [],
+    []
+  ]
+}

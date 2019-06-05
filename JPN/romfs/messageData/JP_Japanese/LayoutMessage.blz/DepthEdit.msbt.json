@@ -1,0 +1,155 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DepthEdit_TxtLayerA",
+        "text": "A"
+      }
+    ],
+    [
+      {
+        "label": "DepthEdit_TxtLayerB",
+        "text": "B"
+      }
+    ],
+    [
+      {
+        "label": "DepthEdit_TxtLayerC",
+        "text": "C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DepthEdit_TxtBScreen",
+        "text": "B"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DepthEdit_TxtReset",
+        "text": "リセット"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DepthEdit_TxtCenter",
+        "text": "真ん中へ"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "DepthEdit_TxtInner",
+        "text": "奥へ"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DepthEdit_TxtNear",
+        "text": "手前へ"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DepthEdit_TxtCScreen",
+        "text": "C"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "DepthEdit_TxtAScreen",
+        "text": "A"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

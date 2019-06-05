@@ -1,0 +1,145 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_Guide_DrawFont",
+        "text": "Inserisci il testo\n(fino a 80 caratteri e 11 righe)."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_TextCheck_NgFolder_Append",
+        "text": "\u000e\u0001\u0002\u0002"
+      }
+    ],
+    [
+      {
+        "label": "KeyboardApplet_TextCheck_NgWord",
+        "text": "Il testo inserito contiene\nun linguaggio inappropriato\ne non può essere utilizzato."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_ButtonText_Cancel",
+        "text": "Annulla"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_LineOver",
+        "text": "Il limite massimo è di\nundici righe."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_TextCheck_NgFolder",
+        "text": "Non puoi nominare così\nquesta cartella."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_Guide_Browser",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "KeyboardApplet_ButtonText_Ok",
+        "text": "OK"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

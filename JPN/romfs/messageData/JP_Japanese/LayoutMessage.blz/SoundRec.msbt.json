@@ -1,0 +1,218 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "SoundRec_TxtKey2L",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "SoundRec_TxtSE1",
+        "text": "SE1"
+      }
+    ],
+    [
+      {
+        "label": "SoundRec_TxtSE2",
+        "text": "SE2"
+      }
+    ],
+    [
+      {
+        "label": "SoundRec_TxtSE3",
+        "text": "SE3"
+      }
+    ],
+    [
+      {
+        "label": "SoundRec_TxtSE4",
+        "text": "SE4"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "SoundRec_TxtSE1Rec",
+        "text": "SE1"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "SoundRec_TxtSE3RecOn",
+        "text": "録音中..."
+      },
+      {
+        "label": "SoundRec_TxtKey4L",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "SoundRec_TxtBGMRec",
+        "text": "BGM"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "SoundRec_TxtSE3Rec",
+        "text": "SE3"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "SoundRec_TxtKey1L",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "SoundRec_TxtSE4RecOn",
+        "text": "録音中..."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "SoundRec_TxtSE1RecOn",
+        "text": "録音中..."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "SoundRec_TxtSE2Rec",
+        "text": "SE2"
+      },
+      {
+        "label": "SoundRec_TxtKey3L",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "SoundRec_TxtBGM",
+        "text": "BGM"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "SoundRec_TxtKey1",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "SoundRec_TxtKey2",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "SoundRec_TxtKey3",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "SoundRec_TxtKey4",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "label": "SoundRec_TxtBGMRecOn",
+        "text": "録音中..."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "SoundRec_TxtSE4Rec",
+        "text": "SE4"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "SoundRec_TxtSE2RecOn",
+        "text": "録音中..."
+      }
+    ]
+  ]
+}

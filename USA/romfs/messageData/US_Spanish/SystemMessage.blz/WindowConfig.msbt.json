@@ -1,0 +1,285 @@
+{
+  "groups": [
+    [
+      {
+        "label": "WindowInfo_Title_Config_PenBox",
+        "text": "Herramientas"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Se_A",
+        "text": "Sí"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_Se_B",
+        "text": "No"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Delete",
+        "text": "Se borrarán todas las notas y carpetas\ncreadas con este programa.\n\n(Este proceso puede tardar un poco)."
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_Hand_A",
+        "text": "Derecha"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_Hand_B",
+        "text": "Izquierda"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_AllDelete_Confirm_Ok",
+        "text": "Sí"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Config_SampleCopy",
+        "text": "Copiando las notas de\nmuestra..."
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_AllDelete_Ok",
+        "text": "Sí"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Config_Sample",
+        "text": "Muestras"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_PenBox_A",
+        "text": "Básicas"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_PenBox_B",
+        "text": "Avanzadas"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Config_Creator",
+        "text": "Usuario"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_PenBox",
+        "text": "Crea notas con las herramientas básicas\no con las avanzadas. Si eliges las\nherramientas avanzadas podrás usar\nhasta tres capas en tu nota."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Config_Se",
+        "text": "Sonidos"
+      },
+      {
+        "label": "WindowInfo_Title_Config_Hand",
+        "text": "Mano"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Sample_Ok",
+        "text": "Sí"
+      },
+      {
+        "label": "WindowConfirm_Config_Frog_Title",
+        "text": "Ver rana"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Frog_A",
+        "text": "Sí"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Hand",
+        "text": "Ajusta los controles de creación de\nnotas que más se acomoden a la\nmano con la que sujetas el lápiz.\n\nElige una mano."
+      },
+      {
+        "label": "WindowConfirm_Config_Frog_B",
+        "text": "No"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Sample",
+        "text": "¿Quieres copiar las notas\nde muestra a la tarjeta SD?"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Sample_Cancel",
+        "text": "No"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Sample",
+        "text": "Copia las notas de muestra a la\ncarpeta Home.\n\nEs posible que no puedas copiar las\nnotas de muestra si no hay suficiente\nespacio libre en la tarjeta SD."
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_AllDelete_Confirm_Cancel",
+        "text": "No"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_AllDelete_Confirm",
+        "text": "¿Seguro que quieres borrar\ntodas las notas y las carpetas?\n\nTen en cuenta que no podrás\nrecuperar los datos borrados."
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Creator",
+        "text": "Cambia tu nombre de usuario.\nEste nombre se muestra en la\ninformación detallada de tus notas\ny en otras partes de la aplicación."
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Se",
+        "text": "Elige si quieres que se reproduzcan\nefectos de sonido al realizar ciertas\nacciones, como dibujar o tocar iconos."
+      },
+      {
+        "label": "WindowConfirm_Config_PenBox_Title",
+        "text": "Herramientas"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Config_Frog",
+        "text": "Ver rana"
+      },
+      {
+        "label": "WindowConfirm_Config_AllDelete_Cancel",
+        "text": "No"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Title_Config_Delete",
+        "text": "Borrar notas"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_AllDelete",
+        "text": "¿Quieres borrar las notas\ny las carpetas?"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Contents_Config_Frog",
+        "text": "Muestra u oculta el icono de la rana en\nla esquina inferior izquierda de la\npantalla táctil mientras creas notas."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Config_Se_Title",
+        "text": "Sonidos"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Config_Hand_Title",
+        "text": "Mano"
+      }
+    ],
+    [
+      {
+        "label": "WindowWait_Config_SampleCopy_End",
+        "text": "Las notas de muestra se han\ncopiado a la carpeta Home."
+      }
+    ]
+  ]
+}

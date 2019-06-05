@@ -1,0 +1,324 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "FrogMemo3D_10",
+        "text": "(Move the 3D depth slider up\nto view the screen in 3D.)"
+      },
+      {
+        "label": "FrogMemoLSift_1",
+        "text": "Ribbit! Do you know what the L Button does?"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_11",
+        "text": "Now, how can we use this effect?"
+      },
+      {
+        "label": "FrogMemoLSift_2",
+        "text": "Hold the L Button...\n(or R Button if you're left-handed)"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_12",
+        "text": "Let's make this smaller..."
+      },
+      {
+        "label": "FrogMemoLSift_3",
+        "text": "...to access extra options!"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_13",
+        "text": "...and make it bounce."
+      },
+      {
+        "label": "FrogMemoLSift_4",
+        "text": "Give it a try! You're sure to find something useful."
+      },
+      {
+        "label": "Bug",
+        "text": "Advanced Tools\nand 3D"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_14",
+        "text": "BOING"
+      },
+      {
+        "label": "FrogMemoLSift_5",
+        "text": "Ta-ta!"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_15",
+        "text": "BOING"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_16",
+        "text": "Ta-da! It's a ball."
+      }
+    ],
+    [
+      {
+        "label": "DotSheep",
+        "text": "Normal Tools,\nL Button + ○ and\nTransform: Enlarge"
+      },
+      {
+        "label": "FrogMemo3D_17",
+        "text": "Try it out! But start with something simple, OK?"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_18",
+        "text": "See you later!"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Punch",
+        "text": "Advanced Tools\nand 3D"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "Swim",
+        "text": "Advanced Tools\nand 3D"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "Plane",
+        "text": "Advanced Tools\nand Transform"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "ColorSample_1",
+        "text": "Flipnote Colour Palette"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_2",
+        "text": "Black Base"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_3",
+        "text": "White Base"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_4",
+        "text": "Red Base"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_5",
+        "text": "Yellow Base"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_6",
+        "text": "Green Base"
+      }
+    ],
+    [
+      {
+        "label": "ColorSample_7",
+        "text": "Blue Base"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "FrogMemoLayer_1",
+        "text": "Ribbit! What are the \"layers\" you get with advanced tools?"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_2",
+        "text": "With normal tools..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_3",
+        "text": "...you draw on a single piece of paper."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_4",
+        "text": "But with advanced tools..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_5",
+        "text": "...you have three separate layers."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_6",
+        "text": "It's a little more complicated."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemoLayer_7",
+        "text": "But you'll find it handy once you get the hang of it."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_1",
+        "text": "Ribbit! Want to know about 3D animations?"
+      },
+      {
+        "label": "FrogMemoLayer_8",
+        "text": "Watch this!"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_2",
+        "text": "What is a 3D animation?"
+      },
+      {
+        "label": "FrogMemoLayer_9",
+        "text": "You can make cool 3D animations just by moving a layer."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_3",
+        "text": "It's an animation..."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_4",
+        "text": "...that uses depth."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_5",
+        "text": "The picture can move forwards..."
+      },
+      {
+        "label": "FrogMemoLayer_10",
+        "text": "Try it out for yourself!"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_6",
+        "text": "...and backwards."
+      },
+      {
+        "label": "FrogMemoLayer_11",
+        "text": "Cheerio!"
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_7",
+        "text": "To use 3D, touch the icon in the top right."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_8",
+        "text": "Then move the slider to change the depth."
+      }
+    ],
+    [
+      {
+        "label": "FrogMemo3D_9",
+        "text": "Let's look at it from the front."
+      }
+    ],
+    [],
+    []
+  ]
+}

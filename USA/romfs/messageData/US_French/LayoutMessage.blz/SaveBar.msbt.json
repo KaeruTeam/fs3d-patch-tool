@@ -1,0 +1,160 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "SaveBar_TxtSave",
+        "text": "Sauvegarder"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "SaveBar_TxtJPG",
+        "text": "Sauv. en JPEG"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "SaveBar_TxtGIFAnimation",
+        "text": "Exporter en GIF animé"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "SaveBar_TxtExit",
+        "text": "Quitter"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "SaveBar_TxtMemo",
+        "text": "Sauvegarder"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "SaveBar_TxtAVI",
+        "text": "Exporter en AVI"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "SaveBar_TxtGIF",
+        "text": "Expor. en GIF séquentiel"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "SaveBar_TxtAnother",
+        "text": "Sauv. une copie"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "SaveBar_TxtOutput",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "SaveBar_TxtJPGPost",
+        "text": "Partage d'images\nNintendo 3DS"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "SaveBar_TxtComment",
+        "text": ""
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

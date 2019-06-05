@@ -1,0 +1,312 @@
+{
+  "groups": [
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Save_QrCode",
+        "text": ""
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_DefaultNext",
+        "text": "Okay"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_DefaultOk",
+        "text": "Okay"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityPalette_LayerMode",
+        "text": "Sollen die für diese Seite\ngewählten Einstellungen\nzu Farbe und Papier für alle\nSeiten übernommen werden?"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Title_Save_Jpg",
+        "text": "Speicherort"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Initialize_ClearSavedata_Ok",
+        "text": "Zurücksetzen"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Save_IsQuit",
+        "text": "Diese Flipnote wurde bearbeitet.\nMöchtest du wirklich aufhören,\nohne zu speichern?"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Memo_Over",
+        "text": "Du kannst die Flipnote nicht\nspeichern, weil dieser Ordner\nvoll ist."
+      },
+      {
+        "label": "WindowConfirm_Initialize_PatchDownload_Ok",
+        "text": "Herunterladen"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Cancel",
+        "text": "Abbrechen"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityParallax",
+        "text": "Sollen die für diese Seite\ngewählten 3D-Einstellungen\nauf alle Seiten angewendet\nwerden? "
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityPalette_LayerMode_Ok",
+        "text": "Anwenden"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Delete_Folder_Confirm_Ok",
+        "text": "Löschen"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowInfo_Contents_Save_Jpg",
+        "text": "\u000e\u0001\u0004\u0002"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_SD_InfoAvi",
+        "text": "Auf der SD Card gespeichert.\nDer Speicherort wird auf dem \noberen Bildschirm angezeigt.\n\nDu kannst dir das Video in\nNintendo 3DS-Kamera ansehen."
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_SD_Info",
+        "text": "Auf der SD Card gespeichert.\nDer Speicherort wird auf dem \noberen Bildschirm angezeigt."
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityParallax_Ok",
+        "text": "Anwenden"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_IsQuit_Cancel",
+        "text": "Abbrechen"
+      }
+    ],
+    [
+      {
+        "label": "WindowInfo_Title_Save_SD_Info",
+        "text": "Speicherort"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityPalette_ColorMode_Ok",
+        "text": "Anwenden"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Real_Cancel",
+        "text": "Abbrechen"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Save_IsQuit_Icon",
+        "text": "Alle am Symbol\nvorgenommenen Änderungen\nwerden zurückgesetzt. \nMöchtest du wirklich aufhören,\nohne zu speichern?"
+      },
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear",
+        "text": "Nutzerdaten zurücksetzen?\n\nDeine Flipnotes\nwerden nicht gelöscht."
+      },
+      {
+        "label": "WindowConfirm_Save_MemoSave_Sns_Ok",
+        "text": "Browser starten"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Ok",
+        "text": "Zurücksetzen"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_Browser_Sns_Ok",
+        "text": "Browser starten"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_IsQuit_Ok",
+        "text": "Ja"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_DefaultCancel",
+        "text": "Abbrechen"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Initialize_ClearSavedata",
+        "text": "Dadurch werden deine\nSpeicherdaten zurückgesetzt.\nMöchtest du fortfahren?\nHinweis: Die ursprünglichen\nEinstellungen werden wieder-\nhergestellt. Deine Flipnotes\nwerden nicht gelöscht."
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "label": "WindowWait_Initialize_SaveDataClear",
+        "text": "Nutzerdaten\nwerden zurückgesetzt..."
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_FrameEdit_UnityPalette_ColorMode",
+        "text": "Sollen die für diese Seite \ngewählten Papier-Einstellungen\nauf alle Seiten angewendet\nwerden? "
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Real",
+        "text": "Bist du sicher, dass\ndu deine Nutzerdaten\nzurücksetzen möchtest?"
+      },
+      {
+        "label": "WindowConfirm_Initialize_SaveDataClear_Real_Ok",
+        "text": "Ja"
+      },
+      {
+        "label": "WindowInfo_Title_Save_SD_InfoAvi",
+        "text": "Speicherort"
+      },
+      {
+        "label": "WindowConfirm_Initialize_PatchDownload",
+        "text": "Diese Software muss\naktualisiert werden, bevor\nsie verwendet werden kann.\n\nMöchtest du die neueste \nVersion dieser Software\njetzt herunterladen?"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Delete_Memo_Confirm_Cancel",
+        "text": "Abbrechen"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Delete_Folder_Confirm",
+        "text": "Möchtest du diesen Ordner\nmitsamt allen Inhalten löschen?\n\nGelöschte Ordner und Flipnotes\nkönnen nicht wiederhergestellt\nwerden."
+      },
+      {
+        "label": "WindowInfo_Title_Save_QrCode",
+        "text": ""
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Save_MemoSave_Sns",
+        "text": "Diese Flipnote wurde noch\nnicht gespeichert. Möchtest\ndu den Browser jetzt aufrufen?\nHinweis: Es wird empfohlen, \ndeine Flipnotes vor dem Start\ndes Nintendo 3DS-Bilder-\ntransfers zu speichern"
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Delete_Memo_Confirm_Ok",
+        "text": "Löschen"
+      },
+      {
+        "label": "WindowConfirm_Save_Browser_Sns",
+        "text": "Der Internetbrowser wird\nnun aufgerufen, um den\nNintendo 3DS-Bildertransfer\nstarten zu können.\n\nMöchtest du fortfahren?"
+      }
+    ],
+    [
+      {
+        "label": "WindowConfirm_Delete_Memo_Confirm",
+        "text": "Möchtest du diese\nFlipnote löschen?\n\nGelöschte Flipnotes können\nnicht wiederhergestellt werden."
+      }
+    ],
+    [],
+    [
+      {
+        "label": "WindowConfirm_Delete_Folder_Confirm_Cancel",
+        "text": "Abbrechen"
+      }
+    ]
+  ]
+}
