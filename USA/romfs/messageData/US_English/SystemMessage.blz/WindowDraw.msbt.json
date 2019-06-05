@@ -4,7 +4,7 @@
     [
       {
         "label": "WindowWait_Draw_LittleMemoryReport",
-        "text": "This flipnote has reached\nits size limit.\n\nSave it now or delete a page."
+        "text": "This Flipnote is at the\nmaximum possible size.\n\nSave it now or delete a page."
       }
     ],
     [],
@@ -24,7 +24,7 @@
     [
       {
         "label": "WindowConfirm_Draw_TransformConfirm",
-        "text": "Apply changes? You may not be\nable to undo these changes once\nthey have been made.\n\nPlease note that this operation\nmay take a little while."
+        "text": "Apply changes? You may not\nbe able to revert these changes\nonce they have been made.\n\nPlease note that this operation\nmay take a little while."
       }
     ],
     [],
@@ -44,7 +44,7 @@
     [
       {
         "label": "WindowConfirm_Draw_EraseAllConfirm_Ok",
-        "text": "Delete all"
+        "text": "Delete All"
       }
     ],
     [],
@@ -71,7 +71,7 @@
     [
       {
         "label": "WindowConfirm_Draw_TransformCancelConfirm_Cancel",
-        "text": "Go back"
+        "text": "Cancel"
       }
     ],
     [],
@@ -102,7 +102,7 @@
     [
       {
         "label": "WindowConfirm_Draw_TransformCancelConfirm",
-        "text": "Cancel your changes?"
+        "text": "Are you sure you want to exit\nwithout applying changes?"
       }
     ],
     [],
@@ -123,13 +123,13 @@
     [
       {
         "label": "WindowConfirm_Draw_TransformCancelConfirm_Ok",
-        "text": "Yes"
+        "text": "OK"
       }
     ],
     [
       {
         "label": "WindowConfirm_Draw_TransformConfirm_Cancel",
-        "text": "Cancel"
+        "text": "Don't Apply"
       }
     ],
     [],
@@ -140,7 +140,7 @@
     [
       {
         "label": "WindowWait_AccessResult_InvalidSound",
-        "text": "Could not load because\nNintendo 3DS Sound\ndata is invalid."
+        "text": "Could not load because of\ninvalid Nintendo 3DS Sound\ndata."
       }
     ],
     [],
@@ -152,7 +152,7 @@
     [
       {
         "label": "WindowConfirm_Draw_EraseAllConfirm",
-        "text": "Delete all pages of\nthe current flipnote?\n\nAll sound and 3D effects will\nalso be deleted."
+        "text": "Delete all pages of\nthe current Flipnote?\n\nSounds and 3D effects will\nalso be deleted."
       },
       {
         "label": "WindowConfirm_Draw_CameraError",
@@ -168,7 +168,7 @@
     [
       {
         "label": "WindowWait_Draw_TransformMemoryFull",
-        "text": "This flipnote has reached\nits size limit.\n\nYou cannot edit it any further."
+        "text": "This Flipnote is at the\nmaximum possible size.\n\nYou cannot edit it any further."
       }
     ],
     [],

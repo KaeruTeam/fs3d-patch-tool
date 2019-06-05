@@ -32,7 +32,7 @@
     [
       {
         "label": "WindowConfirm_FrameEdit_UnityPalette_LayerMode",
-        "text": "Apply this page's \npaper color and \ncolor palette settings \nto all other pages?"
+        "text": "Apply the colour and\npaper settings for this\npage to all other pages?"
       }
     ],
     [
@@ -50,7 +50,7 @@
     [
       {
         "label": "WindowConfirm_Save_IsQuit",
-        "text": "The flipnote has been edited.\nQuit without saving?"
+        "text": "This Flipnote has been edited.\nAre you sure you want to quit\nwithout saving?"
       }
     ],
     [],
@@ -61,7 +61,7 @@
     [
       {
         "label": "WindowConfirm_Memo_Over",
-        "text": "This folder is full of flipnotes.\n\nCannot save in this folder."
+        "text": "You cannot save the Flipnote\nhere because the folder is full."
       },
       {
         "label": "WindowConfirm_Initialize_PatchDownload_Ok",
@@ -77,7 +77,7 @@
     [
       {
         "label": "WindowConfirm_FrameEdit_UnityParallax",
-        "text": "Apply this page's\n3D settings to all \nother pages?"
+        "text": "Apply the 3D settings for this\npage to all other pages?"
       }
     ],
     [],
@@ -116,7 +116,7 @@
     [
       {
         "label": "WindowConfirm_Save_SD_InfoAvi",
-        "text": "Saved to the SD Card,\nin the location displayed\non the upper screen.\n\nYou can view the video with\nNintendo 3DS Camera."
+        "text": "Saved to the SD card,\nin the location displayed\non the upper screen.\n\nYou can view the video with\nNintendo 3DS Camera."
       }
     ],
     [],
@@ -124,7 +124,7 @@
     [
       {
         "label": "WindowConfirm_Save_SD_Info",
-        "text": "Saved to the SD Card. \nSee the upper screen for the \nfolder location."
+        "text": "Saved to the SD card,\nin the location displayed\non the upper screen."
       }
     ],
     [],
@@ -150,7 +150,7 @@
     [
       {
         "label": "WindowInfo_Title_Save_SD_Info",
-        "text": "Save location"
+        "text": "Save Location"
       }
     ],
     [],
@@ -176,11 +176,11 @@
     [
       {
         "label": "WindowConfirm_Save_IsQuit_Icon",
-        "text": "The icon has been edited.\nDo you want to discard changes\nand choose a different icon?"
+        "text": "Any changes you've made\nto the icon will be lost.\nAre you sure you want to\nexit without saving?"
       },
       {
         "label": "WindowConfirm_Initialize_SaveDataClear",
-        "text": "Reset user data?\n\nYour flipnotes will\nnot be deleted."
+        "text": "Reset user data?\n\nYour Flipnotes will\nnot be deleted."
       },
       {
         "label": "WindowConfirm_Save_MemoSave_Sns_Ok",
@@ -191,7 +191,7 @@
     [
       {
         "label": "WindowConfirm_Initialize_SaveDataClear_Ok",
-        "text": "Reset data"
+        "text": "Reset Data"
       }
     ],
     [],
@@ -208,7 +208,7 @@
     [
       {
         "label": "WindowConfirm_Save_IsQuit_Ok",
-        "text": "Quit"
+        "text": "I'm sure"
       }
     ],
     [
@@ -221,7 +221,7 @@
     [
       {
         "label": "WindowConfirm_Initialize_ClearSavedata",
-        "text": "If you continue, the save\ndata will be reset. Is this OK?\n\nNote: Original settings will\nbe restored. Your existing\nflipnotes will not be deleted."
+        "text": "If you continue, the save\ndata will be reset. Is this OK?\n\nNote: Original settings will\nbe restored. Your existing\nFlipnotes will not be deleted."
       }
     ],
     [],
@@ -236,7 +236,7 @@
     [
       {
         "label": "WindowConfirm_FrameEdit_UnityPalette_ColorMode",
-        "text": "Apply this page's \npaper color to all\nother pages?"
+        "text": "Apply the paper settings for\nthis page to all other pages?"
       }
     ],
     [],
@@ -248,11 +248,11 @@
       },
       {
         "label": "WindowConfirm_Initialize_SaveDataClear_Real_Ok",
-        "text": "Reset data"
+        "text": "Reset Data"
       },
       {
         "label": "WindowInfo_Title_Save_SD_InfoAvi",
-        "text": "Save location"
+        "text": "Save Location"
       },
       {
         "label": "WindowConfirm_Initialize_PatchDownload",
@@ -270,7 +270,7 @@
     [
       {
         "label": "WindowConfirm_Delete_Folder_Confirm",
-        "text": "Delete the folder and\nits contents?\n\nYou cannot recover deleted\nfolders or flipnotes."
+        "text": "Delete this folder and\nits contents?\n\nDeleted folders and Flipnotes\ncannot be recovered."
       },
       {
         "label": "WindowInfo_Title_Save_QrCode",
@@ -281,7 +281,7 @@
     [
       {
         "label": "WindowConfirm_Save_MemoSave_Sns",
-        "text": "This flipnote hasn't been\nsaved. Are you sure you\nwant to open the browser?\n\nNote: It's recommended to save\nyour flipnotes before using\nNintendo 3DS Image Share."
+        "text": "This Flipnote hasn't been\nsaved. Are you sure you\nwant to open the browser?\n\nNote: It's recommended to save\nyour Flipnotes before using\nNintendo 3DS Image Share."
       }
     ],
     [],
@@ -292,13 +292,13 @@
       },
       {
         "label": "WindowConfirm_Save_Browser_Sns",
-        "text": "In order to use Nintendo 3DS\nImage Share, the Internet\nbrowser must be opened.\n\nIs this OK?"
+        "text": "In order to use Nintendo 3DS\nImage Share, the internet\nbrowser must be opened.\n\nIs this OK?"
       }
     ],
     [
       {
         "label": "WindowConfirm_Delete_Memo_Confirm",
-        "text": "Delete the flipnote?\n\nDeleted flipnotes\ncannot be recovered."
+        "text": "Delete this Flipnote?\n\nDeleted Flipnotes\ncannot be recovered."
       }
     ],
     [],

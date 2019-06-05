@@ -44,14 +44,14 @@
     [
       {
         "label": "ColorSelects_TxtMergeBtA",
-        "text": "B + A Combination"
+        "text": "Merge B with A"
       }
     ],
     [],
     [
       {
         "label": "ColorSelects_TxtMergeBtC",
-        "text": "B + C Combination"
+        "text": "Merge B with C"
       }
     ],
     [],
@@ -101,7 +101,7 @@
     [
       {
         "label": "ColorSelects_TxtMergeA",
-        "text": "A + B + C Combination"
+        "text": "Merge B + C with A"
       },
       {
         "label": "ColorSelects_TxtBL",
@@ -111,13 +111,13 @@
     [
       {
         "label": "ColorSelects_TxtMergeB",
-        "text": "A + B + C Combination"
+        "text": "Merge A + C with B"
       }
     ],
     [
       {
         "label": "ColorSelects_TxtMergeC",
-        "text": "A + B + C Combination"
+        "text": "Merge A + B with C"
       }
     ],
     [],
@@ -135,13 +135,13 @@
     [
       {
         "label": "ColorSelects_TxtMergeCtA",
-        "text": "C + A Combination"
+        "text": "Merge C with A"
       }
     ],
     [
       {
         "label": "ColorSelects_TxtMergeCtB",
-        "text": "C + B Combination"
+        "text": "Merge C with B"
       }
     ],
     [],
@@ -153,13 +153,13 @@
     [
       {
         "label": "ColorSelects_TxtMergeAtB",
-        "text": "A + B Combination"
+        "text": "Merge A with B"
       }
     ],
     [
       {
         "label": "ColorSelects_TxtMergeAtC",
-        "text": "A + C Combination"
+        "text": "Merge A with C"
       }
     ],
     [],

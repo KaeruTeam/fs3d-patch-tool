@@ -8,83 +8,83 @@
     [
       {
         "label": "FrogMemo3D_10",
-        "text": "It looks like this.\n(Move the 3D depth slider up to view in 3D)"
+        "text": "(Move the 3D depth slider up\nto view the screen in 3D.)"
       },
       {
         "label": "FrogMemoLSift_1",
-        "text": "Ribbit!\nDo you know about\nthe L and R buttons?"
+        "text": "Ribbit! Do you know what the L Button does?"
       }
     ],
     [
       {
         "label": "FrogMemo3D_11",
-        "text": "Now, how can we\nuse this effect?"
+        "text": "Now, how can we use this effect?"
       },
       {
         "label": "FrogMemoLSift_2",
-        "text": "Hold the L Button...\n(or R Button if you're a lefty)"
+        "text": "Hold the L Button...\n(or R Button if you're left-handed)"
       }
     ],
     [
       {
         "label": "FrogMemo3D_12",
-        "text": "Let's make it smaller..."
+        "text": "Let's make this smaller..."
       },
       {
         "label": "FrogMemoLSift_3",
-        "text": "...to access\nextra options!"
+        "text": "...to access extra options!"
       }
     ],
     [
       {
         "label": "FrogMemo3D_13",
-        "text": "...and then make it bounce up."
+        "text": "...and make it bounce."
       },
       {
         "label": "FrogMemoLSift_4",
-        "text": "Give it a try! \nYou're sure to find \nsomething useful."
+        "text": "Give it a try! You're sure to find something useful."
       },
       {
         "label": "Bug",
-        "text": "Advanced Tools \nand 3D"
+        "text": "Advanced Tools\nand 3D"
       }
     ],
     [
       {
         "label": "FrogMemo3D_14",
-        "text": "BOING!"
+        "text": "BOING"
       },
       {
         "label": "FrogMemoLSift_5",
-        "text": "See ya later, alligator!"
+        "text": "Ta-ta!"
       }
     ],
     [
       {
         "label": "FrogMemo3D_15",
-        "text": "BOING!"
+        "text": "BOING"
       }
     ],
     [
       {
         "label": "FrogMemo3D_16",
-        "text": "Ta-da! It's a ball!"
+        "text": "Ta-da! It's a ball."
       }
     ],
     [
       {
         "label": "DotSheep",
-        "text": "Normal Tools\nL or R Button + ○\nMove, resize"
+        "text": "Normal Tools,\nL Button + ○ and\nTransform: Enlarge"
       },
       {
         "label": "FrogMemo3D_17",
-        "text": "Try it yourself!\nBut start with\nsomething easy."
+        "text": "Try it out! But start with something simple, OK?"
       }
     ],
     [
       {
         "label": "FrogMemo3D_18",
-        "text": "Be seeing you!"
+        "text": "See you later!"
       }
     ],
     [],
@@ -165,7 +165,7 @@
     [
       {
         "label": "ColorSample_1",
-        "text": "Flipnote Color Samples"
+        "text": "Flipnote Colour Palette"
       }
     ],
     [
@@ -209,25 +209,25 @@
     [
       {
         "label": "FrogMemoLayer_1",
-        "text": "Ribbit! \nWhat are the layers\nin Advanced Tools?"
+        "text": "Ribbit! What are the \"layers\" you get with advanced tools?"
       }
     ],
     [
       {
         "label": "FrogMemoLayer_2",
-        "text": "With Normal Tools..."
+        "text": "With normal tools..."
       }
     ],
     [
       {
         "label": "FrogMemoLayer_3",
-        "text": "...you draw on a single \npiece of paper."
+        "text": "...you draw on a single piece of paper."
       }
     ],
     [
       {
         "label": "FrogMemoLayer_4",
-        "text": "But with Advanced Tools..."
+        "text": "But with advanced tools..."
       }
     ],
     [
@@ -239,23 +239,23 @@
     [
       {
         "label": "FrogMemoLayer_6",
-        "text": "It's a bit more\ncomplicated."
+        "text": "It's a little more complicated."
       }
     ],
     [
       {
         "label": "FrogMemoLayer_7",
-        "text": "But it's really\nuseful once you \nget the hang of it."
+        "text": "But you'll find it handy once you get the hang of it."
       }
     ],
     [
       {
         "label": "FrogMemo3D_1",
-        "text": "Ribbit! \nWant to learn\nabout 3D animation?"
+        "text": "Ribbit! Want to know about 3D animations?"
       },
       {
         "label": "FrogMemoLayer_8",
-        "text": "Watch this..."
+        "text": "Watch this!"
       }
     ],
     [
@@ -265,7 +265,7 @@
       },
       {
         "label": "FrogMemoLayer_9",
-        "text": "You can make cool \n3D animations just \nby moving a layer."
+        "text": "You can make cool 3D animations just by moving a layer."
       }
     ],
     [
@@ -283,7 +283,7 @@
     [
       {
         "label": "FrogMemo3D_5",
-        "text": "Some images appear\nin the foreground..."
+        "text": "The picture can move forwards..."
       },
       {
         "label": "FrogMemoLayer_10",
@@ -293,7 +293,7 @@
     [
       {
         "label": "FrogMemo3D_6",
-        "text": "...and some appear\nin the background."
+        "text": "...and backwards."
       },
       {
         "label": "FrogMemoLayer_11",
@@ -303,19 +303,19 @@
     [
       {
         "label": "FrogMemo3D_7",
-        "text": "Tap 3D in the Tools menu."
+        "text": "To use 3D, touch the icon in the top right."
       }
     ],
     [
       {
         "label": "FrogMemo3D_8",
-        "text": "Use the slider to adjust the 3D depth."
+        "text": "Then move the slider to change the depth."
       }
     ],
     [
       {
         "label": "FrogMemo3D_9",
-        "text": "Let's look at it\nfrom the front."
+        "text": "Let's look at it from the front."
       }
     ],
     [],

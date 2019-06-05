@@ -87,14 +87,14 @@
     [
       {
         "label": "DepthEdit_TxtCenter",
-        "text": "Move to middle depth"
+        "text": "To the middle"
       }
     ],
     [],
     [
       {
         "label": "DepthEdit_TxtInner",
-        "text": "Move to background"
+        "text": "To the back"
       }
     ],
     [],
@@ -112,7 +112,7 @@
     [
       {
         "label": "DepthEdit_TxtNear",
-        "text": "Move to foreground"
+        "text": "To the front"
       }
     ],
     [],

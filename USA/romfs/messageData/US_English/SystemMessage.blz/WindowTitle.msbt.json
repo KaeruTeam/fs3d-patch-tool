@@ -7,7 +7,7 @@
     [
       {
         "label": "WindowInfo_Contents_RestrictPhoto",
-        "text": "The current Parental Controls settings\nrestrict the sharing of data that may\ncontain personal information, such as\nimages, audio, video, and long text data."
+        "text": "The current Parental Controls settings\nrestrict the sharing of data such\nas images, audio, video and long text."
       }
     ],
     [],
@@ -69,7 +69,7 @@
     [
       {
         "label": "WindowWait_MemoExchange_Restrict",
-        "text": "Data sharing is restricted by\nParental Controls, so it is\nnot possible to exchange\nflipnotes."
+        "text": "Data sharing is restricted by\nParental Controls, so it is\nnot possible to exchange\nFlipnotes."
       }
     ],
     [],

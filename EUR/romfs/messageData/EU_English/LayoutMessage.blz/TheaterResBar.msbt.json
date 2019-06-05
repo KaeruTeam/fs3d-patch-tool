@@ -7,7 +7,7 @@
     [
       {
         "label": "TheaterResBar_TxtCommentIcon",
-        "text": ""
+        "text": "Comments"
       }
     ],
     [],
@@ -102,7 +102,7 @@
     [
       {
         "label": "TheaterResBar_TxtCoinIcon",
-        "text": ""
+        "text": "Award Coin"
       }
     ],
     [],

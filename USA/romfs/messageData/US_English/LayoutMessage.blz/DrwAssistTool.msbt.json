@@ -6,7 +6,7 @@
     [
       {
         "label": "DrwAssistTool_TxtPaperColor",
-        "text": "Paper color"
+        "text": "Paper"
       }
     ],
     [],
@@ -19,7 +19,7 @@
     [
       {
         "label": "DrwAssistTool_TxtTrans",
-        "text": "Move, resize"
+        "text": "Transform"
       }
     ],
     [],
@@ -64,7 +64,7 @@
     [
       {
         "label": "DrwAssistTool_TxtSelect",
-        "text": "Select area"
+        "text": "Edit Area"
       }
     ],
     [],
@@ -73,7 +73,7 @@
     [
       {
         "label": "DrwAssistTool_TxtTrace",
-        "text": "Lightbox"
+        "text": "Trace"
       }
     ],
     [],
@@ -118,7 +118,7 @@
     [
       {
         "label": "DrwAssistTool_TxtRectangle",
-        "text": "Shapes, lines"
+        "text": "Shapes"
       }
     ],
     [],

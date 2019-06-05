@@ -40,7 +40,7 @@
     [
       {
         "label": "FrameEdit_TxtColor",
-        "text": "Apply color settings to all pages"
+        "text": "Use colour settings on all pages"
       }
     ],
     [],
@@ -138,7 +138,7 @@
       },
       {
         "label": "FrameEdit_TxtDepth",
-        "text": "Apply 3D settings to all pages"
+        "text": "Use 3D settings on all pages"
       }
     ],
     [

@@ -8,7 +8,7 @@
     [
       {
         "label": "WindowConfirm_Watch_InvalidMemo",
-        "text": "This flipnote is corrupted\nand will be deleted."
+        "text": "This Flipnote is corrupted\nand will be deleted."
       }
     ],
     [],
@@ -21,7 +21,7 @@
     [
       {
         "label": "WindowConfirm_Watch_InvalidIcon",
-        "text": "Some of the icon data is\ncorrupted and will be deleted."
+        "text": "Some icon data has been\ncorrupted. All corrupted\nicons will be deleted."
       }
     ],
     [],

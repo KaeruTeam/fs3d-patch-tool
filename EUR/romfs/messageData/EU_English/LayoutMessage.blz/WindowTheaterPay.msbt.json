@@ -13,7 +13,7 @@
     [
       {
         "label": "WindowTheaterPay_TxtStarCoin",
-        "text": ""
+        "text": "Star Coin"
       }
     ],
     [],
@@ -36,7 +36,7 @@
     [
       {
         "label": "WindowTheaterPay_TxtCancel",
-        "text": ""
+        "text": "Cancel"
       }
     ],
     [],
@@ -70,7 +70,7 @@
     [
       {
         "label": "WindowTheaterPay_TxtCoin",
-        "text": ""
+        "text": "Coin"
       }
     ],
     [],
@@ -88,7 +88,7 @@
     [
       {
         "label": "WindowTheaterPay_TxtOK",
-        "text": ""
+        "text": "OK"
       }
     ],
     [],
@@ -113,7 +113,7 @@
     [
       {
         "label": "WindowTheaterPay_TxtSecret",
-        "text": ""
+        "text": "Hide your name."
       }
     ],
     [],
@@ -126,7 +126,7 @@
     [
       {
         "label": "WindowTheaterPay_TxtMessage",
-        "text": ""
+        "text": "Award a Coin for\nan amazing Flipnote!"
       }
     ],
     [],

@@ -32,7 +32,7 @@
     [
       {
         "label": "SaveBar_TxtGIFAnimation",
-        "text": "Export as animated GIF"
+        "text": "Save as animated GIF"
       }
     ],
     [],
@@ -69,7 +69,7 @@
     [
       {
         "label": "SaveBar_TxtAVI",
-        "text": "Export as AVI"
+        "text": "Save as AVI"
       }
     ],
     [],
@@ -91,7 +91,7 @@
     [
       {
         "label": "SaveBar_TxtGIF",
-        "text": "Export as sequential GIFs"
+        "text": "Save as sequential GIFs"
       }
     ],
     [],
@@ -107,7 +107,7 @@
     [
       {
         "label": "SaveBar_TxtAnother",
-        "text": "Save as new flipnote"
+        "text": "Save as new Flipnote"
       }
     ],
     [],

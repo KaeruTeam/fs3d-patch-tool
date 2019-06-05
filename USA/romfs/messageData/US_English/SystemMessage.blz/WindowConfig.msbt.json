@@ -31,7 +31,7 @@
     [
       {
         "label": "WindowInfo_Contents_Config_Delete",
-        "text": "This will delete all flipnotes and\nfolders created with this software.\n\n(This may take a long time.)"
+        "text": "This will delete all Flipnotes and\nfolders created with this software.\n\n(This may take a long time.)"
       }
     ],
     [
@@ -52,19 +52,19 @@
     [
       {
         "label": "WindowConfirm_Config_AllDelete_Confirm_Ok",
-        "text": "Erase"
+        "text": "Delete"
       }
     ],
     [
       {
         "label": "WindowWait_Config_SampleCopy",
-        "text": "Copying sample flipnotes..."
+        "text": "Copying sample Flipnotes..."
       }
     ],
     [
       {
         "label": "WindowConfirm_Config_AllDelete_Ok",
-        "text": "Erase"
+        "text": "Delete"
       }
     ],
     [],
@@ -78,7 +78,7 @@
     [
       {
         "label": "WindowInfo_Title_Config_Sample",
-        "text": "Sample Flipnotes"
+        "text": "Samples"
       }
     ],
     [
@@ -98,13 +98,13 @@
     [
       {
         "label": "WindowInfo_Title_Config_Creator",
-        "text": "Creator Name"
+        "text": "User Name"
       }
     ],
     [
       {
         "label": "WindowInfo_Contents_Config_PenBox",
-        "text": "Select the normal or the advanced\ntool set for creating flipnotes.\n\nWith the advanced tools, you can\nuse up to three layers."
+        "text": "Select the normal or the advanced\ntool set for creating Flipnotes.\n\nWith the advanced tools, you can\nuse up to three layers."
       }
     ],
     [],
@@ -148,24 +148,24 @@
     [
       {
         "label": "WindowConfirm_Config_Frog_A",
-        "text": "On"
+        "text": "Display"
       }
     ],
     [
       {
         "label": "WindowInfo_Contents_Config_Hand",
-        "text": "Controls for creating flipnotes will be\nset up to suit the hand you use \nthe stylus with.\n\nPlease select your stylus hand."
+        "text": "Controls for creating Flipnotes will be\nmapped differently depending on which\nhand you use the stylus with.\n\nPlease select your stylus hand."
       },
       {
         "label": "WindowConfirm_Config_Frog_B",
-        "text": "Off"
+        "text": "Hide"
       }
     ],
     [],
     [
       {
         "label": "WindowConfirm_Config_Sample",
-        "text": "Copy sample flipnotes\nto the SD Card?"
+        "text": "Copy sample Flipnotes\nto the SD card?"
       }
     ],
     [],
@@ -181,7 +181,7 @@
     [
       {
         "label": "WindowInfo_Contents_Config_Sample",
-        "text": "Copy sample flipnotes \nto the Home folder.\n\nCopying will fail if there is not enough\nfree space on the SD Card."
+        "text": "Copy sample Flipnotes\nto the Home folder.\n\nCopying will fail if there is not enough\nfree space on the SD card."
       }
     ],
     [
@@ -193,19 +193,19 @@
     [
       {
         "label": "WindowConfirm_Config_AllDelete_Confirm",
-        "text": "Are you sure?\n\nYou cannot recover erased data."
+        "text": "Are you sure you want to\ndelete all your Flipnotes\nand folders?\n\nOnce this data is deleted,\nit cannot be recovered."
       }
     ],
     [
       {
         "label": "WindowInfo_Contents_Config_Creator",
-        "text": "Change your creator name.\n\nThe creator name is part of the\ndetailed information you can view \nabout a flipnote. "
+        "text": "Change your user name.\n\nYour user name is displayed in\nthe detailed information about your\nFlipnotes, among other places."
       }
     ],
     [
       {
         "label": "WindowInfo_Contents_Config_Se",
-        "text": "Turn the application sound\neffects on or off. "
+        "text": "Choose whether or not to have\nsound effects when drawing,\ntouching icons and so on."
       },
       {
         "label": "WindowConfirm_Config_PenBox_Title",
@@ -231,7 +231,7 @@
     [
       {
         "label": "WindowInfo_Title_Config_Delete",
-        "text": "Erase All Data"
+        "text": "Delete Flipnotes"
       }
     ],
     [],
@@ -244,13 +244,13 @@
     [
       {
         "label": "WindowConfirm_Config_AllDelete",
-        "text": "Do you want to erase?"
+        "text": "Do you want to delete\nFlipnotes and folders?"
       }
     ],
     [
       {
         "label": "WindowInfo_Contents_Config_Frog",
-        "text": "Choose whether to display\nthe frog icon on the bottom left \nof the Touch Screen while\ncreating flipnotes."
+        "text": "Choose whether or not to\ndisplay the frog icon on the\nbottom-left of the Touch Screen\nwhile creating Flipnotes."
       }
     ],
     [],
@@ -278,7 +278,7 @@
     [
       {
         "label": "WindowWait_Config_SampleCopy_End",
-        "text": "You can view the sample \nflipnotes in the Home folder\nin the View menu."
+        "text": "Sample Flipnotes have been\ncopied to the Home folder."
       }
     ]
   ]

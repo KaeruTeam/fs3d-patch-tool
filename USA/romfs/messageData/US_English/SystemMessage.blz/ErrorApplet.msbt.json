@@ -3,7 +3,7 @@
     [
       {
         "label": "ErrorApplet_Sound_ImportError",
-        "text": "Failed to load data for\nNintendo 3DS Sound."
+        "text": "Failed to load data from\nNintendo 3DS Sound."
       }
     ],
     [],
@@ -21,7 +21,7 @@
     [
       {
         "label": "ErrorApplet_CreateSystemFolder_ErrorFailure",
-        "text": "Could not create folder because the\nSD Card could not be accessed.\n\nPress  to return to the HOME Menu."
+        "text": "Could not create folder because the\nSD card could not be accessed.\n\nPress  to return to the HOME Menu."
       }
     ],
     [],
@@ -37,11 +37,11 @@
     [
       {
         "label": "ErrorApplet_Ecdk_IndicatesServiceNotAvailable",
-        "text": "Cannot access Nintendo eShop.\nPlease wait for a while and try again."
+        "text": "Cannot access Nintendo eShop.\nPlease wait a while and try again."
       },
       {
         "label": "ErrorApplet_Ecdk_SessionInvalid",
-        "text": "Unable to connect.\n\nPlease wait awhile and try again."
+        "text": "Unable to establish a connection.\n\nPlease wait a while and try again."
       }
     ],
     [],
@@ -62,7 +62,7 @@
     [
       {
         "label": "ErrorApplet_AccessSdCard_ErrorFailure",
-        "text": "Could not access the SD Card.\n\nPress  to return to the HOME Menu."
+        "text": "Could not access the SD card.\n\nPress  to return to the HOME Menu."
       }
     ],
     [],
@@ -78,7 +78,7 @@
     [
       {
         "label": "ErrorApplet_CreateSystemFolder_ErrorNothingFreeSpace",
-        "text": "Could not create folder because\nthere is not enough free space \non the SD Card.\n\nPress  to return to the HOME Menu."
+        "text": "Could not create folder because\nthere is not enough free space \non the SD card.\n\nPress  to return to the HOME Menu."
       }
     ],
     [],

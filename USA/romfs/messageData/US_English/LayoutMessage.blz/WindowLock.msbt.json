@@ -81,7 +81,7 @@
     [
       {
         "label": "WindowLock_TxtGSubjectA",
-        "text": ""
+        "text": "Don't Lock"
       }
     ],
     [
@@ -91,7 +91,7 @@
       },
       {
         "label": "WindowLock_TxtGSubjectB",
-        "text": ""
+        "text": "Lock"
       }
     ],
     [],

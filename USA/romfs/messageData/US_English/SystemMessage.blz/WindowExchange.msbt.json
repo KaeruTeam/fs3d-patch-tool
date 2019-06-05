@@ -7,15 +7,15 @@
     [
       {
         "label": "WindowWait_MemoExchange_ReadyWait",
-        "text": "Waiting for the other person\nto get ready."
+        "text": "Waiting for the other user..."
       },
       {
         "label": "WindowWait_MemoExchange_Send_Failure",
-        "text": "Could not send flipnote."
+        "text": "Could not send Flipnote."
       },
       {
         "label": "ExchangeUpper_TxtSetContents_Wait",
-        "text": "Waiting to exchange..."
+        "text": "Please wait..."
       }
     ],
     [],
@@ -26,7 +26,7 @@
     [
       {
         "label": "WindowInfo_Title_Exchange_Top",
-        "text": "Exchange Flipnote"
+        "text": "Exchange Flipnotes"
       },
       {
         "label": "WindowConfirm_MemoExchange_Connect_Cancel",
@@ -34,11 +34,11 @@
       },
       {
         "label": "ExchangeUpper_TxtSetContents_Receive",
-        "text": "Select the folder to put the \nreceived flipnote into, and tap\nReceive to get ready."
+        "text": "Select the destination folder\nand touch Receive."
       },
       {
         "label": "WindowWait_MemoExchange_Disconnect_Report",
-        "text": "Disconnected because\nthe other person quit."
+        "text": "The other user has\ndisconnected."
       }
     ],
     [],
@@ -46,13 +46,13 @@
     [
       {
         "label": "WindowConfirm_MemoExchange_Disconnect",
-        "text": "Connection will be canceled.\n\nAre you sure?"
+        "text": "Disconnect from other user?"
       }
     ],
     [
       {
         "label": "WindowWait_MemoExchange_FullFolder",
-        "text": "This folder is full of\nflipnotes.\n\nSelect another folder."
+        "text": "This folder is full.\n\nPlease select another folder."
       }
     ],
     [],
@@ -79,17 +79,17 @@
     [
       {
         "label": "WindowWait_MemoExchange_Receive_Failure",
-        "text": "Could not receive the flipnote."
+        "text": "Could not receive Flipnote."
       }
     ],
     [
       {
         "label": "WindowWait_MemoExchange",
-        "text": "Looking for someone\nto connect with."
+        "text": "Searching for users..."
       },
       {
         "label": "ExchangeUpper_TxtSetContents_Send_L",
-        "text": "Select a flipnote and tap Send.\nHold the R Button to select\nseveral flipnotes at once."
+        "text": "Select a Flipnote and touch Send.\nHold the R Button to select\nseveral Flipnotes at once."
       }
     ],
     [],
@@ -100,7 +100,7 @@
     [
       {
         "label": "WindowWait_MemoExchange_ReturnTopmenu_Wait",
-        "text": "Please wait a moment..."
+        "text": "Please wait..."
       }
     ],
     [],
@@ -116,7 +116,7 @@
     [
       {
         "label": "ExchangeUpper_TxtConnect_Connect",
-        "text": "Connected"
+        "text": "Connected to"
       }
     ],
     [],
@@ -124,7 +124,7 @@
     [
       {
         "label": "WindowWait_MemoExchange_ChangeFolder",
-        "text": "This folder is full of\nflipnotes.\n\nSelect another folder."
+        "text": "This folder is full.\n\nPlease select another folder."
       }
     ],
     [],
@@ -134,7 +134,7 @@
     [
       {
         "label": "ExchangeUpper_TxtSetTitle_Send",
-        "text": "Send Flipnote"
+        "text": "Send Flipnotes"
       }
     ],
     [],
@@ -142,7 +142,7 @@
     [
       {
         "label": "WindowWait_MemoExchange_Receive_Success_plural",
-        "text": "Received flipnotes."
+        "text": "Flipnotes have been saved."
       }
     ],
     [],
@@ -151,7 +151,7 @@
     [
       {
         "label": "WindowInfo_Contents_Exchange_Agreement",
-        "text": "Do not send flipnotes that are offensive.\nBy sending a flipnote, you confirm\nthat you have obtained all necessary\nrights to transmit the images, music, or\nother material that may be contained in \nthis flipnote. You also agree that unlocked\nflipnotes may be edited or posted to the\nInternet by the receiver or by a third party."
+        "text": "Do not send Flipnotes that are illegal,\noffensive or could infringe on the rights\nof others. By sending a Flipnote, you\nconfirm that you have obtained all\nnecessary rights and permissions from\nthird parties. You also agree that unlocked\nFlipnotes may be edited, posted to the\ninternet or further shared with third parties."
       },
       {
         "label": "WindowWait_MemoExchange_Receive_CancelButton",
@@ -161,31 +161,31 @@
     [
       {
         "label": "WindowWait_MemoExchange_PreReceive",
-        "text": "Receiving and saving flipnote...\n(This may take a while.)"
+        "text": "Receiving...\n(This may take a while.)"
       }
     ],
     [
       {
         "label": "ExchangeUpper_TxtSetContents_Send",
-        "text": "Select a flipnote and tap Send.\nHold the L Button to select\nseveral flipnotes at once."
+        "text": "Select a Flipnote and touch Send.\nHold the L Button to select\nseveral Flipnotes at once."
       }
     ],
     [],
     [
       {
         "label": "WindowInfo_Contents_Exchange_Top",
-        "text": "If you close the system or open \nthe HOME Menu during the exchange,\nyou will be disconnected from the\nother user, so please be careful."
+        "text": "If you close the system or open\nthe HOME Menu during exchange,\nyou will be disconnected from the\nother user, so please be careful."
       },
       {
         "label": "WindowWait_MemoExchange_Cancel",
-        "text": "Canceled."
+        "text": "Cancelled."
       }
     ],
     [],
     [
       {
         "label": "WindowWait_MemoExchange_Receive_Failure_plural",
-        "text": "Could not receive flipnotes."
+        "text": "Could not receive Flipnotes."
       }
     ],
     [
@@ -209,7 +209,7 @@
     [
       {
         "label": "WindowConfirm_MemoExchange_Agreement",
-        "text": "Please read the message\non the upper screen before\nusing this feature."
+        "text": "Please read the information\non the upper screen before\nproceeding."
       }
     ],
     [],
@@ -243,7 +243,7 @@
     [
       {
         "label": "WindowWait_MemoExchange_Send_Failure_plural",
-        "text": "Could not send flipnotes."
+        "text": "Could not send Flipnotes."
       }
     ],
     [],
@@ -253,20 +253,20 @@
     [
       {
         "label": "ExchangeUpper_TxtSetTitle_Receive",
-        "text": "Receive Flipnote"
+        "text": "Receive Flipnotes"
       }
     ],
     [
       {
         "label": "WindowWait_MemoExchange_Send",
-        "text": "Sending flipnote...\n(This may take a while.)\n\u000e\u0001"
+        "text": "Sending Flipnote \u000e\u0001"
       }
     ],
     [],
     [
       {
         "label": "WindowWait_MemoExchange_Receive",
-        "text": "Receiving and saving flipnote...\n(This may take a while.)\n\u000e\u0001"
+        "text": "Receiving Flipnote \u000e\u0001"
       }
     ],
     [],
@@ -274,24 +274,24 @@
     [
       {
         "label": "WindowWait_MemoExchange_StartWirelessOff",
-        "text": "To exchange flipnotes, you must \nenable wireless communication. "
+        "text": "To perform an exchange,\nyou must enable wireless\ncommunication."
       }
     ],
     [
       {
         "label": "WindowWait_MemoExchange_Receive_Success",
-        "text": "Received flipnote."
+        "text": "Flipnote has been saved."
       },
       {
         "label": "WindowWait_MemoExchange_Send_InvalidMemo",
-        "text": "Stopped sending the flipnote\nbecause the selected flipnote\nis corrupted."
+        "text": "The transfer could not be\ncompleted because some\nFlipnote data is corrupted."
       }
     ],
     [],
     [
       {
         "label": "WindowWait_MemoExchange_ErrorNothingPartner",
-        "text": "Could not find anyone \nto connect with."
+        "text": "Could not connect to\nthe other user."
       }
     ],
     [],
@@ -300,13 +300,13 @@
     [
       {
         "label": "WindowWait_MemoExchange_Receive_MemoFileCrached",
-        "text": "Did not save because\nthe flipnote received \nwas corrupted."
+        "text": "The transfer could not be\ncompleted because some\nFlipnote data is corrupted."
       }
     ],
     [
       {
         "label": "WindowInfo_Title_Exchange_Agreement",
-        "text": "Caution"
+        "text": "Caution!"
       },
       {
         "label": "ExchangeUpper_TxtConnect_Disconnect",

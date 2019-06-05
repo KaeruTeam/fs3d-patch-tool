@@ -6,7 +6,7 @@
     [
       {
         "label": "MemoDetail_TxtOrigin",
-        "text": "Original creator"
+        "text": "Original Creator"
       }
     ],
     [],
@@ -28,7 +28,7 @@
     [
       {
         "label": "MemoDetail_TxtMemory",
-        "text": "Memory used"
+        "text": "Memory Used"
       }
     ],
     [],
@@ -107,7 +107,7 @@
     [
       {
         "label": "MemoDetail_TxtUpdate",
-        "text": "Last updated"
+        "text": "Last Updated"
       }
     ],
     [],

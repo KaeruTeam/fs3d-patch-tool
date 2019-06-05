@@ -7,7 +7,7 @@
     [
       {
         "label": "ConfigMenu_Frog_Off",
-        "text": "Off"
+        "text": "Hide"
       }
     ],
     [],
@@ -50,7 +50,7 @@
     [
       {
         "label": "ConfigMenu_Frog_On",
-        "text": "On"
+        "text": "Display"
       }
     ],
     [],

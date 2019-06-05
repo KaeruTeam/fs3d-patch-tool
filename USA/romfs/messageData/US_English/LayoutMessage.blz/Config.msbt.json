@@ -41,7 +41,7 @@
     [
       {
         "label": "Config_TxtNameT",
-        "text": "Creator Name"
+        "text": "User Name"
       }
     ],
     [],
@@ -49,7 +49,7 @@
     [
       {
         "label": "Config_TxtAllClear",
-        "text": "Delete All Data"
+        "text": "Delete Flipnotes"
       }
     ],
     [],

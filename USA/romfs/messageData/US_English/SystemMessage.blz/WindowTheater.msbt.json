@@ -14,7 +14,7 @@
     [
       {
         "label": "WindowWait_Theater_Reboot",
-        "text": "The newest version of Flipnote\nStudio 3D has been downloaded.\n\nThe software will now restart."
+        "text": "The newest version of\nFlipnote Studio 3D has\nbeen downloaded.\n\nThe software will now restart."
       },
       {
         "label": "WindowWait_Theater_QrCode_Read_Failed",
@@ -76,12 +76,7 @@
     [],
     [],
     [],
-    [
-      {
-        "label": "WindowWait_Theater_Post_Memo_Violation",
-        "text": ""
-      }
-    ],
+    [],
     [],
     [
       {
@@ -103,12 +98,7 @@
       }
     ],
     [],
-    [
-      {
-        "label": "WindowWait_Theater_Prepare_Post_Memo",
-        "text": ""
-      }
-    ],
+    [],
     [],
     [],
     [],
@@ -228,12 +218,7 @@
     [],
     [],
     [],
-    [
-      {
-        "label": "WindowWait_Theater_Prepare_Post_Memo_CancelButton",
-        "text": ""
-      }
-    ],
+    [],
     [],
     [],
     [],
@@ -243,7 +228,7 @@
     [
       {
         "label": "WindowConfirm_Theater_ReturnTitle",
-        "text": "An error has occurred.\nReturn to the main menu?"
+        "text": "An error has occurred.\nReturn to the title screen?"
       },
       {
         "label": "WindowConfirm_Theater_QrCode_Create_Ok",

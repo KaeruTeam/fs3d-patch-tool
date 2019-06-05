@@ -30,25 +30,25 @@
     [
       {
         "label": "SoundSequencer_TxtSE1",
-        "text": "SE1"
+        "text": "1"
       }
     ],
     [
       {
         "label": "SoundSequencer_TxtSE2",
-        "text": "SE2"
+        "text": "2"
       }
     ],
     [
       {
         "label": "SoundSequencer_TxtSE3",
-        "text": "SE3"
+        "text": "3"
       }
     ],
     [
       {
         "label": "SoundSequencer_TxtSE4",
-        "text": "SE4"
+        "text": "4"
       }
     ],
     [],

@@ -89,7 +89,7 @@
     [
       {
         "label": "MemoryBar_TxtMemorySpace",
-        "text": "Remaining memory"
+        "text": "Memory left"
       }
     ],
     [],

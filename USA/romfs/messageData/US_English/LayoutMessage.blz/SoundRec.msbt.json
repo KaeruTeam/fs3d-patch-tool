@@ -27,25 +27,25 @@
     [
       {
         "label": "SoundRec_TxtSE1",
-        "text": "Sound Effect 1"
+        "text": "Sound 1"
       }
     ],
     [
       {
         "label": "SoundRec_TxtSE2",
-        "text": "Sound Effect 2"
+        "text": "Sound 2"
       }
     ],
     [
       {
         "label": "SoundRec_TxtSE3",
-        "text": "Sound Effect 3"
+        "text": "Sound 3"
       }
     ],
     [
       {
         "label": "SoundRec_TxtSE4",
-        "text": "Sound Effect 4"
+        "text": "Sound 4"
       }
     ],
     [],
@@ -54,7 +54,7 @@
     [
       {
         "label": "SoundRec_TxtSE1Rec",
-        "text": "Sound Effect 1"
+        "text": "Sound 1"
       }
     ],
     [],
@@ -97,7 +97,7 @@
     [
       {
         "label": "SoundRec_TxtSE3Rec",
-        "text": "Sound Effect 3"
+        "text": "Sound 3"
       }
     ],
     [],
@@ -139,7 +139,7 @@
     [
       {
         "label": "SoundRec_TxtSE2Rec",
-        "text": "Sound Effect 2"
+        "text": "Sound 2"
       },
       {
         "label": "SoundRec_TxtKey3L",
@@ -202,7 +202,7 @@
     [
       {
         "label": "SoundRec_TxtSE4Rec",
-        "text": "Sound Effect 4"
+        "text": "Sound 4"
       }
     ],
     [],

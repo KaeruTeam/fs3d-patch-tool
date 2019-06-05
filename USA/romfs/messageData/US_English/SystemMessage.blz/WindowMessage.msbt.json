@@ -3,7 +3,7 @@
     [
       {
         "label": "WindowMessage_DefaultOk",
-        "text": "Yes"
+        "text": "OK"
       }
     ],
     [],
@@ -111,7 +111,7 @@
     [
       {
         "label": "WindowLock_TxtSetContents_plural",
-        "text": "Lock these flipnotes?"
+        "text": "Lock these Flipnotes?"
       }
     ],
     [],
@@ -130,7 +130,7 @@
     [
       {
         "label": "WindowLock_TxtSetContents",
-        "text": "Lock the flipnote?"
+        "text": "Lock the Flipnote?"
       }
     ],
     [],

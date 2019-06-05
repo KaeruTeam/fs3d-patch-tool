@@ -54,7 +54,7 @@
     [
       {
         "label": "KeyboardApplet_TextCheck_NgWord",
-        "text": "This word can't be used."
+        "text": "This contains inappropriate\nlanguage and cannot be used."
       }
     ],
     [],
@@ -107,7 +107,7 @@
     [
       {
         "label": "KeyboardApplet_TextCheck_NgFolder",
-        "text": "Cannot be used \nas a folder name."
+        "text": "This cannot be used as a\nfolder name."
       }
     ],
     [],
